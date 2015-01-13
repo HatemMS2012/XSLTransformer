@@ -23,8 +23,8 @@
 			<h1>XSLT-based Transformer</h1>
 		</div>
 		<p class="lead">
-			This simple webpage can be used to convert an XML from one schema to anther schema based 
-			on a given XSLT transfomration schema 
+			This simple webpage can be used to convert an XML from one schema to another using 
+			XSLT transfomration schema 
 			
 		<form class="form-horizontal" action="uploader.php" method="post" enctype="multipart/form-data">
 			<div class="control-group">
