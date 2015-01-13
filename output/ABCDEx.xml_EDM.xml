@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:enrichment="http://www.europeana.eu/schemas/edm/enrichment/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:wgs84="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# C:/Development/EDMtoABCD/EDM/EDM.xsd">
+  <edm:ProvidedCHO>
+    <dc:contributor>B Another</dc:contributor>
+    <dc:source>PonTaurus collection</dc:source>
+    <dc:title>Acantholimon lycaonicum Boiss. &amp; Heldr.</dc:title>
+    <dc:type>PreservedSpecimen</dc:type>
+    <dcterms:spatial>2620</dcterms:spatial>
+    <dcterms:spatial>Turkey</dcterms:spatial>
+    <dcterms:spatial>N</dcterms:spatial>
+    <dcterms:spatial>meter</dcterms:spatial>
+  </edm:ProvidedCHO>
+  <edm:WebResource/>
+  <edm:Agent>
+    <dc:identifier>BGBM</dc:identifier>
+    <dc:identifier>1136</dc:identifier>
+    <dc:identifier>PonTaurus</dc:identifier>
+  </edm:Agent>
+  <ore:Aggregation/>
+</RDF>
