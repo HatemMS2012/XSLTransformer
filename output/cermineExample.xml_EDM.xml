@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add>
+  <doc>
+    <field name="article-title">Improving SURF Image Matching Using Supervised Learning</field>
+    <field name="author">Hatem Mousselly Sergieh</field>
+    <field name="author">El o¨d Egyed-Zsigmond</field>
+    <field name="author">Mario D o¨llery</field>
+    <field name="author">David Coquily</field>
+    <field name="author">Jean-Marie Pinon</field>
+    <field name="author">Harald Koschy INSA de Lyon</field>
+    <field name="author">Avenue Jean-Capelle</field>
+    <field name="author">Villeurbanne</field>
+    <field name="author">France Email:(firstname.lastname)@insa-lyon.fr yUniversita¨t Passau Innstrasse</field>
+    <field name="author">Passau</field>
+    <field name="author">Germany Email:(firstname.lastname)@uni-passau.de</field>
+    <field name="reference">[1] D. G. Lowe , “ Distinctive image features from scale-invariant keypoints,” Int . J. Comput . Vision , vol. 60 , no. 2 , pp. 91 – 110 , Nov. 2004 .</field>
+    <field name="reference">[2] H. Bay , A. Ess , T. Tuytelaars , and L. Van Gool , “Speeded-up robust features (surf) , ” Computer vision and image understanding , vol. 110 , no. 3 , pp. 346 – 359 , 2008 .</field>
+    <field name="reference">[3] J. J. Foo and R. Sinha , “ Pruning sift for scalable near-duplicate image matching,” in Proceedings of the eighteenth conference on Australasian database - Volume 63 , 2007 , pp. 63 – 71 .</field>
+    <field name="reference">[4] V. Pimenov , “ Fast image matching with visual attention and surf descriptors,” in Proceedings of the 19th International Conference on Computer Graphics and Vision , 2009 , pp. 49 – 56 .</field>
+    <field name="reference">[5] Y. Ke , R. Sukthankar , and L. Huston , “ An efﬁcient parts-based near- duplicate and sub-image retrieval system ,” in Proceedings of the 12th annual ACM international conference on Multimedia. ACM , 2004 .</field>
+    <field name="reference">[6] W. Dong , Z. Wang , M. Charikar , and K. Li , “High-conﬁdence near- duplicate image detection,” in Proceedings of the 2nd ACM International Conference on Multimedia Retrieval. ACM , 2012 , pp. 1 : 1 – 1 : 8 .</field>
+    <field name="reference">[7] L. Juan and O. Gwun , “A comparison of sift, pca-sift and surf,” International Journal of Image Processing (IJIP) , vol. 3 , no. 4 , 2009 .</field>
+    <field name="reference">[8] L. Breiman , “Random forests,” Mach. Learn., vol. 45 , no. 1 , Oct . 2001 .</field>
+    <field name="reference">[9] F. Lo `pez-Garc ´ıa, X. R. Fdez-Vidal , X. M. Pardo , and R. Dosil , Scene Recognition through Visual Attention and Image Features : A Compari- son between SIFT and SURF Approaches. InTech , 2011 , pp. 185 – 198 .</field>
+    <field name="reference">[10] S. Chen , C. dong Wu , X. sheng Yu, and D. yue Chen, “ Fast scene recognition based on saliency region and surf,” in Intelligent Control and Information Processing (ICICIP) , 2011 2nd International Conference on, vol. 2 , july 2011 , pp. 863 – 866 .</field>
+    <field name="reference">[11] L. Itti , C. Koch , and E. Niebur , “A model of saliency-based visual atten- tion for rapid scene analysis , ” Pattern Analysis and Machine Intelligence, IEEE Transactions on , vol. 20 , no. 11 , pp. 1254 – 1259 , 1998 .</field>
+    <field name="reference">[12] D. Nister and H. Stewenius , “ Scalable recognition with a vocabulary tree,” in Proceedings of the 2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition - Volume 2 , 2006 .</field>
+    <field name="reference">[13] J. Philbin , O. Chum , M. Isard , J. Sivic, and A. Zisserman , “ Object retrieval with large vocabularies and fast spatial matching ,” in Computer Vision and Pattern Recognition , 2007 . CVPR’07. IEEE Conference on. IEEE , 2007 , pp. 1 – 8 .</field>
+    <field name="reference">[14] P. Turcot and D. Lowe , “ Better matching with fewer features: The selection of useful features in large database recognition problems,” in Computer Vision Workshops (ICCV Workshops) , 2009 IEEE 12th International Conference on . IEEE , 2009 , pp. 2109 – 2116 .</field>
+    <field name="reference">[15] V. Lepetit and P. Fua , “ Keypoint recognition using randomized trees ,” Pattern Analysis and Machine Intelligence, IEEE Transactions on , vol. 28 , no. 9 , pp. 1465 – 1479 , sept. 2006 .</field>
+    <field name="reference">[16] M. Ozuysal , M. Calonder , V. Lepetit , and P. Fua , “ Fast keypoint recog- nition using random ferns ,” Pattern Analysis and Machine Intelligence, IEEE Transactions on , vol. 32 , no. 3 , pp. 448 – 461 , march 2010 .</field>
+    <field name="reference">[17] M. Calonder , V. Lepetit , and P. Fua , “ Keypoint signatures for fast learn- ing and recognition,” in Proceedings of the 10th European Conference on Computer Vision: Part I , ser. ECCV ’08 . Springer-Verlag, 2008 .</field>
+    <field name="reference">[18] F. Provost , “ Machine learning from imbalanced data sets 101,” in Proceedings of the AAAI2000 Workshop on Imbalanced Data Sets , 2000 .</field>
+    <field name="reference">[19] H. Liu and H. Motoda , Computational Methods of Feature Selection (Chapman &amp; Hall/Crc Data Mining and Knowledge Discovery Series). Chapman &amp; Hall/CRC , 2007 .</field>
+    <field name="reference">[20] S. A. Chatzichristoﬁs and Y. S. Boutalis , “ Cedd: color and edge direc- tivity descriptor: a compact descriptor for image indexing and retrieval,” in Proceedings of the 6th international conference on Computer vision systems, ser . ICVS’08 . Springer-Verlag, 2008 , pp. 312 – 322 .</field>
+    <field name="reference">[21] S. Chatzichristoﬁs and Y. Boutalis , “Fcth: Fuzzy color and texture histogram - a low level feature for accurate image retrieval,” in Image Analysis for Multimedia Interactive Services , 2008 . WIAMIS ’08. Ninth International Workshop on, may 2008 , pp. 191 – 196 .</field>
+    <field name="reference">[22] S. Chatzichristoﬁs , Y. Boutalis , and M. Lux , “ Selection of the proper compact composite descriptor for improving content based image re- trieval,” in Signal Processing, Pattern Recognition and App ., 2009 .</field>
+    <field name="reference">[23] L. Rokach and O. Maimon , “Top-down induction of decision trees clas- siﬁers - a survey ,” Systems, Man, and Cybernetics, Part C : Applications and Reviews, IEEE Transactions on , vol. 35 , no. 4 , nov. 2005 .</field>
+    <field name="reference">[24] C. Koch and S. Ullman , “ Shifts in selective visual attention: towards the underlying neural circuitry .” Hum Neurobiol , vol. 4 , no. 4 , 1985 .</field>
+    <field name="abstract">-Keypoints-based image matching algorithms have proven very successful in recent years. However, their execution time makes them unsuitable for online applications. Indeed, identifying similar keypoints requires comparing a large number of high dimensional descriptor vectors. Previous work has shown that matching could be still accurately performed when only considering a few highly significant keypoints. In this paper, we investigate reducing the number of generated SURF features to speed up image matching while maintaining the matching recall at a high level. We propose a machine learning approach that uses a binary classifier to identify keypoints that are useful for the matching process. Furthermore, we compare the proposed approach to another method for keypoint pruning based on saliency maps. The two approaches are evaluated using ground truth datasets. The evaluation shows that the proposed classification-based approach outperforms the adversary in terms of the trade-off between the matching recall and the percentage of reduced keypoints. Additionally, the evaluation demonstrates the ability of the proposed approach of effectively reducing the matching runtime.</field>
+  </doc>
+</add>
