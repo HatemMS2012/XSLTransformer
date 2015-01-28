@@ -9,6 +9,6 @@ At the home page you can upload your "XSLT" transformation schema and your sourc
 By clicking the convert button the source XML is converted and a screen apears where you can download/view the converted file in addition to the source XML and XSLT file (See below):
 
 
-![Conversion results](screenshots/result.png)
+![Conversion results](screenshots/results.png)
 
-To test the application, sample XML and XSLT files are provied in the ![Examples](examples/) folder.
+To test the application, sample XML and XSLT files are provied in the [Examples]:<examples/> folder.
