@@ -11,4 +11,4 @@ By clicking the convert button the source XML is converted and a screen apears w
 
 ![Conversion results](screenshots/results.png)
 
-To test the application, sample XML and XSLT files are provied in the [Examples]:<examples/> folder.
+To test the application, sample XML and XSLT files are provied in the [Examples](examples/) folder.
