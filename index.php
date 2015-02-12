@@ -28,13 +28,43 @@
 			
 		<form class="form-horizontal" action="uploader.php" method="post" enctype="multipart/form-data">
 			<div class="control-group">
-				<label class="control-label" for="uploadedXSLTFile">Upload XSLT</label>
+				<label class="control-label" for="selectXSLTFile">Select an XSLT file</label>
+				<div class="controls">
+					<select id="selectedXSLTFile" name="selectedXSLTFile">
+						<option value = "no">Select an XSLT file</option>";
+						<?php
+						//Upload available XSLT files
+							$directory = 'xslts/';
+							
+							$it = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($directory));
+							
+							while($it->valid()) {
+							
+							    if (!$it->isDot()) {
+							    	
+							    	if(substr($it->getSubPathName(), -5) == ".xslt") {
+							   
+							        	echo "<option value =". $it->key().">" . $it->getSubPathName() . "</option>";
+							    	}
+							    }
+							
+							    $it->next();
+							}
+							
+							?>
+					
+					</select>
+				</div>
+			</div>
+		
+			<div class="control-group">
+				<label class="control-label" for="uploadedXSLTFile">Or upload a new XSLT</label>
 				<div class="controls">
 					<input type="file" id="uploadedXSLTFile" name="uploadedXSLTFile" size="150" />
 				</div>
 			</div>
 			<div class="control-group">
-				<label class="control-label" for="uploadedfile">Upload XML</label>
+				<label class="control-label" for="uploadedfile">Upload your XML</label>
 				<div class="controls">
 					<input type="file" id="uploadedfile" name="uploadedfile" size="150" />
 				</div>
