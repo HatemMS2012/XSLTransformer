@@ -3599,7 +3599,7 @@ http://www.altova.com/mapforce
 	</xsl:template>
 	<xsl:template match="/">
 		<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:enrichment="http://www.europeana.eu/schemas/edm/enrichment/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:wgs84="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
-			<xsl:attribute name="xsi:schemaLocation" namespace="http://www.w3.org/2001/XMLSchema-instance">http://www.w3.org/1999/02/22-rdf-syntax-ns# C:/Development/EDMtoABCD/EDM/EDM.xsd</xsl:attribute>
+			<xsl:attribute name="xsi:schemaLocation" namespace="http://www.w3.org/2001/XMLSchema-instance">http://www.w3.org/1999/02/22-rdf-syntax-ns# </xsl:attribute>
 			<edm:ProvidedCHO>
 				<xsl:for-each select="ns0:DataSets">
 					<xsl:call-template name="agt:MapToEDM_var14_resultof_map">
