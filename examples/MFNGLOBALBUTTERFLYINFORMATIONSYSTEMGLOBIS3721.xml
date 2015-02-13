@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<regnet-document xmlns:abcdefg="http://www.synthesys.info/ABCDEFG/1.0" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:wgs84="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:europeana="http://www.europeana.eu/schemas/ese/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" version="1.0">
+   <section name="EDM">
+      <edm:ProvidedCHO rdf:about="GLOBIS:MFN:GERMANY/3721">
+         <dc:identifier>MfN - Global Butterfly Information System (GloBIS) - 3721</dc:identifier>
+         <dc:title>Troides andromache (Staudinger, 1892)</dc:title>
+         <dc:description>Current type depository: MFNB, Berlin // Cited type material: wurde von Herrn I. Waterstradt in einem ganz reinen [m] und 5 [ff], von denen 2 ganz frisch sind, im nordöstlichen Borneo entdeckt. // Other remarks:</dc:description>
+         <dc:description>Syntype(s)</dc:description>
+         <dc:date>1892 (identification)</dc:date>
+         <dc:source>Global Butterfly Information System (GloBIS)</dc:source>
+         <dc:relation>http://www.biodiversitylibrary.org/name/Troides_andromache_(Staudinger%2C_1892)</dc:relation>
+         <dc:type>PreservedSpecimen</dc:type>
+         <dcterms:spatial>Malaysia</dcterms:spatial>
+         <dcterms:spatial>im nordöstlichen Borneo</dcterms:spatial>
+         <dcterms:temporal/>
+         <edm:hasType rdf:resource="http://rs.tdwg.org/dwc/dwctype/PreservedSpecimen"/>
+         <edm:type>IMAGE</edm:type>
+      </edm:ProvidedCHO>
+      <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_1A.jpg">
+         <dc:description>upperside</dc:description>
+         <dc:format>image/jpeg</dc:format>
+         <dc:rights>CC BY-NC-ND (Attribution for non commercial use only and without derivative)</dc:rights>
+         <edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_2A.jpg">
+         <dc:description>upperside</dc:description>
+         <dc:format>image/jpeg</dc:format>
+         <dc:rights>CC BY-NC-ND (Attribution for non commercial use only and without derivative)</dc:rights>
+         <edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_3A.jpg">
+         <dc:description>upperside</dc:description>
+         <dc:format>image/jpeg</dc:format>
+         <dc:rights>CC BY-NC-ND (Attribution for non commercial use only and without derivative)</dc:rights>
+         <edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_4A.jpg">
+         <dc:description>upperside</dc:description>
+         <dc:format>image/jpeg</dc:format>
+         <dc:rights>CC BY-NC-ND (Attribution for non commercial use only and without derivative)</dc:rights>
+         <edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_1B.jpg">
+         <dc:description>underside</dc:description>
+         <dc:format>image/jpeg</dc:format>
+         <dc:rights>CC BY-NC-ND (Attribution for non commercial use only and without derivative)</dc:rights>
+         <edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_2B.jpg">
+         <dc:description>underside</dc:description>
+         <dc:format>image/jpeg</dc:format>
+         <dc:rights>CC BY-NC-ND (Attribution for non commercial use only and without derivative)</dc:rights>
+         <edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_3B.jpg">
+         <dc:description>underside</dc:description>
+         <dc:format>image/jpeg</dc:format>
+         <dc:rights>CC BY-NC-ND (Attribution for non commercial use only and without derivative)</dc:rights>
+         <edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_4B.jpg">
+         <dc:description>underside</dc:description>
+         <dc:format>image/jpeg</dc:format>
+         <dc:rights>CC BY-NC-ND (Attribution for non commercial use only and without derivative)</dc:rights>
+         <edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_1C.jpg">
+         <dc:description>labels</dc:description>
+         <dc:format>image/jpeg</dc:format>
+         <dc:rights>CC BY-NC-ND (Attribution for non commercial use only and without derivative)</dc:rights>
+         <edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_2C.jpg">
+         <dc:description>labels</dc:description>
+         <dc:format>image/jpeg</dc:format>
+         <dc:rights>CC BY-NC-ND (Attribution for non commercial use only and without derivative)</dc:rights>
+         <edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_3C.jpg">
+         <dc:description>labels</dc:description>
+         <dc:format>image/jpeg</dc:format>
+         <dc:rights>CC BY-NC-ND (Attribution for non commercial use only and without derivative)</dc:rights>
+         <edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_4C.jpg">
+         <dc:description>labels</dc:description>
+         <dc:format>image/jpeg</dc:format>
+         <dc:rights>CC BY-NC-ND (Attribution for non commercial use only and without derivative)</dc:rights>
+         <edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
+      </edm:WebResource>
+      <edm:WebResource rdf:about="http://www.globis.insects-online.de/?q=node/3&amp;s=3721">
+         <dc:format>text/html</dc:format>
+         <dc:rights>CC BY-NC-ND (Attribution for non commercial use only and without derivative)</dc:rights>
+         <edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
+      </edm:WebResource>
+      <ore:Aggregation rdf:about="http://web-openup.nhm.ac.uk/oai-provider/index.php?form=display&amp;oaiid=GLOBIS:MFN:GERMANY/MFNGLOBALBUTTERFLYINFORMATIONSYSTEMGLOBIS3721&amp;db=0">
+         <edm:aggregatedCHO rdf:resource="GLOBIS:MFN:GERMANY/3721"/>
+         <edm:dataProvider>GloBIS / Museum für Naturkunde Berlin</edm:dataProvider>
+         <edm:hasView rdf:resource="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_1A.jpg"/>
+         <edm:hasView rdf:resource="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_2A.jpg"/>
+         <edm:hasView rdf:resource="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_3A.jpg"/>
+         <edm:hasView rdf:resource="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_4A.jpg"/>
+         <edm:hasView rdf:resource="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_1B.jpg"/>
+         <edm:hasView rdf:resource="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_2B.jpg"/>
+         <edm:hasView rdf:resource="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_3B.jpg"/>
+         <edm:hasView rdf:resource="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_4B.jpg"/>
+         <edm:hasView rdf:resource="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_1C.jpg"/>
+         <edm:hasView rdf:resource="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_2C.jpg"/>
+         <edm:hasView rdf:resource="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_3C.jpg"/>
+         <edm:hasView rdf:resource="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_4C.jpg"/>
+         <edm:isShownAt rdf:resource="http://www.globis.insects-online.de/?q=node/3&amp;s=3721"/>
+         <edm:isShownBy rdf:resource="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_1A.jpg"/>
+         <edm:object rdf:resource="http://globis-images.insects-online.de/images/Berlin/Berlin_12/andromache_Staudinger_Ornithoptera_MNHU_1A.jpg"/>
+         <edm:provider>OpenUp!</edm:provider>
+         <edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
+      </ore:Aggregation>
+   </section>
+   
+   
+</regnet-document>
+
