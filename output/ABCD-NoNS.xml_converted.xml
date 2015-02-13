@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdaGr2="http://rdvocab.info/ElementsGr2/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:enrichment="http://www.europeana.eu/schemas/edm/enrichment/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:wgs84="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/1999/02/22-rdf-syntax-ns# ">
+  <edm:ProvidedCHO>
+    <dc:date>1892</dc:date>
+    <dc:source>Global Butterfly Information System (GloBIS)</dc:source>
+    <dc:title>Troides andromache (Staudinger, 1892)</dc:title>
+    <dc:type>PreservedSpecimen</dc:type>
+    <dcterms:spatial>Malaysia</dcterms:spatial>
+    <dcterms:spatial>im nordöstlichen Borneo</dcterms:spatial>
+    <edm:type>image/jpeg</edm:type>
+    <edm:type>image/jpeg</edm:type>
+    <edm:type>image/jpeg</edm:type>
+    <edm:type>image/jpeg</edm:type>
+    <edm:type>image/jpeg</edm:type>
+    <edm:type>image/jpeg</edm:type>
+    <edm:type>image/jpeg</edm:type>
+    <edm:type>image/jpeg</edm:type>
+    <edm:type>image/jpeg</edm:type>
+    <edm:type>image/jpeg</edm:type>
+    <edm:type>image/jpeg</edm:type>
+    <edm:type>image/jpeg</edm:type>
+  </edm:ProvidedCHO>
+  <edm:WebResource>
+    <dc:description>Syntype(s)</dc:description>
+    <dc:description>Current type depository: MFNB, Berlin // Cited type material: wurde von Herrn I. Waterstradt in einem ganz reinen [m] und 5 [ff], von denen 2 ganz frisch sind, im nordöstlichen Borneo entdeckt. // Other remarks:</dc:description>
+  </edm:WebResource>
+  <edm:Agent>
+    <dc:identifier>MfN</dc:identifier>
+    <dc:identifier>3721</dc:identifier>
+    <dc:identifier>Global Butterfly Information System (GloBIS)</dc:identifier>
+  </edm:Agent>
+  <ore:Aggregation>
+    <edm:dataProvider>GloBIS / Museum für Naturkunde Berlin</edm:dataProvider>
+    <edm:isShownAt/>
+    <edm:isShownAt/>
+    <edm:isShownAt/>
+    <edm:isShownAt/>
+    <edm:isShownAt/>
+    <edm:isShownAt/>
+    <edm:isShownAt/>
+    <edm:isShownAt/>
+    <edm:isShownAt/>
+    <edm:isShownAt/>
+    <edm:isShownAt/>
+    <edm:isShownAt/>
+    <edm:isShownBy/>
+    <edm:isShownBy/>
+    <edm:isShownBy/>
+    <edm:isShownBy/>
+    <edm:isShownBy/>
+    <edm:isShownBy/>
+    <edm:isShownBy/>
+    <edm:isShownBy/>
+    <edm:isShownBy/>
+    <edm:isShownBy/>
+    <edm:isShownBy/>
+    <edm:isShownBy/>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+    <dc:rights>http://creativecommons.org/licenses/by-nc-nd/3.0/</dc:rights>
+  </ore:Aggregation>
+</RDF>
