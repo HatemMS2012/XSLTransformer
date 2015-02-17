@@ -4,7 +4,7 @@ To use the application, deploy it in your server root directory and type [http:/
 
 At the home page you can upload an *XSLT* transformation schema or choose an exisiting one. Next, upload the *XML* file which you you want to convert. See the screenshot below:
 
-![Screenshot of the homepage](screenshots/homepage.png)
+![Screenshot of the homepage](screenshots/home.png)
 
 By clicking the convert button the source XML is converted and a screen apears where you can download/view the converted file, in addition to the source XML and XSLT files (See below):
 
