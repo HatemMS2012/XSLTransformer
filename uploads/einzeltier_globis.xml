@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<section name="raw">
+<abcd:DataSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:europeana="http://www.europeana.eu/schemas/ese/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06" UnitID="3721">
+        <abcd:TechnicalContacts>
+          <abcd:TechnicalContact>
+            <abcd:Name>Falko Glöckler</abcd:Name>
+            <abcd:Email>globis@mfn-berlin.de</abcd:Email>
+            <abcd:Phone>049 30 2093 8672</abcd:Phone>
+            <abcd:Address>Museum für Naturkunde Berlin, Invalidenstraße 43, 10115 Berlin, Germany</abcd:Address>
+          </abcd:TechnicalContact>
+        </abcd:TechnicalContacts>
+        <abcd:ContentContacts>
+          <abcd:ContentContact>
+            <abcd:Name>Christoph Häuser</abcd:Name>
+            <abcd:Email>christoph.haeuser@mfn-berlin.de</abcd:Email>
+            <abcd:Address>Museum für Naturkunde Berlin, Invalidenstraße 43, 10115 Berlin, Germany</abcd:Address>
+          </abcd:ContentContact>
+        </abcd:ContentContacts>
+        <abcd:Metadata>
+          <abcd:Description>
+            <abcd:Representation abcd:language="EN">
+              <abcd:Title>Global Butterfly Information System (GloBIS)</abcd:Title>
+            </abcd:Representation>
+          </abcd:Description>
+          <abcd:RevisionData>
+            <abcd:DateModified>27.01.2012 00:00</abcd:DateModified>
+          </abcd:RevisionData>
+          <abcd:Owners>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="de">
+                    <abcd:Text>Museum für Naturkunde Berlin, GloBIS</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+          </abcd:Owners>
+        </abcd:Metadata>
+        <abcd:Units>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>Global Butterfly Information System (GloBIS)</abcd:SourceID>
+            <abcd:UnitID>502</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Papilionidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>familia</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Archon apollinaris (Staudinger, 1892)</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:SpeciesEpithet>apollinaris</abcd:SpeciesEpithet>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                    <abcd:NameComments>Treated as a subspecies (' v.' ) of Doritis apollinus Hbst. by Staudinger (1901: 4). Treated as a subspecies (' Form' ) of Doritis apollinus Hbst. by Stichel (1907: 19). Treated as a species of Archon Hübner, [1822] by Häuser (1993: 138). Treated as a species of Archon Hübner, 1822 by Hesselbarth et al. (1995: 264).</abcd:NameComments>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:Date>
+                  <abcd:DateText>1892</abcd:DateText>
+                </abcd:Date>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>Lectotype</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:ID>47838</abcd:ID>
+                <abcd:FileURI>http://globis-images.insects-online.de/images/Berlin/Berlin_12/apollinaris_Staudinger_Doritis_MNHU_1A.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://www.globis.insects-online.de/?q=node/3&amp;s=502</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="en">
+                      <abcd:Text>CC-BY-SA (Attribution for share alike)</abcd:Text>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+                <abcd:Comment>upperside</abcd:Comment>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:ID>51189</abcd:ID>
+                <abcd:FileURI>http://globis-images.insects-online.de/images/Berlin/Berlin_12/apollinaris_Staudinger_Doritis_MNHU_1B.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://www.globis.insects-online.de/?q=node/3&amp;s=502</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="en">
+                      <abcd:Text>CC-BY-SA (Attribution for share alike)</abcd:Text>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+                <abcd:Comment>underside</abcd:Comment>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:ID>54540</abcd:ID>
+                <abcd:FileURI>http://globis-images.insects-online.de/images/Berlin/Berlin_12/apollinaris_Staudinger_Doritis_MNHU_1C.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://www.globis.insects-online.de/?q=node/3&amp;s=502</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="en">
+                      <abcd:Text>CC-BY-SA (Attribution for share alike)</abcd:Text>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+                <abcd:Comment>labels</abcd:Comment>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Country>
+                <abcd:Name>Turkey</abcd:Name>
+              </abcd:Country>
+              <abcd:AreaDetail>bei Goman Otti im nordöstlichen Kleinasien etwa 1500 Meter hoch</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:Notes>Current type depository: MFNB, Berlin // Cited type material: eine in Anzahl von Dr. Plason erhaltene kleine blasse Lokalrasse, die [...] gefangen wurde. [...] nur bei einigen [ff] [...] Einige Männcehn haben // Other remarks: Lectotype designated by Hesselbarth et al. (1995: 264). For a long time treated as a subspecies of A. apollinus (e.g., Ackery 1975, Bryk 1934, D'Abrera 1990, Igarashi 1979, Collins &amp; Morris 1985, Hancock 1983), but now generally accepted as a distinct species based on the sympatric occurence with A. apollinus in part of its range (Carbonell 1991, de Freina 1985, Hesselbarth et al. 1995).</abcd:Notes>
+          </abcd:Unit>
+        </abcd:Units>
+      </abcd:DataSet></section>

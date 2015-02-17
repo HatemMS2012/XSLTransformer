@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<regnet-document xmlns:abcdefg="http://www.synthesys.info/ABCDEFG/1.0" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:wgs84="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:europeana="http://www.europeana.eu/schemas/ese/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06">
+  <section name="EDM">
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN - Global Butterfly Information System (GloBIS) - 2438</dc:identifier>
+      <dc:title>Graphium tamerlanus (Oberthür, 1876)</dc:title>
+      <dc:description>Current type depository: MFNB, Berlin ?; SMTD, Dresden ? // Cited type material: Juni bis August. [...] 1 [m] 56 mm., 1 [m] 59 mm. // Other remarks:</dc:description>
+      <dc:description>Syntype(s)</dc:description>
+      <dc:date>
+                  1933
+                </dc:date>
+      <dc:source>Global Butterfly Information System (GloBIS)</dc:source>
+      <dc:type>PreservedSpecimen</dc:type>
+      <dcterms:spatial>China</dcterms:spatial>
+      <dcterms:spatial>Kansu mer. or., Tsinglingschan, Peilingschan</dcterms:spatial>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_13/kansuensis_BangHaas_Cosmodesmus_MNHU_1A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <dc:rights>CC-BY-SA (Attribution for share alike)</dc:rights>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_13/kansuensis_BangHaas_Cosmodesmus_MNHU_2A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <dc:rights>CC-BY-SA (Attribution for share alike)</dc:rights>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_13/kansuensis_BangHaas_Cosmodesmus_MNHU_1B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <dc:rights>CC-BY-SA (Attribution for share alike)</dc:rights>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_13/kansuensis_BangHaas_Cosmodesmus_MNHU_2B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <dc:rights>CC-BY-SA (Attribution for share alike)</dc:rights>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_13/kansuensis_BangHaas_Cosmodesmus_MNHU_1C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <dc:rights>CC-BY-SA (Attribution for share alike)</dc:rights>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_13/kansuensis_BangHaas_Cosmodesmus_MNHU_2C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <dc:rights>CC-BY-SA (Attribution for share alike)</dc:rights>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="">
+      <dc:description/>
+      <dc:format/>
+      <dc:rights>CC-BY-SA (Attribution for share alike)</dc:rights>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="">
+      <dc:description/>
+      <dc:format/>
+      <dc:rights>CC-BY-SA (Attribution for share alike)</dc:rights>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+    </edm:WebResource>
+  </section>
+</regnet-document>

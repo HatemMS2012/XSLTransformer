@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<abcd:DataSets xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06" xmlns:biocase="http://www.biocase.org/schemas/protocol/1.3" xmlns:xs="http://www.synthesys.info/ABCDEFG/1.0">
+<abcd:DataSet> 
+   <abcd:TechnicalContacts>
+          <abcd:TechnicalContact>
+            <abcd:Name>Falko Glöckler</abcd:Name>
+            <abcd:Email>globis@mfn-berlin.de</abcd:Email>
+            <abcd:Phone>049 30 2093 8672</abcd:Phone>
+            <abcd:Address>Museum für Naturkunde Berlin, Invalidenstraße 43, 10115 Berlin, Germany</abcd:Address>
+          </abcd:TechnicalContact>
+        </abcd:TechnicalContacts>
+        <abcd:ContentContacts>
+          <abcd:ContentContact>
+            <abcd:Name>Christoph Häuser</abcd:Name>
+            <abcd:Email>christoph.haeuser@mfn-berlin.de</abcd:Email>
+            <abcd:Address>Museum für Naturkunde Berlin, Invalidenstraße 43, 10115 Berlin, Germany</abcd:Address>
+          </abcd:ContentContact>
+        </abcd:ContentContacts>
+        <abcd:Metadata>
+          <abcd:Description>
+            <abcd:Representation abcd:language="EN">
+              <abcd:Title>Global Butterfly Information System (GloBIS)</abcd:Title>
+            </abcd:Representation>
+          </abcd:Description>
+          <abcd:RevisionData>
+            <abcd:DateModified>27.01.2012 00:00</abcd:DateModified>
+          </abcd:RevisionData>
+          <abcd:Owners>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="de">
+                    <abcd:Text>Museum für Naturkunde Berlin, GloBIS</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+          </abcd:Owners>
+        </abcd:Metadata>
+        <abcd:Units>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>Global Butterfly Information System (GloBIS)</abcd:SourceID>
+            <abcd:UnitID>2438</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Papilionidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>familia</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Graphium tamerlanus (Oberthür, 1876)</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Pazala</abcd:GenusOrMonomial>
+                          <abcd:Subgenus>Pazala</abcd:Subgenus>
+                          <abcd:SpeciesEpithet>tamerlanus</abcd:SpeciesEpithet>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:Date>
+                  <abcd:DateText>1933</abcd:DateText>
+                </abcd:Date>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>Syntype(s)</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:ID>48011</abcd:ID>
+                <abcd:FileURI>http://globis-images.insects-online.de/images/Berlin/Berlin_13/kansuensis_BangHaas_Cosmodesmus_MNHU_1A.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://www.globis.insects-online.de/?q=node/3&amp;s=2438</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="en">
+                      <abcd:Text>CC-BY-SA (Attribution for share alike)</abcd:Text>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+                <abcd:Comment>upperside</abcd:Comment>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:ID>48012</abcd:ID>
+                <abcd:FileURI>http://globis-images.insects-online.de/images/Berlin/Berlin_13/kansuensis_BangHaas_Cosmodesmus_MNHU_2A.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://www.globis.insects-online.de/?q=node/3&amp;s=2438</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="en">
+                      <abcd:Text>CC-BY-SA (Attribution for share alike)</abcd:Text>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+                <abcd:Comment>upperside</abcd:Comment>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:ID>51362</abcd:ID>
+                <abcd:FileURI>http://globis-images.insects-online.de/images/Berlin/Berlin_13/kansuensis_BangHaas_Cosmodesmus_MNHU_1B.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://www.globis.insects-online.de/?q=node/3&amp;s=2438</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="en">
+                      <abcd:Text>CC-BY-SA (Attribution for share alike)</abcd:Text>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+                <abcd:Comment>underside</abcd:Comment>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:ID>51363</abcd:ID>
+                <abcd:FileURI>http://globis-images.insects-online.de/images/Berlin/Berlin_13/kansuensis_BangHaas_Cosmodesmus_MNHU_2B.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://www.globis.insects-online.de/?q=node/3&amp;s=2438</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="en">
+                      <abcd:Text>CC-BY-SA (Attribution for share alike)</abcd:Text>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+                <abcd:Comment>underside</abcd:Comment>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:ID>54713</abcd:ID>
+                <abcd:FileURI>http://globis-images.insects-online.de/images/Berlin/Berlin_13/kansuensis_BangHaas_Cosmodesmus_MNHU_1C.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://www.globis.insects-online.de/?q=node/3&amp;s=2438</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="en">
+                      <abcd:Text>CC-BY-SA (Attribution for share alike)</abcd:Text>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+                <abcd:Comment>labels</abcd:Comment>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:ID>54714</abcd:ID>
+                <abcd:FileURI>http://globis-images.insects-online.de/images/Berlin/Berlin_13/kansuensis_BangHaas_Cosmodesmus_MNHU_2C.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://www.globis.insects-online.de/?q=node/3&amp;s=2438</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="en">
+                      <abcd:Text>CC-BY-SA (Attribution for share alike)</abcd:Text>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+                <abcd:Comment>labels</abcd:Comment>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Country>
+                <abcd:Name>China</abcd:Name>
+              </abcd:Country>
+              <abcd:AreaDetail>Kansu mer. or., Tsinglingschan, Peilingschan</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:Notes>Current type depository: MFNB, Berlin ?; SMTD, Dresden ? // Cited type material: Juni bis August. [...] 1 [m] 56 mm., 1 [m] 59 mm. // Other remarks:</abcd:Notes>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>Global Butterfly Information System (GloBIS)</abcd:SourceID>
+            <abcd:UnitID>3517</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Papilionidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>familia</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Graphium weiskei (Ribbe, 1900)</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Graphium</abcd:GenusOrMonomial>
+                          <abcd:Subgenus>Graphium</abcd:Subgenus>
+                          <abcd:SpeciesEpithet>weiskei</abcd:SpeciesEpithet>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                    <abcd:NameComments>Treated as a species of Papilio by Ribbe (1901: 338). Treated as a species of Graphium Scopoli, 1777 (Graphium Scopoli, 1777) by Munroe (1961: 41), and Hancock (1983: 47). Treated as a species of Graphium by Müller &amp; Tennent (1999: 161). Treated as a species of Graphium Scopoli, 1777 by Parsons (1999: 249).</abcd:NameComments>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:Date>
+                  <abcd:DateText>1900</abcd:DateText>
+                </abcd:Date>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>Syntype(s)</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="en">
+                      <abcd:Text>CC-BY-SA (Attribution for share alike)</abcd:Text>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Country>
+                <abcd:Name>Papua New Guinea</abcd:Name>
+              </abcd:Country>
+              <abcd:AreaDetail>Neuguinea (englischer Theil) [...] in einer Höhe von ca. 7000 Fuss engl.</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:Notes>Current type depository: SMTD, Dresden ?; BMNH, London ? // Cited type material: [m] 6 cm [...] erhielt ich // Other remarks:</abcd:Notes>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>Global Butterfly Information System (GloBIS)</abcd:SourceID>
+            <abcd:UnitID>3549</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Papilionidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>familia</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Graphium euphrates (Felder and Felder, 1862)</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Pathysa</abcd:GenusOrMonomial>
+                          <abcd:Subgenus>Pathysa</abcd:Subgenus>
+                          <abcd:SpeciesEpithet>euphrates</abcd:SpeciesEpithet>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                    <abcd:NameComments>Treated as a species of Papilio Linn., 1767 by Kirby (1871: 556). Treated as a species of Papilio by Staudinger (1888: 279). Treated as a species of Graphium Scopoli, 1777 (Pathysa Reakirt, 1864) by Munroe (1961: 42). Treated as a species of Graphium by Tsukada &amp; Nishiyama (1982: 400), and Treadaway (1995: 19). Treated as a species of Graphium Scopoli, 1777 (Pathysa Reakirt, [1865]) by Hancock (1983: 46), and Bridges (1988: II.44). Treated as a species of Graphium Scopoli, 1777 by Page (1987: 231, 241). Treated as a species of Arisbe Hübner, [1819] (Pathysa Reakirt, 1864) by Page &amp; Treadaway (2003: 4). Treated as a species of Graphium Scopoli, 1777 (Pathysa Reakirt, 1865) by Vane-Wright &amp; de Jong (2003: 94), and Peggie et al. (2005: 47).</abcd:NameComments>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:Date>
+                  <abcd:DateText>1862</abcd:DateText>
+                </abcd:Date>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>PreservedSpecimen</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>Syntype(s)</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="en">
+                      <abcd:Text>CC-BY-SA (Attribution for share alike)</abcd:Text>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Country>
+                <abcd:Name>Philippines</abcd:Name>
+              </abcd:Country>
+              <abcd:AreaDetail>Luzon</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:Notes>Current type depository: BMNH, London ?; SMFM, Frankfurt/Main ? // Cited type material: [m]  Luzon. Coll. Semper et Felder. (Lorquin). [...] a Dre. Carolo Semper in insulis Philippinis collecta // Other remarks:</abcd:Notes>
+          </abcd:Unit>
+        </abcd:Units>
+		</abcd:DataSet>
+      </abcd:DataSets>
