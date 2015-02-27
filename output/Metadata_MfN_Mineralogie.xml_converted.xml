@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<regnet-document xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06" xmlns:biocase="http://www.biocase.org/schemas/protocol/1.3" xmlns:efg="http://www.synthesys.info/ABCDEFG/1.0" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:wgs84="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:europeana="http://www.europeana.eu/schemas/ese/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <edm:ProvidedCHO>
+    <dc:identifier>MFN - MIN - MFN_MIN_1977_0028</dc:identifier>
+    <dc:title/>
+    <dc:description>Quarz mit Tu-Kristallen</dc:description>
+    <dc:description/>
+    <dc:date/>
+    <dc:source>MfN Mineralogical Collections</dc:source>
+    <dc:type>OtherSpecimen</dc:type>
+    <dcterms:spatial>Peru</dcterms:spatial>
+    <dcterms:spatial>La Libertad</dcterms:spatial>
+  </edm:ProvidedCHO>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1977_0028__Auripigment.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1977_0040__Dioptas.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1977_0124__Achat.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1977_0367__Wavellit_b_Ausschnitt.tif.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1977_0367__Wavellit_a.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1978_0143__Halit.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1978_0362__Boltwoodit.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1978_0665__Gormanit_b.tif.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1978_0665__et_Gormanit.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1978_0665__Gormanit_a.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1979_0661__Opal.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1982_0519__Turmalin_Detail.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1982_0719__Bornit_b.tif.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1982_0719__Bornit_a.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1982_1087__Antimonit_a.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1982_1087__Antimonit_b.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1983_0237__Pyrit.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1983_0389__Parasymplesit.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1984_0039__Goethit_b.dng.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1984_0039__et_Goethit.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1984_0039__Goethit_a.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1985_0004__Chalcedon_b.tif.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1985_0004__Chalcedon_d.tif.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1985_0004__Chalcedon_c.dng.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1985_0004__et_Chalcedon_b.tif.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1985_0004__et_Chalcedon_a.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1985_0004__Chalcedon_a.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1985_0006__Uraninit_Torbernit_a.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1985_0006__Uraninit_Torbernit_b.tif.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1985_0006__Uraninit_Torbernit_c.dng.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1985_0006__et_Uraninit_Torbernit_b.tif.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1985_0006__Uraninit_Torbernit_d.dng.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1985_0125__Quarz.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1985_0154__Achat_b.tif.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1985_0154__Achat_c.tif.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1985_0154__Achat_a.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1986_0170__Melanit.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1987_0807__Fluorit.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1989_0353__Smithsonit.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1989_0636__Vanadinit_b.tif.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1989_0636__Vanadinit_f_Detail.tif.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1989_0636__Vanadinit_e_Detail.tif.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1989_0636__Vanadinit_c_Detail.tif.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1989_0636__Vanadinit_d_Detail.tif.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1989_0636__Vanadinit_a.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1990_0793__Uwarowit_d_Detail.dng.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1990_0793__Uwarowit_c_Detail.dng.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1990_0793__Uwarowit_b.dng.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1990_0793__Uwarowit_a.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1996_4775__Calcit.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1996_7564__Malachit_Quarz.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1997_0138__Rhodochrosit.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1997_0527__Ludlamit.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1997_4608__Caracolit.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1999_0850__Malachit_b.dng.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_1999_0850__Malachit_a.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+  <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MFN_MIN_2004_1454__Amethyst.jpg">
+    <dc:description/>
+    <dc:format>image/jpeg</dc:format>
+    <dc:rights>CC-BY-SA</dc:rights>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+  </edm:WebResource>
+</regnet-document>

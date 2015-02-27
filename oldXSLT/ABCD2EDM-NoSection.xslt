@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:abcdefg="http://www.synthesys.info/ABCDEFG/1.0" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:wgs84="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:europeana="http://www.europeana.eu/schemas/ese/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06">
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06" xmlns:biocase="http://www.biocase.org/schemas/protocol/1.3" xmlns:efg="http://www.synthesys.info/ABCDEFG/1.0" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:wgs84="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:europeana="http://www.europeana.eu/schemas/ese/" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
 <xsl:output method="xml" encoding="UTF-8" byte-order-mark="no" indent="yes"/>
 
 <xsl:template match="/">
 
 	<regnet-document>
-		<section name="EDM">
+		
 			<edm:ProvidedCHO>
 				<dc:identifier> <xsl:value-of select="concat(abcd:DataSets/abcd:DataSet/abcd:Units/abcd:Unit/abcd:SourceInstitutionID,' - ',abcd:DataSets/abcd:DataSet/abcd:Units/abcd:Unit/abcd:SourceID,' - ',abcd:DataSets/abcd:DataSet/abcd:Units/abcd:Unit/abcd:UnitID)" /> </dc:identifier>
 				<dc:title>
@@ -57,7 +57,7 @@
 				  	
 			 	</edm:WebResource>
 			 </xsl:for-each>
-   		</section>
+  
    	</regnet-document>
 	</xsl:template>
 </xsl:stylesheet>
