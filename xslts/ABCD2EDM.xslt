@@ -60,39 +60,39 @@
 						</xsl:if>
 
 						<xsl:if
-							test="abcd:Identifications/abcd:Identification/abcd:Result/abcd:Extension/abcd:MineralRockIdentified/abcd:InformalNameString">
+							test="abcd:Identifications/abcd:Identification/abcd:Result/abcd:Extension/efg:MineralRockIdentified/efg:InformalNameString">
 							<dc:title>
 								<xsl:value-of
-									select="abcd:Identifications/abcd:Identification/abcd:Result/abcd:Extension/abcd:MineralRockIdentified/abcd:InformalNameString" />
+									select="abcd:Identifications/abcd:Identification/abcd:Result/abcd:Extension/efg:MineralRockIdentified/efg:InformalNameString" />
 							</dc:title>
 						</xsl:if>
 						<xsl:if
-							test="abcd:Identifications/abcd:Identification/abcd:Result/abcd:Extension/abcd:MineralRockIdentified/abcd:ClassifiedName/abcd:FullScientificNameString">
+							test="abcd:Identifications/abcd:Identification/abcd:Result/abcd:Extension/efg:MineralRockIdentified/efg:ClassifiedName/efg:FullScientificNameString">
 							<dc:title>
 								<xsl:value-of
-									select="abcd:Identifications/abcd:Identification/abcd:Result/abcd:Extension/abcd:MineralRockIdentified/abcd:ClassifiedName/abcd:FullScientificNameString" />
+									select="abcd:Identifications/abcd:Identification/abcd:Result/abcd:Extension/efg:MineralRockIdentified/efg:ClassifiedName/efg:FullScientificNameString" />
 							</dc:title>
 						</xsl:if>
 
 						<xsl:if
-							test="abcd:Identifications/abcd:Identification/abcd:Result/abcd:Extension/abcd:MineralRockIdentified/abcd:NameAddendum">
+							test="abcd:Identifications/abcd:Identification/abcd:Result/abcd:Extension/efg:MineralRockIdentified/efg:NameAddendum">
 							<dc:title>
 								<xsl:value-of
-									select="abcd:Identifications/abcd:Identification/abcd:Result/abcd:Extension/abcd:MineralRockIdentified/abcd:NameAddendum" />
+									select="abcd:Identifications/abcd:Identification/abcd:Result/abcd:Extension/efg:MineralRockIdentified/efg:NameAddendum" />
 							</dc:title>
 						</xsl:if>
 
 
 						<xsl:if
-							test="abcd:Identifications/abcd:Identification/abcd:Result/abcd:Extension/abcd:MineralRockIdentified/abcd:VarietalNameString">
+							test="abcd:Identifications/abcd:Identification/abcd:Result/abcd:Extension/efg:MineralRockIdentified/efg:VarietalNameString">
 							<dc:title>
 								<xsl:value-of
-									select="abcd:Identifications/abcd:Identification/abcd:Result/abcd:Extension/abcd:MineralRockIdentified/abcd:VarietalNameString" />
+									select="abcd:Identifications/abcd:Identification/abcd:Result/abcd:Extension/efg:MineralRockIdentified/efg:VarietalNameString" />
 							</dc:title>
 						</xsl:if>
 
-
-
+					
+				
 						<xsl:if
 							test="abcd:DataSets/abcd:DataSet/abcd:Metadata/abcd:Description/abcd:Representation/abcd:Title">
 							<dc:source>
@@ -491,6 +491,14 @@
 									select="abcd:UnitExtension/abcd:PalaeontologicalUnit/abcd:PartOfOrganism" />
 							</dc:description>
 						</xsl:if>
+						
+						<xsl:if
+							test="abcd:UnitExtension/efg:PalaeontologicalUnit/efg:PartOfOrganism">
+							<dc:description>
+								<xsl:value-of
+									select="abcd:UnitExtension/efg:PalaeontologicalUnit/efg:PartOfOrganism" />
+							</dc:description>
+						</xsl:if>
 
 						<xsl:if
 							test="abcd:UnitExtension/abcd:PalaeontologicalUnit/abcd:PreservationMode/abcd:PreservationModeText">
@@ -499,12 +507,29 @@
 									select="abcd:UnitExtension/abcd:PalaeontologicalUnit/abcd:PreservationMode/abcd:PreservationModeText" />
 							</dc:description>
 						</xsl:if>
+						
+						<xsl:if
+							test="abcd:UnitExtension/efg:PalaeontologicalUnit/efg:PreservationMode/efg:PreservationModeText">
+							<dc:description>
+								<xsl:value-of
+									select="abcd:UnitExtension/efg:PalaeontologicalUnit/efg:PreservationMode/efg:PreservationModeText" />
+							</dc:description>
+						</xsl:if>
+						
+
 
 						<xsl:if
 							test="abcd:UnitExtension/abcd:EarthScienceSpecimen/abcd:UnitWeight">
 							<dc:description>
 								<xsl:value-of
 									select="abcd:UnitExtension/abcd:EarthScienceSpecimen/abcd:UnitWeight" />
+							</dc:description>
+						</xsl:if>
+						<xsl:if
+							test="abcd:UnitExtension/efg:EarthScienceSpecimen/efg:UnitWeight">
+							<dc:description>
+								<xsl:value-of
+									select="abcd:UnitExtension/efg:EarthScienceSpecimen/efg:UnitWeight" />
 							</dc:description>
 						</xsl:if>
 
@@ -515,11 +540,28 @@
 									select="abcd:UnitExtension/abcd:MineralogicalUnit/abcd:CrystalForm/abcd:Pseudomorph" />
 							</dc:description>
 						</xsl:if>
+						
+						<xsl:if
+							test="abcd:UnitExtension/efg:MineralogicalUnit/efg:CrystalForm/efg:Pseudomorph">
+							<dc:description>
+								<xsl:value-of
+									select="abcd:UnitExtension/efg:MineralogicalUnit/efg:CrystalForm/efg:Pseudomorph" />
+							</dc:description>
+						</xsl:if>
+						
 						<xsl:if
 							test="abcd:UnitExtension/abcd:MineralogicalUnit/abcd:CrystalForm/abcd:Twinning">
 							<dc:description>
 								<xsl:value-of
 									select="abcd:UnitExtension/abcd:MineralogicalUnit/abcd:CrystalForm/abcd:Twinning" />
+							</dc:description>
+						</xsl:if>
+						
+						<xsl:if
+							test="abcd:UnitExtension/efg:MineralogicalUnit/efg:CrystalForm/efg:Twinning">
+							<dc:description>
+								<xsl:value-of
+									select="abcd:UnitExtension/efg:MineralogicalUnit/efg:CrystalForm/efg:Twinning" />
 							</dc:description>
 						</xsl:if>
 					</edm:ProvidedCHO>
@@ -533,6 +575,16 @@
 								select="abcd:UnitExtension/abcd:EarthScienceSpecimen/abcd:UnitStratigraphicDetermination/abcd:ChronostratigraphicAttributions/abcd:ChronostratigraphicAttribution/abcd:ChronoStratigraphicDivision" />
 						</dcterms:temporal>
 					</xsl:if>
+					
+					
+					<xsl:if
+						test="abcd:UnitExtension/efg:EarthScienceSpecimen/efg:UnitStratigraphicDetermination/efg:ChronostratigraphicAttributions/efg:ChronostratigraphicAttribution/efg:ChronoStratigraphicDivision">
+
+						<dcterms:temporal>
+							<xsl:value-of
+								select="abcd:UnitExtension/efg:EarthScienceSpecimen/efg:UnitStratigraphicDetermination/efg:ChronostratigraphicAttributions/efg:ChronostratigraphicAttribution/efg:ChronoStratigraphicDivision" />
+						</dcterms:temporal>
+					</xsl:if>
 
 					<xsl:if
 						test="abcd:UnitExtension/abcd:EarthScienceSpecimen/abcd:UnitStratigraphicDetermination/abcd:ChronostratigraphicAttributions/abcd:ChronostratigraphicAttribution/abcd:ChronostratigraphicName">
@@ -542,11 +594,27 @@
 						</dcterms:temporal>
 					</xsl:if>
 
+
+					<xsl:if
+						test="abcd:UnitExtension/efg:EarthScienceSpecimen/efg:UnitStratigraphicDetermination/efg:ChronostratigraphicAttributions/efg:ChronostratigraphicAttribution/efg:ChronostratigraphicName">
+						<dcterms:temporal>
+							<xsl:value-of
+								select="abcd:UnitExtension/efg:EarthScienceSpecimen/efg:UnitStratigraphicDetermination/efg:ChronostratigraphicAttributions/efg:ChronostratigraphicAttribution/efg:ChronostratigraphicName" />
+						</dcterms:temporal>
+					</xsl:if>
 					<xsl:if
 						test="abcd:UnitExtension/abcd:UnitHostRock/abcd:HostRockStratigraphy/abcd:ChronostratigraphicAttributions/abcd:ChronostratigraphicAttribution/abcd:ChronoStratigraphicDivision">
 						<dcterms:temporal>
 							<xsl:value-of
 								select="abcd:UnitExtension/abcd:UnitHostRock/abcd:HostRockStratigraphy/abcd:ChronostratigraphicAttributions/abcd:ChronostratigraphicAttribution/abcd:ChronoStratigraphicDivision" />
+						</dcterms:temporal>
+					</xsl:if>
+					
+					<xsl:if
+						test="abcd:UnitExtension/efg:UnitHostRock/efg:HostRockStratigraphy/efg:ChronostratigraphicAttributions/efg:ChronostratigraphicAttribution/efg:ChronoStratigraphicDivision">
+						<dcterms:temporal>
+							<xsl:value-of
+								select="abcd:UnitExtension/efg:UnitHostRock/efg:HostRockStratigraphy/efg:ChronostratigraphicAttributions/efg:ChronostratigraphicAttribution/efg:ChronoStratigraphicDivision" />
 						</dcterms:temporal>
 					</xsl:if>
 					<xsl:if
@@ -556,6 +624,14 @@
 								select="abcd:UnitExtension/abcd:UnitHostRock/abcd:HostRockStratigraphy/abcd:ChronostratigraphicAttributions/abcd:ChronostratigraphicAttribution/abcd:ChronostratigraphicName" />
 						</dcterms:temporal>
 					</xsl:if>
+					
+					<xsl:if
+						test="abcd:UnitExtension/efg:UnitHostRock/efg:HostRockStratigraphy/efg:ChronostratigraphicAttributions/efg:ChronostratigraphicAttribution/efg:ChronostratigraphicName">
+						<dcterms:temporal>
+							<xsl:value-of
+								select="abcd:UnitExtension/efg:UnitHostRock/efg:HostRockStratigraphy/efg:ChronostratigraphicAttributions/efg:ChronostratigraphicAttribution/efg:ChronostratigraphicName" />
+						</dcterms:temporal>
+					</xsl:if>
 					<xsl:if
 						test="abcd:UnitExtension/abcd:AllocthonousMaterial/abcd:OriginalStratigraphy/abcd:StratigraphicAttributions/abcd:ChronostratigraphicAttributions/abcd:ChronostratigraphicAttribution/abcd:ChronoStratigraphicDivision">
 						<dcterms:temporal>
@@ -563,6 +639,15 @@
 								select="abcd:UnitExtension/abcd:AllocthonousMaterial/abcd:OriginalStratigraphy/abcd:StratigraphicAttributions/abcd:ChronostratigraphicAttributions/abcd:ChronostratigraphicAttribution/abcd:ChronoStratigraphicDivision" />
 						</dcterms:temporal>
 					</xsl:if>
+					
+					<xsl:if
+						test="abcd:UnitExtension/efg:AllocthonousMaterial/efg:OriginalStratigraphy/efg:StratigraphicAttributions/efg:ChronostratigraphicAttributions/efg:ChronostratigraphicAttribution/efg:ChronoStratigraphicDivision">
+						<dcterms:temporal>
+							<xsl:value-of
+								select="abcd:UnitExtension/efg:AllocthonousMaterial/efg:OriginalStratigraphy/efg:StratigraphicAttributions/efg:ChronostratigraphicAttributions/efg:ChronostratigraphicAttribution/efg:ChronoStratigraphicDivision" />
+						</dcterms:temporal>
+					</xsl:if>
+					
 					<xsl:if
 						test="abcd:UnitExtension/abcd:AllocthonousMaterial/abcd:OriginalStratigraphy/abcd:StratigraphicAttributions/abcd:ChronostratigraphicAttributions/abcd:ChronostratigraphicAttribution/abcd:ChronostratigraphicName">
 						<dcterms:temporal>
@@ -570,6 +655,15 @@
 								select="abcd:UnitExtension/abcd:AllocthonousMaterial/abcd:OriginalStratigraphy/abcd:StratigraphicAttributions/abcd:ChronostratigraphicAttributions/abcd:ChronostratigraphicAttribution/abcd:ChronostratigraphicName" />
 						</dcterms:temporal>
 					</xsl:if>
+					
+					<xsl:if
+						test="abcd:UnitExtension/efg:AllocthonousMaterial/efg:OriginalStratigraphy/efg:StratigraphicAttributions/efg:ChronostratigraphicAttributions/efg:ChronostratigraphicAttribution/efg:ChronostratigraphicName">
+						<dcterms:temporal>
+							<xsl:value-of
+								select="abcd:UnitExtension/efg:AllocthonousMaterial/efg:OriginalStratigraphy/efg:StratigraphicAttributions/efg:ChronostratigraphicAttributions/efg:ChronostratigraphicAttribution/efg:ChronostratigraphicName" />
+						</dcterms:temporal>
+					</xsl:if>
+					
 					<xsl:if test="abcd:UnitReferences/abcd:UnitReference/abcd:TitleCitation">
 						<dcterms:isReferencedBy>
 							<xsl:value-of
@@ -602,6 +696,14 @@
 					</xsl:if>
 
 					<xsl:if
+						test="abcd:UnitExtension/efg:EarthScienceSpecimen/efg:UnitStratigraphicDetermination/efg:LithostratigraphicAttributions/efg:LithostratigraphicAttribution/efg:Member">
+
+						<dcterms:medium>
+							<xsl:value-of
+								select="abcd:UnitExtension/efg:EarthScienceSpecimen/efg:UnitStratigraphicDetermination/efg:LithostratigraphicAttributions/efg:LithostratigraphicAttribution/efg:Member" />
+						</dcterms:medium>
+					</xsl:if>
+					<xsl:if
 						test="abcd:UnitExtension/abcd:UnitHostRock/abcd:HostRockStratigraphy/abcd:LithostratigraphicAttributions/abcd:LithostratigraphicAttribution/abcd:Formation">
 
 						<dcterms:medium>
@@ -609,12 +711,27 @@
 								select="abcd:UnitExtension/abcd:UnitHostRock/abcd:HostRockStratigraphy/abcd:LithostratigraphicAttributions/abcd:LithostratigraphicAttribution/abcd:Formation" />
 						</dcterms:medium>
 					</xsl:if>
+					<xsl:if
+						test="abcd:UnitExtension/efg:UnitHostRock/efg:HostRockStratigraphy/efg:LithostratigraphicAttributions/efg:LithostratigraphicAttribution/efg:Formation">
 
+						<dcterms:medium>
+							<xsl:value-of
+								select="abcd:UnitExtension/efg:UnitHostRock/efg:HostRockStratigraphy/efg:LithostratigraphicAttributions/efg:LithostratigraphicAttribution/efg:Formation" />
+						</dcterms:medium>
+					</xsl:if>
+					
 					<xsl:if
 						test="abcd:UnitExtension/abcd:UnitHostRock/abcd:HostRockStratigraphy/abcd:LithostratigraphicAttributions/abcd:LithostratigraphicAttribution/abcd:Member">
 						<dcterms:medium>
 							<xsl:value-of
 								select="abcd:UnitExtension/abcd:UnitHostRock/abcd:HostRockStratigraphy/abcd:LithostratigraphicAttributions/abcd:LithostratigraphicAttribution/abcd:Member" />
+						</dcterms:medium>
+					</xsl:if>
+					<xsl:if
+						test="abcd:UnitExtension/efg:UnitHostRock/efg:HostRockStratigraphy/efg:LithostratigraphicAttributions/efg:LithostratigraphicAttribution/efg:Member">
+						<dcterms:medium>
+							<xsl:value-of
+								select="abcd:UnitExtension/efg:UnitHostRock/efg:HostRockStratigraphy/efg:LithostratigraphicAttributions/efg:LithostratigraphicAttribution/efg:Member" />
 						</dcterms:medium>
 					</xsl:if>
 					<xsl:if
@@ -625,10 +742,25 @@
 						</dcterms:medium>
 					</xsl:if>
 					<xsl:if
+						test="abcd:UnitExtension/efg:AllocthonousMaterial/efg:OriginalStratigraphy/efg:StratigraphicAttributions/efg:LithostratigraphicAttributions/efg:LithostratigraphicAttribution/efg:Formation">
+						<dcterms:medium>
+							<xsl:value-of
+								select="abcd:UnitExtension/efg:AllocthonousMaterial/efg:OriginalStratigraphy/efg:StratigraphicAttributions/efg:LithostratigraphicAttributions/efg:LithostratigraphicAttribution/efg:Formation" />
+						</dcterms:medium>
+					</xsl:if>
+					<xsl:if
 						test="abcd:UnitExtension/abcd:AllocthonousMaterial/abcd:OriginalStratigraphy/abcd:StratigraphicAttributions/abcd:LithostratigraphicAttributions/abcd:LithostratigraphicAttribution/abcd:Member">
 						<dcterms:medium>
 							<xsl:value-of
 								select="abcd:UnitExtension/abcd:AllocthonousMaterial/abcd:OriginalStratigraphy/abcd:StratigraphicAttributions/abcd:LithostratigraphicAttributions/abcd:LithostratigraphicAttribution/abcd:Member" />
+						</dcterms:medium>
+					</xsl:if>
+					
+					<xsl:if
+						test="abcd:UnitExtension/efg:AllocthonousMaterial/efg:OriginalStratigraphy/efg:StratigraphicAttributions/efg:LithostratigraphicAttributions/efg:LithostratigraphicAttribution/efg:Member">
+						<dcterms:medium>
+							<xsl:value-of
+								select="abcd:UnitExtension/efg:AllocthonousMaterial/efg:OriginalStratigraphy/efg:StratigraphicAttributions/efg:LithostratigraphicAttributions/efg:LithostratigraphicAttribution/efg:Member" />
 						</dcterms:medium>
 					</xsl:if>
 
