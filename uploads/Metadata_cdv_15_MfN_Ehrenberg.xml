@@ -1,0 +1,1745 @@
+<?xml version='1.0' encoding='UTF-8'?>
+    <abcd:DataSets xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06" xmlns:biocase="http://www.biocase.org/schemas/protocol/1.3" xmlns:efg="http://www.synthesys.info/ABCDEFG/1.0">
+      <abcd:DataSet>
+        <abcd:TechnicalContacts>
+          <abcd:TechnicalContact>
+            <abcd:Name>MfN Data Integration Team</abcd:Name>
+            <abcd:Email>dataintegration@mfn-berlin.de</abcd:Email>
+            <abcd:Phone>+49 30 2093 8672</abcd:Phone>
+            <abcd:Address>Museum für Naturkunde Invalidenstraße 43 10115 Berlin Germany</abcd:Address>
+          </abcd:TechnicalContact>
+        </abcd:TechnicalContacts>
+        <abcd:ContentContacts>
+          <abcd:ContentContact>
+            <abcd:Name>David Lazarus</abcd:Name>
+            <abcd:Email>David.Lazarus@mfn-berlin.de</abcd:Email>
+            <abcd:Phone>+49 30 2093 8579</abcd:Phone>
+            <abcd:Address>Museum für Naturkunde Invalidenstraße 43 10115 Berlin Germany</abcd:Address>
+          </abcd:ContentContact>
+        </abcd:ContentContacts>
+        <abcd:Metadata>
+          <abcd:Description>
+            <abcd:Representation abcd:language="EN EN-US">
+              <abcd:Title>Ehrenberg Drawings</abcd:Title>
+            </abcd:Representation>
+          </abcd:Description>
+          <abcd:RevisionData>
+            <abcd:DateModified>2013-06-03 12:24:51</abcd:DateModified>
+          </abcd:RevisionData>
+          <abcd:Owners>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+              <abcd:Person>
+                <abcd:FullName>David Lazarus</abcd:FullName>
+              </abcd:Person>
+              <abcd:Addresses>
+                <abcd:Address>Museum für Naturkunde Invaliden Str. 43 10115 Berlin Deutschland</abcd:Address>
+              </abcd:Addresses>
+              <abcd:TelephoneNumbers>
+                <abcd:TelephoneNumber>
+                  <abcd:Number>+49 30 2093 8579</abcd:Number>
+                  <abcd:Device>voice</abcd:Device>
+                </abcd:TelephoneNumber>
+              </abcd:TelephoneNumbers>
+              <abcd:EmailAddresses>
+                <abcd:EmailAddress>David.Lazarus@mfn-berlin.de</abcd:EmailAddress>
+              </abcd:EmailAddresses>
+            </abcd:Owner>
+          </abcd:Owners>
+          <abcd:IPRStatements>
+            <abcd:IPRDeclarations>
+              <abcd:IPRDeclaration abcd:language="EN EN-US">
+                <abcd:Text>CC-BY-SA</abcd:Text>
+                <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+              </abcd:IPRDeclaration>
+            </abcd:IPRDeclarations>
+            <abcd:Licenses>
+              <abcd:License abcd:language="EN EN-US">
+                <abcd:Text>CC-BY-SA</abcd:Text>
+                <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+              </abcd:License>
+            </abcd:Licenses>
+          </abcd:IPRStatements>
+        </abcd:Metadata>
+        <abcd:Units>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_0087</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Amphileptus Doppelhals</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Amphileptus Fasciola; Trachelius Fasciola</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Catharinenburg Ural, Uralsk, Petropoli; Berol. Aug. 1826 in Lemma</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_0087.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_0087.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_0254</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Chilomonas</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Chilomonas destruens</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Wismariae 1833; an Anuracea foliacea</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_0254.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_0254.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2151</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>label</abcd:MarkType>
+                  <abcd:MarkText>Monatsb. 1841 p. 128; Präparat Kast. 37 B. 7; Probe N. 2391.</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Europa / Mecklenburg</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Eunotia granulata, ; Navicula, ; Navicula viridis, ; Synedra capitata, ; Navicula amphioxys, ; Navicula Lamella, ; Nav. striata, ; N. gemina, ; Cocconema, ; Navicula lamprocampa, ; Cocconema, ; Gallionella, ; Campylodiscus Echeneis, ; Fragilaria rhabdosoma</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Form der Verschlämmung des Hafens von Wismar</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2151.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2151.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2151__label.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2151.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2173</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>label</abcd:MarkType>
+                  <abcd:MarkText>Passatstaub im Atlantisch. Ocean. 1838. 8. März; Abhandl. 1847 p. 273; Präparat Kast. 47 B. 1; Probe N. 2898.</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Passatstaube u Blutregen / Eisenstaub. Meteorpapier.</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Gallionella procera, ; Gall. granulata, ; Gallion. decussata, ; Gall. crenata, ; Gallion. distans, ; Eunotia gibb., ; Eunotia Triodon, ; Pinnularia Digitus?, ; Pinnularia viridula, ; Eunotia? Himantid. Arcus?, ; Campylodiscus Clypeus, ; Pinnul. borealis, ; Navic. lineolata, ; Pinnul. aequalis, ; L. Bursa, ; Lithodont. nasutum, ; Lithod. platyod., ; Lithod. furcat., ; [falcat.], ; Lithod. platyodon, ; Lithostyl. clav., ; Lithostyl. crenulatum, ; Lithost. spiriferum, ; Lithost. amphiodon, ; Lithost. quadratum, ; L. unidentatum, ; Lithostyl. Clepsammidium, ; Spong. mesogongyla, ; Amphidiscus obtusus, ; Amphid. Clava, ; Spongol. acicul., ; Spong. Fustis?, ; Lithochaeta</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: III.; Atmosphaerischer Staub aus dem Atlantischen Ocean; Lat. 19, 57 n.- Long. 24,5 W.; von Ch. Darwin gesandt 1844.</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2173.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2173.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2173__label.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2173.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2230</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>label</abcd:MarkType>
+                  <abcd:MarkText>Berlin Infusorienerde - ; Monatsb. 1841 p. 232; Microgeol. Taf. XIV; Präparat Kast. 39 B. 8; Proben N. 2480 - 2485</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Blätterkohlen[......] u Polirschiefer aus Sicilien, Westerwald, Kastel, Böhmen, Ungarn, Berlin, u Lüneburger Heide. Moskau. Santafiore. Bargusina.</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Gallionella, ; Navicula nobilis, ; Nacicula viridis, ; Gallionella decussata, ; Gall. varians, ; Gallion. granulata, ; Lithostylidium Pupula, ; Gomphonema gracile, ; Gomph., ; Gomph. americ., ; Fragilaria, ; Cocconema, ; Pollen Pini, ; Amphora libyca, ; Navic., ; Eunotia granulata, ; Podosphenia bilunaris, ; Navic. Librile,; Spongia ornithopus</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Unterirdisches Lager lebender Infusorien in Berlin.</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2230.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2230.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2230__label.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2230.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2239</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>label</abcd:MarkType>
+                  <abcd:MarkText>Andower Massachusettes Kieselguhr. ; Abhandl. 1841 p. 348; Microg. T. III; Präparat Kast. 26 B. 7; Probe N. 1771;</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Navicula viridis, ; Navicula nobilis, ; Navicula gibba, ; Navicula crucigera, ; Navicula dilatata, ; Navicula amphigomphus, ; Navicula viridula, ; Navicula Trabecula, ; Stauroneis gracilis?, ; Navicula dicephala, ; Eunotia praerupta, ; Eunotia parallela, ; Eunotia biceps, ; Cocconema, ; Himantidium Arcus, ; Gomphonema gracile, ; Gallionella aurichalcea, ; Gallionella distans, ; Eunotia monodon, ; Synedra Ulna, ; Thyl. ossiculum, ; Thylacium Bursa, ; Spongia acicularis, ; Spongia Serra, ; Synedra scalaris</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Andower Massachusetts; 15 Fuß mächtiges Lager</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2239.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2239.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2239__label.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2239.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2376</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>label</abcd:MarkType>
+                  <abcd:MarkText>Grünsand von Alabama N. Amerika anl. d. Zeuglodon. Kalk - ; Abhandl. 1855 p. 91. 112 Taf. II; Microsc. Präp. Kast. 51; Gesteinspr. N. 1310 - 1312.</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Grünsand. / Alabama Zeuglodon Kalk mit Grünsand</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Quinqueloculina, ; Polystomatium ?, ; Rotalia, ; Rotalia, ; Textilaria,; Quinqueloculina,  ; Spiroloculina, ; Teneroplis ?, ; Rotalia mesopara Chloris, ; Globigerina globula, ; Rotalia, ; Textilaria globulosa, ; Planulina polysolenia, ; Loxostomum, ; Polymorphina, ; Polymorphina, ; Polymorphina?</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Zeuglodon, ; Hydrarchus, Kalk von Alabama; Alabama I</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2376.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2376.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2376__label.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2376.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2396</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>label</abcd:MarkType>
+                  <abcd:MarkText>Nummulitenkalk von Cuizac bei Alet Frankreich. - ; Abhandl. d. Akad. 1855 p. 147 Taf. V; Mikrosk. Präpar. Kast. 48 B. 2; Gesteinsprobe N. 2235</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Grünsande von der Schweitz Frankreich Moskau</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Nummulites striata</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Cuizac bei Alet; Abhandl. 1855</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2396.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2396.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2396__label.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2396.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2438</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>label</abcd:MarkType>
+                  <abcd:MarkText>Kreiden u Kreidemergel - ; Abhandlungen 1838 Taf. IV.</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Tertiär / Kreidekalk vom Libanon ; Kreidemergel von Hamam Faraun Arabien</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Kreide und Kreidemergel gez. v. Ehrenberg; Puszkary in Polen, ; Daenische Inseln, ; Ruegen, ; Gravesend, ; Paris, ; Sicilien, Cattolica, ; Cahira, ; Theben, ; Hamam Faraun, ; Oran, ; Caltanisetta, ; Griechenland</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2438.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2438.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2438__label.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2438.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2483</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>label</abcd:MarkType>
+                  <abcd:MarkText>Halbopale; Monatsb. 1836 p. 84</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Kreide Appeninenkalk</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Opalmutter von Kaschau; Edler Opal von Kaschau; Halbopal von Kosenitz; Halbopal von Champigny; Halbopal von Steinheim; Halbopal aus Böhmen; Halbopal von St. Ouen b. Paris; Menilit.; Milchopal von Grunau in Mähren</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2483.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2483.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2483__label.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2483.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2487</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>label</abcd:MarkType>
+                  <abcd:MarkText>Krakau Hornstein des Coralrag. - ; Monatsb. 1843 p. 61; Microgeol. Taf. 37 VIII. ; Präparat Kast. 52. 53.; Probe N. 2860</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Jura Bildung</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Xanthidium penicillatum, ; Xanthidium hirsutum, ; Peridinium silicicola, ; Pyxidicula prisca ?</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Feuersteine des Coralrags von Podgerze bei Krakau; Prof. Zenschner misit.</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2487.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2487.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2487__label.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2487.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2497</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>label</abcd:MarkType>
+                  <abcd:MarkText>Petersburg Untersilurische Grünsande - ; Monatsb. 1858 p. 330; Abhandl. 1862 p. 600 f. 1-3; Präparat Kast. 51 B. 10; Probe N. 2878</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Primär Formation / Obersilurische und Untersilurische Grünsande von Petersburg</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Murch</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2497.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2497.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2497__label.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2497.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2522</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>label</abcd:MarkType>
+                  <abcd:MarkText>Melonie Jura Kalk v. Kaiserstuhl; Jura- Kalk von York; Melonien Jura Kalk von Bath. ; Sinther Oolith-Kalk von Frankreich; Rogenmergel v. Bernburg - ; Monatsb. 1843 p. 105; Microgeol. Taf. 37 IX.</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Bergkalk von Tula, Hornstein des Coralrag b. Krakau, Lydischer Stein der Steinkohle von Potschappel b. Dresden (Zankerode), Bellerophonten Kalk am Onega See, Feueropal von Zimapan in Mexico mit Vermetus</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Altes Meeres Oolith, ; Küstensand- und Süßwasser Oolith, ; Oolith Mergel</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Oolith Kalk</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2522.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2522.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2522__label.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2522.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2551</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Brachionus</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Brachionus brevispinus</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2551.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2551.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Notes>CTI: Berlin</abcd:Notes>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2572</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Callidina Spinnthierchen</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Callidina scarlatina</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Monte Rosa</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2572.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2572.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Notes>CTI: Monte Rosa K30 B6, Vergua K20 B1</abcd:Notes>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2595</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Diglena Zweiauge</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Diglena forcipata</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2595.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2595.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2629</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Hydatina Crystallthierchen</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2629.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2629.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2632</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Hydatina Crystallthierchen</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2632.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2632.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2646</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Mastigocerca Peitschenschwanz</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Mastigocerca carinata n.; Mastigocerca ? cristala;</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2646.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2646.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2650</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Megalotrocha Sonnenschirmthierchen</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Megalotrocha candida</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2650.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2650.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2742</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Salpina Salpenthierchen</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Salpina ventralis;</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2742.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2742.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2743</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Scaridium Springer</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Scaridium longicaudum; Trichoceras longicaudum n. ; Trichoda longicauda Müller</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2743.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2743.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2771</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Tardigraden (Lärmthierchen) / Echiniscus</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Echiniscus Suillus</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Monte Rosa</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2771.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2771.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Notes>CTI: Monte Rosa K30 B6, Himalaya K5 B18</abcd:Notes>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2783</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Entomostraca Cypris</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Daphnia Pulex</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2783.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2783.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2786</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Annulata / Photocharis</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Photocharis cirrigera; Nereis cirrigera Viviani; Nereis noctiluca Linnei</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2786.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2786.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2840</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Akalephen / Medusa aurita</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Medusa aurita</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Abhandl. d. Akad. 1835 T. III</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2840.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2840.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2851</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Akalephen / Medusa aurita</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Medusa aurita</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Abhandl. d. Akad. 1835 T. VIII;</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2851.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2851.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2864</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Bryozoen / Sertularia</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Sertularia dichotoma</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2864.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2864.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2906</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Phytolitharien / A. Poolithe / Lithodontium</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Lithodontium securiforme</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>place folder: Canning River</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2906.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2906.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2906__1.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2906.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2906__2.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2906.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Notes>CTI: Canning R. K1 B5</abcd:Notes>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_2933</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Phytolitharien / A. Poolithe</abcd:MarkText>
+                </abcd:Mark>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>taxon folder: Gramina aegyptiaca I; Sporobolus Agrostis pungens Kth, Stipa juncea, Aristida plumosa, Aristida lanata, Piptatherum multiflorum, Uraoline parviflora, Agrostis sinaitica, Sporobolus Vilfa spicata, Leersia oryzoides, Lygeum spartum, Aegylops (sexaristata) ovata, Andropogon</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_2933.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_2933.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MB_ED</abcd:SourceID>
+            <abcd:UnitID>MB_ED_3008</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Ehrenberg Drawings</abcd:FullScientificNameString>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Drawing</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Marks>
+                <abcd:Mark>
+                  <abcd:MarkType>inscription</abcd:MarkType>
+                  <abcd:MarkText>name folder: Wirkungen des polarisirten Lichtes</abcd:MarkText>
+                </abcd:Mark>
+              </abcd:Marks>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MB_ED_3008.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MB_ED_3008.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+          </abcd:Unit>
+        </abcd:Units>
+      </abcd:DataSet>
+    </abcd:DataSets>

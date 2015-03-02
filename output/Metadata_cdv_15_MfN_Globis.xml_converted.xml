@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<europeana:metadata xmlns:europeana="http://www.europeana.eu/schemas/ese/" xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06" xmlns:biocase="http://www.biocase.org/schemas/protocol/1.3" xmlns:efg="http://www.synthesys.info/ABCDEFG/1.0" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:wgs84="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>Global Butterfly Information System (GloBIS)</dc:identifier>
+      <dc:identifier>10269</dc:identifier>
+      <dc:title>Parnassius actius (Eversmann, 1843)</dc:title>
+      <dc:date>
+                  1911
+                </dc:date>
+      <dcterms:spatial>Karagai-tau</dcterms:spatial>
+      <dcterms:spatial>Kyrgyzstan</dcterms:spatial>
+      <dc:type>PreservedSpecimen</dc:type>
+      <dc:date>1911</dc:date>
+      <dc:description>Current type depository: MZSF, Florence ?; MFNB, Berlin (1 [m], syntype) // Cited type material: J'ai recu de la maison Staudinger deux [mm] et une [f] de Parnassiens, récoltés dans le Karagai-tau [...] 3. P. actius, Ev., forme dubitalis, Verity [m] (Karagai taou) [coll. Verity] // Other remarks:</dc:description>
+      <dc:description>Syntype(s)</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/dubitalis_Verity_Parnassius_actius_MNHU_1A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=10269</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/dubitalis_Verity_Parnassius_actius_MNHU_1A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/dubitalis_Verity_Parnassius_actius_MNHU_1B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=10269</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/dubitalis_Verity_Parnassius_actius_MNHU_1B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/dubitalis_Verity_Parnassius_actius_MNHU_1C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=10269</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/dubitalis_Verity_Parnassius_actius_MNHU_1C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>Global Butterfly Information System (GloBIS)</dc:identifier>
+      <dc:identifier>1106</dc:identifier>
+      <dc:title>Parnassius cephalus Grum-Grshimailo, 1891</dc:title>
+      <dc:date>
+                  1938
+                </dc:date>
+      <dcterms:spatial>50 km südwestlich der Stadt Liangtschou, 2500 m</dcterms:spatial>
+      <dcterms:spatial>China</dcterms:spatial>
+      <dc:type>PreservedSpecimen</dc:type>
+      <dc:date>1938</dc:date>
+      <dc:description>Current type depository: BMNH, London (1 [m], 1 [f], syntypes); RMNH, Leiden (2 syntypes); MFNB, Berlin ?;SMTD, Dresden (7 [mm], 28 [ff], syntypes) // Cited type material: Gefangen im Juli 1937, von P. Eierhoff, [...] [m] [f] // Other remarks:</dc:description>
+      <dc:description>Syntype(s)</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/eierhoffi_BangHaas_Parnassius_cephalus_MNHU_1A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=1106</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/eierhoffi_BangHaas_Parnassius_cephalus_MNHU_1A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/eierhoffi_BangHaas_Parnassius_cephalus_MNHU_2A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=1106</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/eierhoffi_BangHaas_Parnassius_cephalus_MNHU_2A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/eierhoffi_BangHaas_Parnassius_cephalus_MNHU_1B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=1106</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/eierhoffi_BangHaas_Parnassius_cephalus_MNHU_1B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/eierhoffi_BangHaas_Parnassius_cephalus_MNHU_2B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=1106</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/eierhoffi_BangHaas_Parnassius_cephalus_MNHU_2B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/eierhoffi_BangHaas_Parnassius_cephalus_MNHU_1C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=1106</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/eierhoffi_BangHaas_Parnassius_cephalus_MNHU_1C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/eierhoffi_BangHaas_Parnassius_cephalus_MNHU_2C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=1106</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/eierhoffi_BangHaas_Parnassius_cephalus_MNHU_2C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/eierhoffi_BangHaas_Parnassius_cephalus_MNHU_1D.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=1106</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/eierhoffi_BangHaas_Parnassius_cephalus_MNHU_1D.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>Global Butterfly Information System (GloBIS)</dc:identifier>
+      <dc:identifier>1129</dc:identifier>
+      <dc:title>Parnassius staudingeri Bang-Haas, 1882</dc:title>
+      <dc:date>
+                  1915
+                </dc:date>
+      <dcterms:spatial>auf der Südseite des Karakorumpasses [...] von Schamm (Süd-Ladak)</dcterms:spatial>
+      <dcterms:spatial>India; Pakistan</dcterms:spatial>
+      <dc:type>PreservedSpecimen</dc:type>
+      <dc:date>1915</dc:date>
+      <dc:description>Current type depository: BMNH, London (1 [m], syntype); ZSSM, Munich (3 syntypes); MFNB, Berlin ?; ZFMK, Bonn (1 [m], syntype); NRMS, Stockholm (1 [m], 1 [f], syntypes) // Cited type material: die wir von Schamm (Süd-Ladak) erhielten // Other remarks: The name has been introduced as ' delphius-Rasse stenosemus f. mamaievi (Avinoff i. l.) O. B.-H. n. var.'  - possibly an infrasubspecific name, check! No type specimens mentioned in SMTD, Dresden by Nekrutenko (2001).</dc:description>
+      <dc:description>Syntype(s)</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_1A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=1129</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_1A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_2A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=1129</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_2A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_3A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=1129</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_3A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_1B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=1129</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_1B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_2B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=1129</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_2B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_3B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=1129</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_3B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_1C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=1129</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_1C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_2C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=1129</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_2C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_3C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=1129</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/mamaievi_BangHaas_Parnassius_stenosemus_MNHU_3C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>Global Butterfly Information System (GloBIS)</dc:identifier>
+      <dc:identifier>3707</dc:identifier>
+      <dc:title>Parides cutorina (Staudinger, 1898)</dc:title>
+      <dc:date>
+                  1898
+                </dc:date>
+      <dcterms:spatial>vom oberen Amzonas [...] aus Sao Paulo de Olivenca, Pebas und besonders von Iquitos</dcterms:spatial>
+      <dcterms:spatial>Brazil; Peru</dcterms:spatial>
+      <dc:type>PreservedSpecimen</dc:type>
+      <dc:date>1898</dc:date>
+      <dc:description>Current type depository: MFNB, Berlin // Cited type material: erhielt ich bereits durch den [...] verstorbenen Dr. Hahnel Stücke vom oberen Amazonas, [...] Nach einer grösseren Anzahl von [mm] und einigen weiteren [ff], die ich in den letzten 5-6 Jahren von Otto Michael aus Sao Paulo de Olivenca, Pebas und besonders von Iquitos erhielt // Other remarks:</dc:description>
+      <dc:description>Syntype(s)</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/cutorina_Staudinger_Parides_MNHU_1A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/cutorina_Staudinger_Parides_MNHU_1A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/cutorina_Staudinger_Parides_MNHU_2A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/cutorina_Staudinger_Parides_MNHU_2A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_1A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_1A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_2A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_2A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_3A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_3A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_4A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_4A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/cutorina_Staudinger_Parides_MNHU_1B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/cutorina_Staudinger_Parides_MNHU_1B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/cutorina_Staudinger_Parides_MNHU_2B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/cutorina_Staudinger_Parides_MNHU_2B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_1B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_1B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_2B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_2B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_3B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_3B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_4B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_4B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/cutorina_Staudinger_Parides_MNHU_1C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/cutorina_Staudinger_Parides_MNHU_1C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/cutorina_Staudinger_Parides_MNHU_2C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/cutorina_Staudinger_Parides_MNHU_2C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_1C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_1C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_2C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_2C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_3C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_3C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_4C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3707</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_12/cutorina_Staudinger_Papilio_MNHU_4C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>Global Butterfly Information System (GloBIS)</dc:identifier>
+      <dc:identifier>3823</dc:identifier>
+      <dc:title>Papilio garleppi Staudinger, 1892</dc:title>
+      <dc:date>
+                  1892
+                </dc:date>
+      <dcterms:spatial>bei San Mateo am Rio Juntas (Chaparé) in Bolivien (etwa 300 Meter hoch)</dcterms:spatial>
+      <dcterms:spatial>Bolivia</dcterms:spatial>
+      <dc:type>PreservedSpecimen</dc:type>
+      <dc:date>1892</dc:date>
+      <dc:description>Current type depository: MFNB, Berlin // Cited type material: Herr Gustav Garlepp fand 6 [mm] // Other remarks:</dc:description>
+      <dc:description>Syntype(s)</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_1A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3823</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_1A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_2A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3823</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_2A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_3A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3823</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_3A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_4A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3823</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_4A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_5A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3823</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_5A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_1B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3823</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_1B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_2B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3823</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_2B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_3B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3823</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_3B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_4B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3823</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_4B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_5B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3823</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_5B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_1C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3823</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_1C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_2C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3823</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_2C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_3C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3823</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_3C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_4C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3823</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_4C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_5C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=3823</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/garleppi_Staudinger_Papilio_MNHU_5C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>Global Butterfly Information System (GloBIS)</dc:identifier>
+      <dc:identifier>4386</dc:identifier>
+      <dc:title>Parnassius jacquemontii Boisduval, 1836</dc:title>
+      <dc:date>
+                  1933
+                </dc:date>
+      <dcterms:spatial>Kansu mer. occ., Min, Minschan, 3000 m</dcterms:spatial>
+      <dcterms:spatial>China</dcterms:spatial>
+      <dc:type>PreservedSpecimen</dc:type>
+      <dc:date>1933</dc:date>
+      <dc:description>Current type depository: BMNH, London (2 [mm], syntypes); MFNB, Berlin (1 [m], syntype); SMTD, Dresden (6 [mm], 1 [f], syntypes); SMNK, Karlsruhe (4 [mm], syntypes) // Cited type material: Juli [...] [m] und [f] // Other remarks:</dc:description>
+      <dc:description>Syntype(s)</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/jupiterius_BangHaas_Parnassius_mercurius_MNHU_1A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=4386</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/jupiterius_BangHaas_Parnassius_mercurius_MNHU_1A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/jupiterius_BangHaas_Parnassius_mercurius_MNHU_1B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=4386</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/jupiterius_BangHaas_Parnassius_mercurius_MNHU_1B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/jupiterius_BangHaas_Parnassius_mercurius_MNHU_1C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=4386</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/jupiterius_BangHaas_Parnassius_mercurius_MNHU_1C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>Global Butterfly Information System (GloBIS)</dc:identifier>
+      <dc:identifier>512</dc:identifier>
+      <dc:title>Parnassius mnemosyne (Linnaeus, 1758)</dc:title>
+      <dc:date>
+                  1934
+                </dc:date>
+      <dcterms:spatial>Usbekistan, Fergana Kette, 70 km. von Andishan 2500 m, an der Schneegrenze</dcterms:spatial>
+      <dcterms:spatial>Kyrgyzstan</dcterms:spatial>
+      <dc:type>PreservedSpecimen</dc:type>
+      <dc:date>1934</dc:date>
+      <dc:description>Current type depository: MFNB, Berlin; SMTD, Dresden (3 syntypes) // Cited type material: gef. 21. und 22. 6. 1934. Spannweite: 17 [mm] 55-63 mm, 4 [ff] 58-63 mm. Benannt nach dem Sammler P. Danilov. // Other remarks: Possibly invalid as a homonym and objective synonym - the name was apparently published earlier by Bryk &amp; Eisner (Parnassiana, 3:12) - check!</dc:description>
+      <dc:description>Syntype(s)</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/danilovi_BrykEisner_Parnassius_mnemosyne_MNHU_1A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=512</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/danilovi_BrykEisner_Parnassius_mnemosyne_MNHU_1A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/danilovi_BrykEisner_Parnassius_mnemosyne_MNHU_1B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=512</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/danilovi_BrykEisner_Parnassius_mnemosyne_MNHU_1B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/danilovi_BrykEisner_Parnassius_mnemosyne_MNHU_1C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=512</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/danilovi_BrykEisner_Parnassius_mnemosyne_MNHU_1C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>Global Butterfly Information System (GloBIS)</dc:identifier>
+      <dc:identifier>5512</dc:identifier>
+      <dc:title>Parnassius stubbendorfii Ménétriés, 1849</dc:title>
+      <dc:date>
+                  1927
+                </dc:date>
+      <dcterms:spatial>Tschili, Jehol, Ostseite des Chingan mont. bei Lin si hien (zirka 500 km nördlich Pekings)</dcterms:spatial>
+      <dcterms:spatial>China</dcterms:spatial>
+      <dc:type>PreservedSpecimen</dc:type>
+      <dc:date>1927</dc:date>
+      <dc:description>Current type depository: MFNB, Berlin (1 [m], 1 [f], syntypes) // Cited type material: 1 [m] 65 mm, 1 [f] 67 mm. Leider erhielt ich nur ein einzelnes Paar, [...] Typen Aus Collection B.-Haas // Other remarks: No type specimens mentioned in SMTD, Dresden by Nekrutenko (2001).</dc:description>
+      <dc:description>Syntype(s)</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_1A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5512</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_1A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_2A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5512</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_2A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_3A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5512</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_3A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_4A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5512</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_4A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_1B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5512</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_1B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_2B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5512</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_2B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_3B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5512</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_3B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_4B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5512</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_4B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_1C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5512</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_1C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_2C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5512</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_2C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_3C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5512</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_3C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_4C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5512</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/jeholi_BangHaas_Parnassius_stubbendorfi_MNHU_4C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>Global Butterfly Information System (GloBIS)</dc:identifier>
+      <dc:identifier>5515</dc:identifier>
+      <dc:title>Parnassius eversmanni Ménétriés, 1855</dc:title>
+      <dc:date>
+                  1927
+                </dc:date>
+      <dcterms:spatial>an der gleichen Lokalität wie maui [...] Küstenprovinz, Sichota-alin (Küstengebirge), Tjutiha-Bucht (= Tjutjuhé) 400 km nördl. Wladiwostok, Ternei-Bucht, 600 km nördl. Wladiwostok, 1100 km süglich Nikolajewsk</dcterms:spatial>
+      <dcterms:spatial>Russia</dcterms:spatial>
+      <dc:type>PreservedSpecimen</dc:type>
+      <dc:date>1927</dc:date>
+      <dc:description>Current type depository: MFNB, Berlin ?; SMTD, Dresden ? // Cited type material:  // Other remarks: In the original description, no type material is explicitly mentioned. From other descriptions of new taxa in the same publication, it could be concluded that the name was based on material which was in coll. O. Bang-Haas, Dresden. No type specimens mentioned in SMTD, Dresden by Nekrutenko (2001).</dc:description>
+      <dc:description>Syntype(s)</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/mauoides_BangHaas_Parnassius_eversmanni_maui_MNHU_1A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5515</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/mauoides_BangHaas_Parnassius_eversmanni_maui_MNHU_1A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/mauoides_BangHaas_Parnassius_eversmanni_maui_MNHU_2A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5515</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/mauoides_BangHaas_Parnassius_eversmanni_maui_MNHU_2A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/mauoides_BangHaas_Parnassius_eversmanni_maui_MNHU_1B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5515</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/mauoides_BangHaas_Parnassius_eversmanni_maui_MNHU_1B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/mauoides_BangHaas_Parnassius_eversmanni_maui_MNHU_2B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5515</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/mauoides_BangHaas_Parnassius_eversmanni_maui_MNHU_2B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/mauoides_BangHaas_Parnassius_eversmanni_maui_MNHU_1C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5515</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/mauoides_BangHaas_Parnassius_eversmanni_maui_MNHU_1C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/mauoides_BangHaas_Parnassius_eversmanni_maui_MNHU_2C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=5515</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/mauoides_BangHaas_Parnassius_eversmanni_maui_MNHU_2C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>Global Butterfly Information System (GloBIS)</dc:identifier>
+      <dc:identifier>6134</dc:identifier>
+      <dc:title>Parnassius epaphus Oberthür, 1879</dc:title>
+      <dc:date>
+                  1937
+                </dc:date>
+      <dcterms:spatial>Burchan-Buddha, Nomohun Paß (4000 m)</dcterms:spatial>
+      <dcterms:spatial>China</dcterms:spatial>
+      <dc:type>PreservedSpecimen</dc:type>
+      <dc:date>1937</dc:date>
+      <dc:description>Current type depository: MFNB, Berlin (2 [mm], 1 [f], syntypes); RMNH, Leiden ? // Cited type material: 1 [m], 1 [f] Typen, 4 [m], 4 [f] Paratypen. // Other remarks:</dc:description>
+      <dc:description>Syntype(s)</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/gautama_BrykEisner_Parnassius_epaphus_MNHU_1A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=6134</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/gautama_BrykEisner_Parnassius_epaphus_MNHU_1A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/gautama_BrykEisner_Parnassius_epaphus_MNHU_2A.jpg">
+      <dc:description>upperside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=6134</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/gautama_BrykEisner_Parnassius_epaphus_MNHU_2A.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/gautama_BrykEisner_Parnassius_epaphus_MNHU_1B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=6134</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/gautama_BrykEisner_Parnassius_epaphus_MNHU_1B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/gautama_BrykEisner_Parnassius_epaphus_MNHU_2B.jpg">
+      <dc:description>underside</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=6134</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/gautama_BrykEisner_Parnassius_epaphus_MNHU_2B.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/gautama_BrykEisner_Parnassius_epaphus_MNHU_1C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=6134</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/gautama_BrykEisner_Parnassius_epaphus_MNHU_1C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://globis-images.insects-online.de/images/Berlin/Berlin_05/gautama_BrykEisner_Parnassius_epaphus_MNHU_2C.jpg">
+      <dc:description>labels</dc:description>
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://www.globis.insects-online.de/?q=node/3&amp;s=6134</europeana:isShownAt>
+      <europeana:isShownBy>http://globis-images.insects-online.de/images/Berlin/Berlin_05/gautama_BrykEisner_Parnassius_epaphus_MNHU_2C.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+</europeana:metadata>

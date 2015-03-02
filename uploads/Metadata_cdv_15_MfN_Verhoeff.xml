@@ -1,0 +1,1883 @@
+<?xml version='1.0' encoding='UTF-8'?>
+    <abcd:DataSets xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06" xmlns:biocase="http://www.biocase.org/schemas/protocol/1.3" xmlns:efg="http://www.synthesys.info/ABCDEFG/1.0">
+      <abcd:DataSet>
+        <abcd:TechnicalContacts>
+          <abcd:TechnicalContact>
+            <abcd:Name>GBIF-Team</abcd:Name>
+            <abcd:Email>gbif@mfn-berlin.de</abcd:Email>
+            <abcd:Phone>+49 30 2093 8672</abcd:Phone>
+            <abcd:Address>Museum fuer Naturkunde Invaliden Str. 43  10115 Berlin Deutschland</abcd:Address>
+          </abcd:TechnicalContact>
+        </abcd:TechnicalContacts>
+        <abcd:ContentContacts>
+          <abcd:ContentContact>
+            <abcd:Name>Jason Dunlop</abcd:Name>
+            <abcd:Email>jason.dunlop@mfn-berlin.de</abcd:Email>
+            <abcd:Phone>+49 30 2093 8516</abcd:Phone>
+            <abcd:Address>Museum fuer Naturkunde Invaliden Str. 43  10115 Berlin Deutschland</abcd:Address>
+          </abcd:ContentContact>
+        </abcd:ContentContacts>
+        <abcd:Metadata>
+          <abcd:Description>
+            <abcd:Representation abcd:language="EN EN-US">
+              <abcd:Title>MfN Myriapoda Verhoeff Collection</abcd:Title>
+            </abcd:Representation>
+          </abcd:Description>
+          <abcd:RevisionData>
+            <abcd:DateModified>2013-11-04</abcd:DateModified>
+          </abcd:RevisionData>
+          <abcd:Owners>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="EN-US">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+              <abcd:Person>
+                <abcd:FullName>Jason Dunlop</abcd:FullName>
+              </abcd:Person>
+              <abcd:Addresses>
+                <abcd:Address>Museum fuer Naturkunde Invaliden Str. 43  10115 Berlin Deutschland</abcd:Address>
+              </abcd:Addresses>
+              <abcd:TelephoneNumbers>
+                <abcd:TelephoneNumber>
+                  <abcd:Number>+49 30 2093 8516</abcd:Number>
+                  <abcd:Device>voice</abcd:Device>
+                </abcd:TelephoneNumber>
+              </abcd:TelephoneNumbers>
+              <abcd:EmailAddresses>
+                <abcd:EmailAddress>jason.dunlop@mfn-berlin.de</abcd:EmailAddress>
+              </abcd:EmailAddresses>
+            </abcd:Owner>
+          </abcd:Owners>
+          <abcd:IPRStatements>
+            <abcd:IPRDeclarations>
+              <abcd:IPRDeclaration abcd:language="EN EN-US">
+                <abcd:Text>CC-BY-SA</abcd:Text>
+                <abcd:Details>Creative Commons Attribution Share Alike</abcd:Details>
+                <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+              </abcd:IPRDeclaration>
+            </abcd:IPRDeclarations>
+            <abcd:Licenses>
+              <abcd:License abcd:language="EN EN-US">
+                <abcd:Text>Creative Commons (CC-by)</abcd:Text>
+                <abcd:Details>Creative Commons (CC-by)</abcd:Details>
+                <abcd:URI>http://creativecommons.org/licenses/by/3.0/</abcd:URI>
+              </abcd:License>
+            </abcd:Licenses>
+          </abcd:IPRStatements>
+        </abcd:Metadata>
+        <abcd:Units>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Myr_Verhoeff</abcd:SourceID>
+            <abcd:UnitID>ZMB_Myr_11632</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Arthropoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Diplopoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Julida</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Julidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Schizophyllum fissum Verhoeff, 1921</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Schizophyllum</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>fissum</abcd:SpeciesEpithet>
+                          <abcd:AuthorTeamOriginalAndYear>Verhoeff, 1921</abcd:AuthorTeamOriginalAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:References>
+                  <abcd:Reference>
+                    <abcd:TitleCitation>Arch. Nat. 86</abcd:TitleCitation>
+                    <abcd:CitationDetail>p. 76</abcd:CitationDetail>
+                  </abcd:Reference>
+                </abcd:References>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>preserved specimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN-US">whole organismus</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN-US">microscopic preparation</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>Syntypus</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_11632__(a)_Verhoeff Nr_3900.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_11632.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_11632__(b)_Verhoeff Nr_3900.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_11632.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText language="DE">Villa Rutis, Spanien</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Spanien</abcd:Name>
+              </abcd:Country>
+              <abcd:Notes language="DE">[unklar]</abcd:Notes>
+            </abcd:Gathering>
+            <abcd:Notes abcd:language="DE" />
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Myr_Verhoeff</abcd:SourceID>
+            <abcd:UnitID>ZMB_Myr_12504c</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Arthropoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Diplopoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Spirobolida</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Rhinocricidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Rhinocricus nattereri padbergie Verhoeff, 1938</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Rhinocricus</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>nattereri</abcd:SpeciesEpithet>
+                          <abcd:SubspeciesEpithet>padbergie</abcd:SubspeciesEpithet>
+                          <abcd:AuthorTeamOriginalAndYear>Verhoeff, 1938</abcd:AuthorTeamOriginalAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:References>
+                  <abcd:Reference>
+                    <abcd:TitleCitation>Zool. Anz. 122</abcd:TitleCitation>
+                    <abcd:CitationDetail>p. 278</abcd:CitationDetail>
+                  </abcd:Reference>
+                </abcd:References>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>preserved specimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN-US">whole organismus</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN-US">microscopic preparation</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>Syntypus</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_12504c__(a)_Verhoeff Nr_4023.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_12504c.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_12504c__(b)_Verhoeff Nr_4023.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_12504c.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText language="DE">Rio de Janeiro</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Brasilien</abcd:Name>
+              </abcd:Country>
+              <abcd:SiteCoordinateSets>
+                <abcd:SiteCoordinates>
+                  <abcd:CoordinateMethod>Google Earth</abcd:CoordinateMethod>
+                  <abcd:CoordinatesLatLong>
+                    <abcd:LongitudeDecimal>-43.20944</abcd:LongitudeDecimal>
+                    <abcd:LatitudeDecimal>-22.90333</abcd:LatitudeDecimal>
+                    <abcd:CoordinateErrorDistanceInMeters>20.000</abcd:CoordinateErrorDistanceInMeters>
+                  </abcd:CoordinatesLatLong>
+                </abcd:SiteCoordinates>
+              </abcd:SiteCoordinateSets>
+              <abcd:Altitude>
+                <abcd:MeasurementOrFactAtomised>
+                  <abcd:Method>Google</abcd:Method>
+                  <abcd:LowerValue>13</abcd:LowerValue>
+                  <abcd:IsQuantitative>true</abcd:IsQuantitative>
+                </abcd:MeasurementOrFactAtomised>
+              </abcd:Altitude>
+              <abcd:Notes language="DE" />
+            </abcd:Gathering>
+            <abcd:Notes abcd:language="DE" />
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Myr_Verhoeff</abcd:SourceID>
+            <abcd:UnitID>ZMB_Myr_12679a</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Arthropoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Diplopoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Chordeumatida</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Craspedosomatidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Oroposoma fagorum Verhoeff, 1936</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Oroposoma</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>fagorum</abcd:SpeciesEpithet>
+                          <abcd:AuthorTeamOriginalAndYear>Verhoeff, 1936</abcd:AuthorTeamOriginalAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:References>
+                  <abcd:Reference>
+                    <abcd:TitleCitation>Zool. Jb. 68</abcd:TitleCitation>
+                    <abcd:CitationDetail>p. 367</abcd:CitationDetail>
+                  </abcd:Reference>
+                </abcd:References>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>preserved specimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN-US">whole organismus</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN-US">microscopic preparation</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>Syntypus</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_12679a__(a)_Verhoeff Nr_3754.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_12679a.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_12679a__(b)_Verhoeff Nr_3754.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_12679a.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText language="DE">Oropa</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Italien</abcd:Name>
+              </abcd:Country>
+              <abcd:SiteCoordinateSets>
+                <abcd:SiteCoordinates>
+                  <abcd:CoordinateMethod>Google Earth</abcd:CoordinateMethod>
+                  <abcd:CoordinatesLatLong>
+                    <abcd:LongitudeDecimal>7.98278</abcd:LongitudeDecimal>
+                    <abcd:LatitudeDecimal>45.62556</abcd:LatitudeDecimal>
+                    <abcd:CoordinateErrorDistanceInMeters>900</abcd:CoordinateErrorDistanceInMeters>
+                  </abcd:CoordinatesLatLong>
+                </abcd:SiteCoordinates>
+              </abcd:SiteCoordinateSets>
+              <abcd:Altitude>
+                <abcd:MeasurementOrFactAtomised>
+                  <abcd:Method>Google</abcd:Method>
+                  <abcd:LowerValue>1.138</abcd:LowerValue>
+                  <abcd:IsQuantitative>true</abcd:IsQuantitative>
+                </abcd:MeasurementOrFactAtomised>
+              </abcd:Altitude>
+              <abcd:Notes language="DE" />
+            </abcd:Gathering>
+            <abcd:Notes abcd:language="DE" />
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Myr_Verhoeff</abcd:SourceID>
+            <abcd:UnitID>ZMB_Myr_12694c</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Arthropoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Diplopoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Polydesmida</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Xystodesmidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Macellolophus excavatus Verhoeff, 1931</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Macellolophus</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>excavatus</abcd:SpeciesEpithet>
+                          <abcd:AuthorTeamOriginalAndYear>Verhoeff, 1931</abcd:AuthorTeamOriginalAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:References>
+                  <abcd:Reference>
+                    <abcd:TitleCitation>Zool. Jb. 61</abcd:TitleCitation>
+                    <abcd:CitationDetail>p. 439</abcd:CitationDetail>
+                  </abcd:Reference>
+                </abcd:References>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>preserved specimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN-US">whole organismus</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN-US">microscopic preparation</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>Syntypus</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_12694c__(a)_Verhoeff Nr_3994.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_12694c.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_12694c__(b)_Verhoeff Nr_3994.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_12694c.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Agents>
+                <abcd:GatheringAgent>
+                  <abcd:Person>
+                    <abcd:FullName>Verhoeff</abcd:FullName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:LocalityText language="DE">Südspanien</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Spanien</abcd:Name>
+              </abcd:Country>
+              <abcd:SiteCoordinateSets>
+                <abcd:SiteCoordinates>
+                  <abcd:CoordinateMethod>Google Earth</abcd:CoordinateMethod>
+                  <abcd:CoordinatesLatLong>
+                    <abcd:LongitudeDecimal>-4.29056</abcd:LongitudeDecimal>
+                    <abcd:LatitudeDecimal>38.00972</abcd:LatitudeDecimal>
+                    <abcd:CoordinateErrorDistanceInMeters>230.000</abcd:CoordinateErrorDistanceInMeters>
+                  </abcd:CoordinatesLatLong>
+                </abcd:SiteCoordinates>
+              </abcd:SiteCoordinateSets>
+              <abcd:Altitude>
+                <abcd:MeasurementOrFactAtomised>
+                  <abcd:Method>Google</abcd:Method>
+                  <abcd:LowerValue>298</abcd:LowerValue>
+                  <abcd:IsQuantitative>true</abcd:IsQuantitative>
+                </abcd:MeasurementOrFactAtomised>
+              </abcd:Altitude>
+              <abcd:Notes language="DE" />
+            </abcd:Gathering>
+            <abcd:Notes abcd:language="DE" />
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Myr_Verhoeff</abcd:SourceID>
+            <abcd:UnitID>ZMB_Myr_12740b</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Arthropoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Diplopoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Chordeumatida</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Mastigophorophyllidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Heteroporatia alpivagum Verhoeff, 1897</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Heteroporatia</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>alpivagum</abcd:SpeciesEpithet>
+                          <abcd:AuthorTeamOriginalAndYear>Verhoeff, 1897</abcd:AuthorTeamOriginalAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:References>
+                  <abcd:Reference>
+                    <abcd:TitleCitation>Zool. Anz. 527-528</abcd:TitleCitation>
+                    <abcd:CitationDetail>p. 17</abcd:CitationDetail>
+                  </abcd:Reference>
+                </abcd:References>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>preserved specimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN-US">whole organismus</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN-US">microscopic preparation</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>Syntypus</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_12740b__(a)_Verhoeff Nr_478.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_12740b.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_12740b__(b)_Verhoeff Nr_478.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_12740b.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Agents>
+                <abcd:GatheringAgent>
+                  <abcd:Person>
+                    <abcd:FullName>Verhoeff</abcd:FullName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:LocalityText language="DE">Cindrell</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Rumänien</abcd:Name>
+              </abcd:Country>
+              <abcd:SiteCoordinateSets>
+                <abcd:SiteCoordinates>
+                  <abcd:CoordinateMethod>Google Earth</abcd:CoordinateMethod>
+                  <abcd:CoordinatesLatLong>
+                    <abcd:LongitudeDecimal>23.79612</abcd:LongitudeDecimal>
+                    <abcd:LatitudeDecimal>45.57667</abcd:LatitudeDecimal>
+                    <abcd:CoordinateErrorDistanceInMeters>9.500</abcd:CoordinateErrorDistanceInMeters>
+                  </abcd:CoordinatesLatLong>
+                </abcd:SiteCoordinates>
+              </abcd:SiteCoordinateSets>
+              <abcd:Altitude>
+                <abcd:MeasurementOrFactAtomised>
+                  <abcd:Method>Google</abcd:Method>
+                  <abcd:LowerValue>2.100</abcd:LowerValue>
+                  <abcd:IsQuantitative>true</abcd:IsQuantitative>
+                </abcd:MeasurementOrFactAtomised>
+              </abcd:Altitude>
+              <abcd:Notes language="DE">[= Cindrel]</abcd:Notes>
+            </abcd:Gathering>
+            <abcd:Notes abcd:language="DE" />
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Myr_Verhoeff</abcd:SourceID>
+            <abcd:UnitID>ZMB_Myr_12775b</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Arthropoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Diplopoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Chordeumatida</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Mastigophorophyllidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Mastigophorophyllon jickelii Verhoeff, 1900</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Mastigophorophyllon</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>jickelii</abcd:SpeciesEpithet>
+                          <abcd:AuthorTeamOriginalAndYear>Verhoeff, 1900</abcd:AuthorTeamOriginalAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:References>
+                  <abcd:Reference>
+                    <abcd:TitleCitation>Arch. Nat. 1/3</abcd:TitleCitation>
+                    <abcd:CitationDetail>p. 368</abcd:CitationDetail>
+                  </abcd:Reference>
+                </abcd:References>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>preserved specimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN-US">whole organismus</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN-US">microscopic preparation</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>Syntypus</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_12775b__(a)_Verhoeff Nr_505.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_12775b.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_12775b__(b)_Verhoeff Nr_505.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_12775b.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Agents>
+                <abcd:GatheringAgent>
+                  <abcd:Person>
+                    <abcd:FullName>Jickeli</abcd:FullName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:LocalityText language="DE" />
+              <abcd:Country>
+                <abcd:Name>Rumänien</abcd:Name>
+              </abcd:Country>
+              <abcd:AreaDetail>Nordsiebenbürgen</abcd:AreaDetail>
+              <abcd:Notes language="DE">[unklar]</abcd:Notes>
+            </abcd:Gathering>
+            <abcd:Notes abcd:language="DE" />
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Myr_Verhoeff</abcd:SourceID>
+            <abcd:UnitID>ZMB_Myr_12917a</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Arthropoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Diplopoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Callipodida</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Callipodidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Callipus foetidissimus var. ligurinus Verhoeff, 1902</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Callipus</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>foetidissimus</abcd:SpeciesEpithet>
+                          <abcd:SubspeciesEpithet>var. ligurinus</abcd:SubspeciesEpithet>
+                          <abcd:AuthorTeamOriginalAndYear>Verhoeff, 1902</abcd:AuthorTeamOriginalAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:References>
+                  <abcd:Reference>
+                    <abcd:TitleCitation>Arch. Nat. 68</abcd:TitleCitation>
+                    <abcd:CitationDetail>p. 187</abcd:CitationDetail>
+                  </abcd:Reference>
+                </abcd:References>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>preserved specimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN-US">whole organismus</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN-US">microscopic preparation</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>nov. var.</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_12917a__(a)_Verhoeff Nr_802.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_12917a.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_12917a__(b)_Verhoeff Nr_802.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_12917a.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Agents>
+                <abcd:GatheringAgent>
+                  <abcd:Person>
+                    <abcd:FullName>Verhoeff</abcd:FullName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:LocalityText language="DE">Nervi</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Italien</abcd:Name>
+              </abcd:Country>
+              <abcd:SiteCoordinateSets>
+                <abcd:SiteCoordinates>
+                  <abcd:CoordinateMethod>Google Earth</abcd:CoordinateMethod>
+                  <abcd:CoordinatesLatLong>
+                    <abcd:LongitudeDecimal>9.03555</abcd:LongitudeDecimal>
+                    <abcd:LatitudeDecimal>44.38472</abcd:LatitudeDecimal>
+                    <abcd:CoordinateErrorDistanceInMeters>1.400</abcd:CoordinateErrorDistanceInMeters>
+                  </abcd:CoordinatesLatLong>
+                </abcd:SiteCoordinates>
+              </abcd:SiteCoordinateSets>
+              <abcd:Altitude>
+                <abcd:MeasurementOrFactAtomised>
+                  <abcd:Method>Google</abcd:Method>
+                  <abcd:LowerValue>60</abcd:LowerValue>
+                  <abcd:IsQuantitative>true</abcd:IsQuantitative>
+                </abcd:MeasurementOrFactAtomised>
+              </abcd:Altitude>
+              <abcd:Notes language="DE">[OT von Genua]</abcd:Notes>
+            </abcd:Gathering>
+            <abcd:Notes abcd:language="DE" />
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Myr_Verhoeff</abcd:SourceID>
+            <abcd:UnitID>ZMB_Myr_12936a</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Arthropoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Diplopoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Callipodida</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Callipodidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Lysiopetalum turricum Verhoeff, 1898</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Lysiopetalum</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>turricum</abcd:SpeciesEpithet>
+                          <abcd:AuthorTeamOriginalAndYear>Verhoeff, 1898</abcd:AuthorTeamOriginalAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:References>
+                  <abcd:Reference>
+                    <abcd:TitleCitation>Verh. Zool.-bot. Ges. Wien 48</abcd:TitleCitation>
+                    <abcd:CitationDetail>p. 302</abcd:CitationDetail>
+                  </abcd:Reference>
+                </abcd:References>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>preserved specimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN-US">whole organismus</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN-US">microscopic preparation</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>Holotypus</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_12936a__(a)_Verhoeff Nr_862.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_12936a.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_12936a__(b)_Verhoeff Nr_862.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_12936a.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Agents>
+                <abcd:GatheringAgent>
+                  <abcd:Person>
+                    <abcd:FullName>(Holtz)</abcd:FullName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:LocalityText language="DE" />
+              <abcd:Country>
+                <abcd:Name>Türkei</abcd:Name>
+              </abcd:Country>
+              <abcd:AreaDetail>Cilicien</abcd:AreaDetail>
+              <abcd:SiteCoordinateSets>
+                <abcd:SiteCoordinates>
+                  <abcd:CoordinateMethod>Google Maps+Earth</abcd:CoordinateMethod>
+                  <abcd:CoordinatesLatLong>
+                    <abcd:LongitudeDecimal>35.8475</abcd:LongitudeDecimal>
+                    <abcd:LatitudeDecimal>37.30083</abcd:LatitudeDecimal>
+                    <abcd:CoordinateErrorDistanceInMeters>96.000</abcd:CoordinateErrorDistanceInMeters>
+                  </abcd:CoordinatesLatLong>
+                </abcd:SiteCoordinates>
+              </abcd:SiteCoordinateSets>
+              <abcd:Altitude>
+                <abcd:MeasurementOrFactAtomised>
+                  <abcd:Method>Google</abcd:Method>
+                  <abcd:LowerValue>75</abcd:LowerValue>
+                  <abcd:IsQuantitative>true</abcd:IsQuantitative>
+                </abcd:MeasurementOrFactAtomised>
+              </abcd:Altitude>
+              <abcd:Notes language="DE">[= Cilicia]</abcd:Notes>
+            </abcd:Gathering>
+            <abcd:Notes abcd:language="DE" />
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Myr_Verhoeff</abcd:SourceID>
+            <abcd:UnitID>ZMB_Myr_13052</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Arthropoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Diplopoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Julida</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Julidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Leptoiulus noricus tauerorum Verhoeff, 1913</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Leptoiulus</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>noricus</abcd:SpeciesEpithet>
+                          <abcd:SubspeciesEpithet>tauerorum</abcd:SubspeciesEpithet>
+                          <abcd:AuthorTeamOriginalAndYear>Verhoeff, 1913</abcd:AuthorTeamOriginalAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:References>
+                  <abcd:Reference>
+                    <abcd:TitleCitation>Zool. Anz. 43</abcd:TitleCitation>
+                    <abcd:CitationDetail>p. 101, 104</abcd:CitationDetail>
+                  </abcd:Reference>
+                </abcd:References>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>preserved specimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN-US">whole organismus</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN-US">microscopic preparation</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>Syntypus</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_13052__(a)_Verhoeff Nr_3259.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_13052.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_13052__(b)_Verhoeff Nr_3259.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_13052.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText language="DE">Palfneralp</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Österreich</abcd:Name>
+              </abcd:Country>
+              <abcd:AreaDetail>Palfner Alpe</abcd:AreaDetail>
+              <abcd:SiteCoordinateSets>
+                <abcd:SiteCoordinates>
+                  <abcd:CoordinateMethod>Google Earth</abcd:CoordinateMethod>
+                  <abcd:CoordinatesLatLong>
+                    <abcd:LongitudeDecimal>12.88694</abcd:LongitudeDecimal>
+                    <abcd:LatitudeDecimal>47.14111</abcd:LatitudeDecimal>
+                    <abcd:CoordinateErrorDistanceInMeters>100</abcd:CoordinateErrorDistanceInMeters>
+                  </abcd:CoordinatesLatLong>
+                </abcd:SiteCoordinates>
+              </abcd:SiteCoordinateSets>
+              <abcd:Altitude>
+                <abcd:MeasurementOrFactAtomised>
+                  <abcd:Method>Google</abcd:Method>
+                  <abcd:LowerValue>1.335</abcd:LowerValue>
+                  <abcd:IsQuantitative>true</abcd:IsQuantitative>
+                </abcd:MeasurementOrFactAtomised>
+              </abcd:Altitude>
+              <abcd:Notes language="DE">[wohl Palfneralm]</abcd:Notes>
+            </abcd:Gathering>
+            <abcd:Notes abcd:language="DE" />
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Myr_Verhoeff</abcd:SourceID>
+            <abcd:UnitID>ZMB_Myr_13708b</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Arthropoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Diplopoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Julida</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Julidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Fusiulus koreanus Verhoeff, 1937</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Fusiulus</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>koreanus</abcd:SpeciesEpithet>
+                          <abcd:AuthorTeamOriginalAndYear>Verhoeff, 1937</abcd:AuthorTeamOriginalAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:References>
+                  <abcd:Reference>
+                    <abcd:TitleCitation>Zool. Anz. 119</abcd:TitleCitation>
+                    <abcd:CitationDetail>p. 38</abcd:CitationDetail>
+                  </abcd:Reference>
+                </abcd:References>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>preserved specimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN-US">whole organismus</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN-US">microscopic preparation</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>Syntypus</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_13708b__(a)_Verhoeff Nr_3963.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_13708b.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_13708b__(b)_Verhoeff Nr_3963.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_13708b.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText language="DE">Korea</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Korea</abcd:Name>
+              </abcd:Country>
+              <abcd:SiteCoordinateSets>
+                <abcd:SiteCoordinates>
+                  <abcd:CoordinateMethod>Google Earth</abcd:CoordinateMethod>
+                  <abcd:CoordinatesLatLong>
+                    <abcd:LongitudeDecimal>127.49972</abcd:LongitudeDecimal>
+                    <abcd:LatitudeDecimal>37.80917</abcd:LatitudeDecimal>
+                    <abcd:CoordinateErrorDistanceInMeters>600.000</abcd:CoordinateErrorDistanceInMeters>
+                  </abcd:CoordinatesLatLong>
+                </abcd:SiteCoordinates>
+              </abcd:SiteCoordinateSets>
+              <abcd:Altitude>
+                <abcd:MeasurementOrFactAtomised>
+                  <abcd:Method>Google</abcd:Method>
+                  <abcd:LowerValue>256</abcd:LowerValue>
+                  <abcd:IsQuantitative>true</abcd:IsQuantitative>
+                </abcd:MeasurementOrFactAtomised>
+              </abcd:Altitude>
+              <abcd:Notes language="DE" />
+            </abcd:Gathering>
+            <abcd:Notes abcd:language="DE" />
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Myr_Verhoeff</abcd:SourceID>
+            <abcd:UnitID>ZMB_Myr_13714b</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Arthropoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Diplopoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Polydesmida</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Gomphodesmidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Urodesmus (Attemsocyphus) serratus Verhoeff, 1936</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Urodesmus (Attemsocyphus)</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>serratus</abcd:SpeciesEpithet>
+                          <abcd:AuthorTeamOriginalAndYear>Verhoeff, 1936</abcd:AuthorTeamOriginalAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>preserved specimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN-US">whole organismus</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN-US">microscopic preparation</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_13714b__(a)_Verhoeff Nr_4043.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_13714b.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_13714b__(b)_Verhoeff Nr_4043.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_13714b.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText language="DE">Colombo</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Sri Lanka</abcd:Name>
+              </abcd:Country>
+              <abcd:SiteCoordinateSets>
+                <abcd:SiteCoordinates>
+                  <abcd:CoordinateMethod>Google Earth</abcd:CoordinateMethod>
+                  <abcd:CoordinatesLatLong>
+                    <abcd:LongitudeDecimal>79.86111</abcd:LongitudeDecimal>
+                    <abcd:LatitudeDecimal>69.2694</abcd:LatitudeDecimal>
+                    <abcd:CoordinateErrorDistanceInMeters>2.000</abcd:CoordinateErrorDistanceInMeters>
+                  </abcd:CoordinatesLatLong>
+                </abcd:SiteCoordinates>
+              </abcd:SiteCoordinateSets>
+              <abcd:Altitude>
+                <abcd:MeasurementOrFactAtomised>
+                  <abcd:Method>Google</abcd:Method>
+                  <abcd:LowerValue>13</abcd:LowerValue>
+                  <abcd:IsQuantitative>true</abcd:IsQuantitative>
+                </abcd:MeasurementOrFactAtomised>
+              </abcd:Altitude>
+              <abcd:Notes language="DE" />
+            </abcd:Gathering>
+            <abcd:Notes abcd:language="DE" />
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Myr_Verhoeff</abcd:SourceID>
+            <abcd:UnitID>ZMB_Myr_3918b</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Arthropoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Diplopoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Glomerida</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Glomeridae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Glomeris hexasticha var. szeklerana Verhoeff, 1906</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Glomeris</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>hexasticha</abcd:SpeciesEpithet>
+                          <abcd:SubspeciesEpithet>var. szeklerana</abcd:SubspeciesEpithet>
+                          <abcd:AuthorTeamOriginalAndYear>Verhoeff, 1906</abcd:AuthorTeamOriginalAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:References>
+                  <abcd:Reference>
+                    <abcd:TitleCitation>Arch. Nat. 72, 1/2</abcd:TitleCitation>
+                    <abcd:CitationDetail>p. 134</abcd:CitationDetail>
+                  </abcd:Reference>
+                </abcd:References>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>preserved specimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN-US">whole organismus</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN-US">microscopic preparation</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>nov. var.</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_3918b__(a)_Verhoeff Nr_2018.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_3918b.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_3918b__(b)_Verhoeff Nr_2018.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_3918b.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Agents>
+                <abcd:GatheringAgent>
+                  <abcd:Person>
+                    <abcd:FullName>Verhoeff</abcd:FullName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:LocalityText language="DE">Kronstadt</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Rumänien</abcd:Name>
+              </abcd:Country>
+              <abcd:AreaDetail>Siebenbür.</abcd:AreaDetail>
+              <abcd:SiteCoordinateSets>
+                <abcd:SiteCoordinates>
+                  <abcd:CoordinateMethod>Google Earth</abcd:CoordinateMethod>
+                  <abcd:CoordinatesLatLong>
+                    <abcd:LongitudeDecimal>25.61057</abcd:LongitudeDecimal>
+                    <abcd:LatitudeDecimal>45.65557</abcd:LatitudeDecimal>
+                    <abcd:CoordinateErrorDistanceInMeters>3.000</abcd:CoordinateErrorDistanceInMeters>
+                  </abcd:CoordinatesLatLong>
+                </abcd:SiteCoordinates>
+              </abcd:SiteCoordinateSets>
+              <abcd:Altitude>
+                <abcd:MeasurementOrFactAtomised>
+                  <abcd:Method>Google</abcd:Method>
+                  <abcd:LowerValue>585</abcd:LowerValue>
+                  <abcd:IsQuantitative>true</abcd:IsQuantitative>
+                </abcd:MeasurementOrFactAtomised>
+              </abcd:Altitude>
+              <abcd:Notes language="DE">[= Brasov]</abcd:Notes>
+            </abcd:Gathering>
+            <abcd:Notes abcd:language="DE" />
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Myr_Verhoeff</abcd:SourceID>
+            <abcd:UnitID>ZMB_Myr_3926</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Arthropoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Diplopoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Glomerida</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Glomeridae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Glomeris hexasticha corylivora Verhoeff, 1906</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Glomeris</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>hexasticha</abcd:SpeciesEpithet>
+                          <abcd:SubspeciesEpithet>corylivora</abcd:SubspeciesEpithet>
+                          <abcd:AuthorTeamOriginalAndYear>Verhoeff, 1906</abcd:AuthorTeamOriginalAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:References>
+                  <abcd:Reference>
+                    <abcd:TitleCitation>Arch. Nat. 72, 1/2</abcd:TitleCitation>
+                    <abcd:CitationDetail>p. 128</abcd:CitationDetail>
+                  </abcd:Reference>
+                </abcd:References>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>preserved specimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN-US">whole organismus</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN-US">microscopic preparation</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>nov. var.</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_3926__(a)_Verhoeff Nr_2011.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_3926.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_3926__(b)_Verhoeff Nr_2011.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_3926.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText language="DE">Kremnitz</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Slowakei</abcd:Name>
+              </abcd:Country>
+              <abcd:AreaDetail>Oberungarn</abcd:AreaDetail>
+              <abcd:SiteCoordinateSets>
+                <abcd:SiteCoordinates>
+                  <abcd:CoordinateMethod>Google Earth</abcd:CoordinateMethod>
+                  <abcd:CoordinatesLatLong>
+                    <abcd:LongitudeDecimal>18.91583</abcd:LongitudeDecimal>
+                    <abcd:LatitudeDecimal>48.705</abcd:LatitudeDecimal>
+                    <abcd:CoordinateErrorDistanceInMeters>1.300</abcd:CoordinateErrorDistanceInMeters>
+                  </abcd:CoordinatesLatLong>
+                </abcd:SiteCoordinates>
+              </abcd:SiteCoordinateSets>
+              <abcd:Altitude>
+                <abcd:MeasurementOrFactAtomised>
+                  <abcd:Method>Google</abcd:Method>
+                  <abcd:LowerValue>555</abcd:LowerValue>
+                  <abcd:IsQuantitative>true</abcd:IsQuantitative>
+                </abcd:MeasurementOrFactAtomised>
+              </abcd:Altitude>
+              <abcd:Notes language="DE">[= Kremnica]</abcd:Notes>
+            </abcd:Gathering>
+            <abcd:Notes abcd:language="DE" />
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Myr_Verhoeff</abcd:SourceID>
+            <abcd:UnitID>ZMB_Myr_5745b</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Arthropoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Diplopoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Sphaerotheriida</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Zephroniidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Prionobelum durum Verhoeff, 1924</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Prionobelum</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>durum</abcd:SpeciesEpithet>
+                          <abcd:AuthorTeamOriginalAndYear>Verhoeff, 1924</abcd:AuthorTeamOriginalAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:References>
+                  <abcd:Reference>
+                    <abcd:TitleCitation>Arkiv f. Zool. 16</abcd:TitleCitation>
+                    <abcd:CitationDetail>p. 64</abcd:CitationDetail>
+                  </abcd:Reference>
+                </abcd:References>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>preserved specimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN-US">whole organismus</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN-US">microscopic preparation</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>Syntypus</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_5745b__(a)_Verhoeff Nr_4010.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_5745b.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_5745b__(b)_Verhoeff Nr_4010.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_5745b.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText language="DE">Tonkin</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Vietnam</abcd:Name>
+              </abcd:Country>
+              <abcd:SiteCoordinateSets>
+                <abcd:SiteCoordinates>
+                  <abcd:CoordinateMethod>Google Earth</abcd:CoordinateMethod>
+                  <abcd:CoordinatesLatLong>
+                    <abcd:LongitudeDecimal>106.455</abcd:LongitudeDecimal>
+                    <abcd:LatitudeDecimal>20.03778</abcd:LatitudeDecimal>
+                    <abcd:CoordinateErrorDistanceInMeters>270.000</abcd:CoordinateErrorDistanceInMeters>
+                  </abcd:CoordinatesLatLong>
+                </abcd:SiteCoordinates>
+              </abcd:SiteCoordinateSets>
+              <abcd:Altitude>
+                <abcd:MeasurementOrFactAtomised>
+                  <abcd:Method>Google</abcd:Method>
+                  <abcd:LowerValue>-6</abcd:LowerValue>
+                  <abcd:IsQuantitative>true</abcd:IsQuantitative>
+                </abcd:MeasurementOrFactAtomised>
+              </abcd:Altitude>
+              <abcd:Notes language="DE">[Golf von Tonkin]</abcd:Notes>
+            </abcd:Gathering>
+            <abcd:Notes abcd:language="DE" />
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Myr_Verhoeff</abcd:SourceID>
+            <abcd:UnitID>ZMB_Myr_8083a</abcd:UnitID>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Arthropoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Diplopoda</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Polydesmida</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Xystodesmidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>Family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Riukaria falcifera Verhoeff, 1936</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Riukaria</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>falcifera</abcd:SpeciesEpithet>
+                          <abcd:AuthorTeamOriginalAndYear>Verhoeff, 1936</abcd:AuthorTeamOriginalAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+                <abcd:References>
+                  <abcd:Reference>
+                    <abcd:TitleCitation>Zool. Anz. 115</abcd:TitleCitation>
+                    <abcd:CitationDetail>p. 300</abcd:CitationDetail>
+                  </abcd:Reference>
+                </abcd:References>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>preserved specimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN-US">whole organismus</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN-US">microscopic preparation</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+              <abcd:NomenclaturalTypeDesignations>
+                <abcd:NomenclaturalTypeDesignation>
+                  <abcd:TypeStatus>Syntypus</abcd:TypeStatus>
+                </abcd:NomenclaturalTypeDesignation>
+              </abcd:NomenclaturalTypeDesignations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_8083a__(b)_Verhoeff Nr_4026.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_8083a.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Myr_8083a__(a)_Verhoeff Nr_4026.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Myr_8083a.html</abcd:ProductURI>
+                <abcd:Format>Image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText language="DE">Riukiu-Inseln</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Japan</abcd:Name>
+              </abcd:Country>
+              <abcd:SiteCoordinateSets>
+                <abcd:SiteCoordinates>
+                  <abcd:CoordinateMethod>Google Earth</abcd:CoordinateMethod>
+                  <abcd:CoordinatesLatLong>
+                    <abcd:LongitudeDecimal>128.00389</abcd:LongitudeDecimal>
+                    <abcd:LatitudeDecimal>26.50667</abcd:LatitudeDecimal>
+                    <abcd:CoordinateErrorDistanceInMeters>278.000</abcd:CoordinateErrorDistanceInMeters>
+                  </abcd:CoordinatesLatLong>
+                </abcd:SiteCoordinates>
+              </abcd:SiteCoordinateSets>
+              <abcd:Altitude>
+                <abcd:MeasurementOrFactAtomised>
+                  <abcd:Method>Google</abcd:Method>
+                  <abcd:LowerValue>73</abcd:LowerValue>
+                  <abcd:IsQuantitative>true</abcd:IsQuantitative>
+                </abcd:MeasurementOrFactAtomised>
+              </abcd:Altitude>
+              <abcd:Notes language="DE">[Ryukyu zu den Nanei-Inseln]</abcd:Notes>
+            </abcd:Gathering>
+            <abcd:Notes abcd:language="DE" />
+          </abcd:Unit>
+        </abcd:Units>
+      </abcd:DataSet>
+    </abcd:DataSets>

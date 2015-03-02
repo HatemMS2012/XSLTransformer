@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<europeana:metadata xmlns:europeana="http://www.europeana.eu/schemas/ese/" xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06" xmlns:biocase="http://www.biocase.org/schemas/protocol/1.3" xmlns:efg="http://www.synthesys.info/ABCDEFG/1.0" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:wgs84="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Myr_Verhoeff</dc:identifier>
+      <dc:identifier>ZMB_Myr_11632</dc:identifier>
+      <dc:title>Schizophyllum fissum Verhoeff, 1921</dc:title>
+      <dcterms:spatial>Spanien</dcterms:spatial>
+      <dcterms:spatial>Villa Rutis, Spanien</dcterms:spatial>
+      <dc:type>preserved specimen</dc:type>
+      <dc:description>whole organismus</dc:description>
+      <dc:description>microscopic preparation</dc:description>
+      <dc:description>[unklar]</dc:description>
+      <dc:description/>
+      <dc:description>Syntypus</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_11632__(a)_Verhoeff Nr_3900.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_11632.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_11632__(a)_Verhoeff Nr_3900.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_11632__(b)_Verhoeff Nr_3900.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_11632.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_11632__(b)_Verhoeff Nr_3900.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Myr_Verhoeff</dc:identifier>
+      <dc:identifier>ZMB_Myr_12504c</dc:identifier>
+      <dc:title>Rhinocricus nattereri padbergie Verhoeff, 1938</dc:title>
+      <dcterms:spatial>Altitude:13</dcterms:spatial>
+      <dcterms:spatial>Brasilien</dcterms:spatial>
+      <dcterms:spatial>Rio de Janeiro</dcterms:spatial>
+      <dcterms:spatial>Google Earth</dcterms:spatial>
+      <dcterms:spatial>Longitude: 20.000</dcterms:spatial>
+      <dc:type>preserved specimen</dc:type>
+      <dc:description>whole organismus</dc:description>
+      <dc:description>microscopic preparation</dc:description>
+      <dc:description/>
+      <dc:description/>
+      <dc:description>Syntypus</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_12504c__(a)_Verhoeff Nr_4023.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_12504c.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_12504c__(a)_Verhoeff Nr_4023.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_12504c__(b)_Verhoeff Nr_4023.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_12504c.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_12504c__(b)_Verhoeff Nr_4023.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Myr_Verhoeff</dc:identifier>
+      <dc:identifier>ZMB_Myr_12679a</dc:identifier>
+      <dc:title>Oroposoma fagorum Verhoeff, 1936</dc:title>
+      <dcterms:spatial>Altitude:1.138</dcterms:spatial>
+      <dcterms:spatial>Italien</dcterms:spatial>
+      <dcterms:spatial>Oropa</dcterms:spatial>
+      <dcterms:spatial>Google Earth</dcterms:spatial>
+      <dcterms:spatial>Longitude: 900</dcterms:spatial>
+      <dc:type>preserved specimen</dc:type>
+      <dc:description>whole organismus</dc:description>
+      <dc:description>microscopic preparation</dc:description>
+      <dc:description/>
+      <dc:description/>
+      <dc:description>Syntypus</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_12679a__(a)_Verhoeff Nr_3754.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_12679a.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_12679a__(a)_Verhoeff Nr_3754.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_12679a__(b)_Verhoeff Nr_3754.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_12679a.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_12679a__(b)_Verhoeff Nr_3754.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Myr_Verhoeff</dc:identifier>
+      <dc:identifier>ZMB_Myr_12694c</dc:identifier>
+      <dc:title>Macellolophus excavatus Verhoeff, 1931</dc:title>
+      <dcterms:spatial>Altitude:298</dcterms:spatial>
+      <dcterms:spatial>Spanien</dcterms:spatial>
+      <dcterms:spatial>Südspanien</dcterms:spatial>
+      <dcterms:spatial>Google Earth</dcterms:spatial>
+      <dcterms:spatial>Longitude: 230.000</dcterms:spatial>
+      <dc:type>preserved specimen</dc:type>
+      <dc:description>whole organismus</dc:description>
+      <dc:description>microscopic preparation</dc:description>
+      <dc:description/>
+      <dc:description/>
+      <dc:description>Syntypus</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_12694c__(a)_Verhoeff Nr_3994.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_12694c.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_12694c__(a)_Verhoeff Nr_3994.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_12694c__(b)_Verhoeff Nr_3994.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_12694c.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_12694c__(b)_Verhoeff Nr_3994.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Myr_Verhoeff</dc:identifier>
+      <dc:identifier>ZMB_Myr_12740b</dc:identifier>
+      <dc:title>Heteroporatia alpivagum Verhoeff, 1897</dc:title>
+      <dcterms:spatial>Altitude:2.100</dcterms:spatial>
+      <dcterms:spatial>Rumänien</dcterms:spatial>
+      <dcterms:spatial>Cindrell</dcterms:spatial>
+      <dcterms:spatial>Google Earth</dcterms:spatial>
+      <dcterms:spatial>Longitude: 9.500</dcterms:spatial>
+      <dc:type>preserved specimen</dc:type>
+      <dc:description>whole organismus</dc:description>
+      <dc:description>microscopic preparation</dc:description>
+      <dc:description>[= Cindrel]</dc:description>
+      <dc:description/>
+      <dc:description>Syntypus</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_12740b__(a)_Verhoeff Nr_478.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_12740b.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_12740b__(a)_Verhoeff Nr_478.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_12740b__(b)_Verhoeff Nr_478.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_12740b.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_12740b__(b)_Verhoeff Nr_478.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Myr_Verhoeff</dc:identifier>
+      <dc:identifier>ZMB_Myr_12775b</dc:identifier>
+      <dc:title>Mastigophorophyllon jickelii Verhoeff, 1900</dc:title>
+      <dcterms:spatial>Nordsiebenbürgen</dcterms:spatial>
+      <dcterms:spatial>Rumänien</dcterms:spatial>
+      <dcterms:spatial/>
+      <dc:type>preserved specimen</dc:type>
+      <dc:description>whole organismus</dc:description>
+      <dc:description>microscopic preparation</dc:description>
+      <dc:description>[unklar]</dc:description>
+      <dc:description/>
+      <dc:description>Syntypus</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_12775b__(a)_Verhoeff Nr_505.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_12775b.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_12775b__(a)_Verhoeff Nr_505.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_12775b__(b)_Verhoeff Nr_505.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_12775b.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_12775b__(b)_Verhoeff Nr_505.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Myr_Verhoeff</dc:identifier>
+      <dc:identifier>ZMB_Myr_12917a</dc:identifier>
+      <dc:title>Callipus foetidissimus var. ligurinus Verhoeff, 1902</dc:title>
+      <dcterms:spatial>Altitude:60</dcterms:spatial>
+      <dcterms:spatial>Italien</dcterms:spatial>
+      <dcterms:spatial>Nervi</dcterms:spatial>
+      <dcterms:spatial>Google Earth</dcterms:spatial>
+      <dcterms:spatial>Longitude: 1.400</dcterms:spatial>
+      <dc:type>preserved specimen</dc:type>
+      <dc:description>whole organismus</dc:description>
+      <dc:description>microscopic preparation</dc:description>
+      <dc:description>[OT von Genua]</dc:description>
+      <dc:description/>
+      <dc:description>nov. var.</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_12917a__(a)_Verhoeff Nr_802.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_12917a.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_12917a__(a)_Verhoeff Nr_802.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_12917a__(b)_Verhoeff Nr_802.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_12917a.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_12917a__(b)_Verhoeff Nr_802.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Myr_Verhoeff</dc:identifier>
+      <dc:identifier>ZMB_Myr_12936a</dc:identifier>
+      <dc:title>Lysiopetalum turricum Verhoeff, 1898</dc:title>
+      <dcterms:spatial>Altitude:75</dcterms:spatial>
+      <dcterms:spatial>Cilicien</dcterms:spatial>
+      <dcterms:spatial>Türkei</dcterms:spatial>
+      <dcterms:spatial/>
+      <dcterms:spatial>Google Maps+Earth</dcterms:spatial>
+      <dcterms:spatial>Longitude: 96.000</dcterms:spatial>
+      <dc:type>preserved specimen</dc:type>
+      <dc:description>whole organismus</dc:description>
+      <dc:description>microscopic preparation</dc:description>
+      <dc:description>[= Cilicia]</dc:description>
+      <dc:description/>
+      <dc:description>Holotypus</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_12936a__(a)_Verhoeff Nr_862.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_12936a.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_12936a__(a)_Verhoeff Nr_862.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_12936a__(b)_Verhoeff Nr_862.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_12936a.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_12936a__(b)_Verhoeff Nr_862.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Myr_Verhoeff</dc:identifier>
+      <dc:identifier>ZMB_Myr_13052</dc:identifier>
+      <dc:title>Leptoiulus noricus tauerorum Verhoeff, 1913</dc:title>
+      <dcterms:spatial>Altitude:1.335</dcterms:spatial>
+      <dcterms:spatial>Palfner Alpe</dcterms:spatial>
+      <dcterms:spatial>Österreich</dcterms:spatial>
+      <dcterms:spatial>Palfneralp</dcterms:spatial>
+      <dcterms:spatial>Google Earth</dcterms:spatial>
+      <dcterms:spatial>Longitude: 100</dcterms:spatial>
+      <dc:type>preserved specimen</dc:type>
+      <dc:description>whole organismus</dc:description>
+      <dc:description>microscopic preparation</dc:description>
+      <dc:description>[wohl Palfneralm]</dc:description>
+      <dc:description/>
+      <dc:description>Syntypus</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_13052__(a)_Verhoeff Nr_3259.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_13052.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_13052__(a)_Verhoeff Nr_3259.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_13052__(b)_Verhoeff Nr_3259.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_13052.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_13052__(b)_Verhoeff Nr_3259.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Myr_Verhoeff</dc:identifier>
+      <dc:identifier>ZMB_Myr_13708b</dc:identifier>
+      <dc:title>Fusiulus koreanus Verhoeff, 1937</dc:title>
+      <dcterms:spatial>Altitude:256</dcterms:spatial>
+      <dcterms:spatial>Korea</dcterms:spatial>
+      <dcterms:spatial>Korea</dcterms:spatial>
+      <dcterms:spatial>Google Earth</dcterms:spatial>
+      <dcterms:spatial>Longitude: 600.000</dcterms:spatial>
+      <dc:type>preserved specimen</dc:type>
+      <dc:description>whole organismus</dc:description>
+      <dc:description>microscopic preparation</dc:description>
+      <dc:description/>
+      <dc:description/>
+      <dc:description>Syntypus</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_13708b__(a)_Verhoeff Nr_3963.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_13708b.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_13708b__(a)_Verhoeff Nr_3963.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_13708b__(b)_Verhoeff Nr_3963.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_13708b.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_13708b__(b)_Verhoeff Nr_3963.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Myr_Verhoeff</dc:identifier>
+      <dc:identifier>ZMB_Myr_13714b</dc:identifier>
+      <dc:title>Urodesmus (Attemsocyphus) serratus Verhoeff, 1936</dc:title>
+      <dcterms:spatial>Altitude:13</dcterms:spatial>
+      <dcterms:spatial>Sri Lanka</dcterms:spatial>
+      <dcterms:spatial>Colombo</dcterms:spatial>
+      <dcterms:spatial>Google Earth</dcterms:spatial>
+      <dcterms:spatial>Longitude: 2.000</dcterms:spatial>
+      <dc:type>preserved specimen</dc:type>
+      <dc:description>whole organismus</dc:description>
+      <dc:description>microscopic preparation</dc:description>
+      <dc:description/>
+      <dc:description/>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_13714b__(a)_Verhoeff Nr_4043.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_13714b.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_13714b__(a)_Verhoeff Nr_4043.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_13714b__(b)_Verhoeff Nr_4043.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_13714b.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_13714b__(b)_Verhoeff Nr_4043.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Myr_Verhoeff</dc:identifier>
+      <dc:identifier>ZMB_Myr_3918b</dc:identifier>
+      <dc:title>Glomeris hexasticha var. szeklerana Verhoeff, 1906</dc:title>
+      <dcterms:spatial>Altitude:585</dcterms:spatial>
+      <dcterms:spatial>Siebenbür.</dcterms:spatial>
+      <dcterms:spatial>Rumänien</dcterms:spatial>
+      <dcterms:spatial>Kronstadt</dcterms:spatial>
+      <dcterms:spatial>Google Earth</dcterms:spatial>
+      <dcterms:spatial>Longitude: 3.000</dcterms:spatial>
+      <dc:type>preserved specimen</dc:type>
+      <dc:description>whole organismus</dc:description>
+      <dc:description>microscopic preparation</dc:description>
+      <dc:description>[= Brasov]</dc:description>
+      <dc:description/>
+      <dc:description>nov. var.</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_3918b__(a)_Verhoeff Nr_2018.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_3918b.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_3918b__(a)_Verhoeff Nr_2018.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_3918b__(b)_Verhoeff Nr_2018.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_3918b.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_3918b__(b)_Verhoeff Nr_2018.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Myr_Verhoeff</dc:identifier>
+      <dc:identifier>ZMB_Myr_3926</dc:identifier>
+      <dc:title>Glomeris hexasticha corylivora Verhoeff, 1906</dc:title>
+      <dcterms:spatial>Altitude:555</dcterms:spatial>
+      <dcterms:spatial>Oberungarn</dcterms:spatial>
+      <dcterms:spatial>Slowakei</dcterms:spatial>
+      <dcterms:spatial>Kremnitz</dcterms:spatial>
+      <dcterms:spatial>Google Earth</dcterms:spatial>
+      <dcterms:spatial>Longitude: 1.300</dcterms:spatial>
+      <dc:type>preserved specimen</dc:type>
+      <dc:description>whole organismus</dc:description>
+      <dc:description>microscopic preparation</dc:description>
+      <dc:description>[= Kremnica]</dc:description>
+      <dc:description/>
+      <dc:description>nov. var.</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_3926__(a)_Verhoeff Nr_2011.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_3926.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_3926__(a)_Verhoeff Nr_2011.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_3926__(b)_Verhoeff Nr_2011.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_3926.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_3926__(b)_Verhoeff Nr_2011.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Myr_Verhoeff</dc:identifier>
+      <dc:identifier>ZMB_Myr_5745b</dc:identifier>
+      <dc:title>Prionobelum durum Verhoeff, 1924</dc:title>
+      <dcterms:spatial>Altitude:-6</dcterms:spatial>
+      <dcterms:spatial>Vietnam</dcterms:spatial>
+      <dcterms:spatial>Tonkin</dcterms:spatial>
+      <dcterms:spatial>Google Earth</dcterms:spatial>
+      <dcterms:spatial>Longitude: 270.000</dcterms:spatial>
+      <dc:type>preserved specimen</dc:type>
+      <dc:description>whole organismus</dc:description>
+      <dc:description>microscopic preparation</dc:description>
+      <dc:description>[Golf von Tonkin]</dc:description>
+      <dc:description/>
+      <dc:description>Syntypus</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_5745b__(a)_Verhoeff Nr_4010.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_5745b.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_5745b__(a)_Verhoeff Nr_4010.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_5745b__(b)_Verhoeff Nr_4010.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_5745b.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_5745b__(b)_Verhoeff Nr_4010.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Myr_Verhoeff</dc:identifier>
+      <dc:identifier>ZMB_Myr_8083a</dc:identifier>
+      <dc:title>Riukaria falcifera Verhoeff, 1936</dc:title>
+      <dcterms:spatial>Altitude:73</dcterms:spatial>
+      <dcterms:spatial>Japan</dcterms:spatial>
+      <dcterms:spatial>Riukiu-Inseln</dcterms:spatial>
+      <dcterms:spatial>Google Earth</dcterms:spatial>
+      <dcterms:spatial>Longitude: 278.000</dcterms:spatial>
+      <dc:type>preserved specimen</dc:type>
+      <dc:description>whole organismus</dc:description>
+      <dc:description>microscopic preparation</dc:description>
+      <dc:description>[Ryukyu zu den Nanei-Inseln]</dc:description>
+      <dc:description/>
+      <dc:description>Syntypus</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_8083a__(b)_Verhoeff Nr_4026.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_8083a.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_8083a__(b)_Verhoeff Nr_4026.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Myr_8083a__(a)_Verhoeff Nr_4026.jpg">
+      <dc:format>Image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Myr_8083a.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Myr_8083a__(a)_Verhoeff Nr_4026.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>Image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+</europeana:metadata>

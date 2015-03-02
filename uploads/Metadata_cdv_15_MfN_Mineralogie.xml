@@ -1,0 +1,2648 @@
+<?xml version='1.0' encoding='UTF-8'?>
+    <abcd:DataSets xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06" xmlns:biocase="http://www.biocase.org/schemas/protocol/1.3" xmlns:efg="http://www.synthesys.info/ABCDEFG/1.0">
+      <abcd:DataSet>
+        <abcd:TechnicalContacts>
+          <abcd:TechnicalContact>
+            <abcd:Name>GeoCASE-Team</abcd:Name>
+            <abcd:Email>geocase@mfn-berlin.de</abcd:Email>
+            <abcd:Phone>+49 30 2093 8842</abcd:Phone>
+            <abcd:Address>Museum für Naturkunde Invaliden Str. 43  10115 Berlin Deutschland</abcd:Address>
+          </abcd:TechnicalContact>
+        </abcd:TechnicalContacts>
+        <abcd:ContentContacts>
+          <abcd:ContentContact>
+            <abcd:Name>Ralf-Thomas Schmitt</abcd:Name>
+            <abcd:Email>Ralf-Thomas.Schmitt@museum.hu-berlin.de</abcd:Email>
+            <abcd:Phone>+49 30 2093 8842</abcd:Phone>
+            <abcd:Address>Museum für Naturkunde Invaliden Str. 43  10115 Berlin Deutschland</abcd:Address>
+          </abcd:ContentContact>
+        </abcd:ContentContacts>
+        <abcd:Metadata>
+          <abcd:Description>
+            <abcd:Representation abcd:language="EN EN-US">
+              <abcd:Title>MfN Mineralogical Collections</abcd:Title>
+            </abcd:Representation>
+          </abcd:Description>
+          <abcd:RevisionData>
+            <abcd:DateModified>2014-09-12</abcd:DateModified>
+          </abcd:RevisionData>
+          <abcd:Owners>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="EN EN-US">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+              <abcd:Person>
+                <abcd:FullName>Ralf-Thomas Schmitt</abcd:FullName>
+              </abcd:Person>
+              <abcd:Addresses>
+                <abcd:Address>Museum für Naturkunde Invaliden Str. 43  10115 Berlin Deutschland</abcd:Address>
+              </abcd:Addresses>
+              <abcd:TelephoneNumbers>
+                <abcd:TelephoneNumber>
+                  <abcd:Number>+49 30 2093 8842</abcd:Number>
+                  <abcd:Device>voice</abcd:Device>
+                </abcd:TelephoneNumber>
+              </abcd:TelephoneNumbers>
+              <abcd:EmailAddresses>
+                <abcd:EmailAddress>Ralf-Thomas.Schmitt@museum.hu-berlin.de</abcd:EmailAddress>
+              </abcd:EmailAddresses>
+            </abcd:Owner>
+          </abcd:Owners>
+          <abcd:IPRStatements>
+            <abcd:IPRDeclarations>
+              <abcd:IPRDeclaration abcd:language="EN EN-US">
+                <abcd:Text>Creative Commons (CC-by-SA)</abcd:Text>
+                <abcd:Details>Creative Commons (CC-by-SA)</abcd:Details>
+                <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+              </abcd:IPRDeclaration>
+            </abcd:IPRDeclarations>
+            <abcd:Licenses>
+              <abcd:License abcd:language="EN EN-US">
+                <abcd:Text>Creative Commons (CC-by-SA)</abcd:Text>
+                <abcd:Details>Creative Commons (CC-by-SA)</abcd:Details>
+                <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+              </abcd:License>
+            </abcd:Licenses>
+          </abcd:IPRStatements>
+        </abcd:Metadata>
+        <abcd:Units>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1977_0028</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Auripigment</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Auripigment</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1977</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1977_0028__Auripigment.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1977_0028.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Quiruvilca</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Peru</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE" />
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">La Libertad</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>536.4 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1977_0040</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Dioptas</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Dioptas</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1977</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1977_0040__Dioptas.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1977_0040.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Tsumeb</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Namibia</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE" />
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Otavibergland Oshikoto</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>304.9 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1977_0124</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Quarz</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Quarz</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                      <efg:VarietalNameString>Chalcedon</efg:VarietalNameString>
+                      <efg:NameAddendum>Achat</efg:NameAddendum>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1977</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1977_0124__Achat.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1977_0124.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>St. Egidien</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Deutschland</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">bei Hohenstein-Ernsttal</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Sachsen</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>157.9 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1977_0367</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Wavellit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Wavellit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1977</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1977_0367__Wavellit_b_Ausschnitt.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1977_0367.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1977_0367__Wavellit_a.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1977_0367.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Schloditz</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Deutschland</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">bei Altmannsgrün</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Vogtland Sachsen</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>317.55 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1978_0143</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Halit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Halit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1978</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1978_0143__Halit.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1978_0143.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Grube Wilhelm Pieck, Flöz Hessen, Springen</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Deutschland</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">bei Dorndorf</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Rhön Thüringen</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>369.6 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1978_0362</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Boltwoodit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Boltwoodit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1978</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1978_0362__Boltwoodit.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1978_0362.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Grube Grube Langer Heinrich, Langer Heinrich</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Namibia</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE" />
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Namib-Wüste</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>365.3 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1978_0665</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Gormanit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Gormanit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1978</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1978_0665__Gormanit_b.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1978_0665.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1978_0665__et_Gormanit.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1978_0665.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1978_0665__Gormanit_a.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1978_0665.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Rapid Creek</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Kanada</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE" />
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Yukon Territory</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>116 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1979_0661</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Opal</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Opal</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1978</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1979_0661__Opal.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1979_0661.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Minas Gerais, Provinz</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Brasilien</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">bei Belo Horizonte</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Minas Gerais</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>1068 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1982_0519</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Turmalin</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Turmalin</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1978</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1982_0519__Turmalin_Detail.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1982_0519.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Serra do Chifre</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Brasilien</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE" />
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Minas Gerais</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:Notes>Quarz mit Tu-Kristallen</abcd:Notes>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>486.9 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1982_0719</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Bornit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Bornit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1981</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1982_0719__Bornit_b.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1982_0719.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1982_0719__Bornit_a.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1982_0719.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Agents>
+                <abcd:GatheringAgent>
+                  <abcd:Person>
+                    <abcd:FullName>W.-Pieck-Oberschule (Berlin)</abcd:FullName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:LocalityText>Mansfeld</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Deutschland</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">bei Eisleben</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Sachsen-Anhalt</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>771.85 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1982_1087</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Antimonit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Antimonit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1982</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1982_1087__Antimonit_a.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1982_1087.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1982_1087__Antimonit_b.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1982_1087.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Ichinokawa</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Japan</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">Shikoku</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Seijo</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>422.35 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1983_0237</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Pyrit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Pyrit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1983</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1983_0237__Pyrit.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1983_0237.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Niccioleta</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Italien</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">Campiglia Marittima</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Toscana Grosseto</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>565.65 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1983_0389</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Parasymplesit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Parasymplesit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1983</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1983_0389__Parasymplesit.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1983_0389.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Mina Ojuela, Mapimi</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Mexiko</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE" />
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Durango</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>165.45 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1984_0039</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Limonit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Goethit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1984_0039__Goethit_b.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1984_0039.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1984_0039__et_Goethit.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1984_0039.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1984_0039__Goethit_a.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1984_0039.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Agents>
+                <abcd:GatheringAgent>
+                  <abcd:Person>
+                    <abcd:FullName>Rose, Gustav</abcd:FullName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:LocalityText>Uktusk</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Russland</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">Jekaterinburg</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Ural</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:Notes>Etikett: Orig. Rose</abcd:Notes>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>417.35 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1985_0004</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Quarz</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Quarz</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                      <efg:VarietalNameString>Chalcedon</efg:VarietalNameString>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1985_0004__Chalcedon_b.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1985_0004.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1985_0004__Chalcedon_d.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1985_0004.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1985_0004__Chalcedon_c.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1985_0004.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1985_0004__et_Chalcedon_b.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1985_0004.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1985_0004__et_Chalcedon_a.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1985_0004.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1985_0004__Chalcedon_a.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1985_0004.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Agents>
+                <abcd:GatheringAgent>
+                  <abcd:Person>
+                    <abcd:FullName>Humboldt, Alexander von</abcd:FullName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:LocalityText>Penon</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Mexiko</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">bei Ciudad de Mexiko</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Sierra de la Guadelupe Distrito Federal</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:Notes>Etikett: Orig. Humboldt</abcd:Notes>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>102.9 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1985_0006</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Uraninit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Uraninit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1817</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1985_0006__Uraninit_Torbernit_a.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1985_0006.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1985_0006__Uraninit_Torbernit_b.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1985_0006.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1985_0006__Uraninit_Torbernit_c.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1985_0006.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1985_0006__et_Uraninit_Torbernit_b.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1985_0006.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1985_0006__Uraninit_Torbernit_d.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1985_0006.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Agents>
+                <abcd:GatheringAgent>
+                  <abcd:Person>
+                    <abcd:FullName>Klaproth, Martin Heinrich</abcd:FullName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:LocalityText>Grube Georg Wagsfort, Johanngeorgenstadt</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Deutschland</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE" />
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Erzgebirge Sachsen</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:Notes>Etikett: Orig. Klaproth</abcd:Notes>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>168.85 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1985_0125</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Quarz</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Quarz</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1977</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1985_0125__Quarz.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1985_0125.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Wallis, Kanton</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Schweiz</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE" />
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE" />
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>791.1 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1985_0154</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Quarz</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Quarz</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                      <efg:VarietalNameString>Chalcedon</efg:VarietalNameString>
+                      <efg:NameAddendum>Achat</efg:NameAddendum>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1977</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1985_0154__Achat_b.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1985_0154.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1985_0154__Achat_c.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1985_0154.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1985_0154__Achat_a.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1985_0154.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>St. Egidien</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Deutschland</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">bei Hohenstein-Ernsttal</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Sachsen</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>459.15 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1986_0170</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Granat</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Andradit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                      <efg:VarietalNameString>Melanit</efg:VarietalNameString>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1986</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1986_0170__Melanit.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1986_0170.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Cárdenas</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Mexiko</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE" />
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Chihuahua</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>342.35 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1987_0807</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Fluorit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Fluorit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1987</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1987_0807__Fluorit.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1987_0807.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Grube Beihilfe, Halsbrücke</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Deutschland</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">bei Freiberg</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Erzgebirge Sachsen</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>54.45 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1989_0353</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Smithsonit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Smithsonit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1989</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1989_0353__Smithsonit.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1989_0353.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Touissit</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Marokko</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE" />
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Prov. Oujda</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>1120.25 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1989_0636</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Vanadinit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Vanadinit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1989</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1989_0636__Vanadinit_b.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1989_0636.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1989_0636__Vanadinit_f_Detail.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1989_0636.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1989_0636__Vanadinit_e_Detail.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1989_0636.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1989_0636__Vanadinit_c_Detail.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1989_0636.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1989_0636__Vanadinit_d_Detail.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1989_0636.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1989_0636__Vanadinit_a.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1989_0636.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Taouz</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Marokko</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">Rissani</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Ksar es Souk</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>604.9 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1990_0793</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Granat</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Uwarowit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1990</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1990_0793__Uwarowit_d_Detail.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1990_0793.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1990_0793__Uwarowit_c_Detail.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1990_0793.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1990_0793__Uwarowit_b.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1990_0793.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1990_0793__Uwarowit_a.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1990_0793.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Agents>
+                <abcd:GatheringAgent>
+                  <abcd:Person>
+                    <abcd:FullName>Mineralientage München</abcd:FullName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:LocalityText>Sarang</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Russland</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE" />
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE" />
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>447.8 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1996_4775</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Calcit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Calcit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1911</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1996_4775__Calcit.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1996_4775.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Agents>
+                <abcd:GatheringAgent>
+                  <abcd:Person>
+                    <abcd:FullName>Belowsky, Max</abcd:FullName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:LocalityText>Montana Mine, Chitwood</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>USA</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">Joplin</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Missouri</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:Notes>Tamnau-Stiftung</abcd:Notes>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>290.8 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1996_7564</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Malachit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Malachit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1996_7564__Malachit_Quarz.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1996_7564.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Agents>
+                <abcd:GatheringAgent>
+                  <abcd:Person>
+                    <abcd:FullName>Meyen</abcd:FullName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:LocalityText>Copiapó</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Chile</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE" />
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">III. Region (Atacama)</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>280.65 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1997_0138</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Rhodochrosit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Rhodochrosit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1997</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1997_0138__Rhodochrosit.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1997_0138.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Shajrem</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Kasachstan</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">Ksyl-Dsar</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE" />
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>1928.45 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1997_0527</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Ludlamit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Ludlamit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1997</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1997_0527__Ludlamit.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1997_0527.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:LocalityText>Huanuni</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Bolivien</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">bei Poopó</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Oruro</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>234.6 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1997_4608</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Caracolit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Caracolit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1886</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1997_4608__Caracolit.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1997_4608.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Agents>
+                <abcd:GatheringAgent>
+                  <abcd:Person>
+                    <abcd:FullName>Renken, H.</abcd:FullName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:LocalityText>Mina Santa Ana, Caracoles</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Chile</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE" />
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Sierra Gorda II. Region (Antofagasta)</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:Notes>Typmaterial; Hauptstück als Percylith ausgestellt</abcd:Notes>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>17.15 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_1999_0850</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Malachit</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Malachit</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1999_0850__Malachit_b.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1999_0850.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_1999_0850__Malachit_a.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_1999_0850.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Agents>
+                <abcd:GatheringAgent>
+                  <abcd:Person>
+                    <abcd:FullName>Rose, Gustav</abcd:FullName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:LocalityText>Gumeschewsk</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Russland</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">bei Polewskoi</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Ural</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:Notes>Etikett: Orig. Rose</abcd:Notes>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>256.95 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MFN</abcd:SourceInstitutionID>
+            <abcd:SourceID>MIN</abcd:SourceID>
+            <abcd:UnitID>MFN_MIN_2004_1454</abcd:UnitID>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+            </abcd:Owner>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:Extension>
+                    <efg:MineralRockIdentified>
+                      <efg:MineralRockGroup>
+                        <efg:MineralRockGroupName>Quarz</efg:MineralRockGroupName>
+                      </efg:MineralRockGroup>
+                      <efg:ClassifiedName>
+                        <efg:FullScientificNameString>Quarz</efg:FullScientificNameString>
+                      </efg:ClassifiedName>
+                      <efg:VarietalNameString>Amethyst</efg:VarietalNameString>
+                    </efg:MineralRockIdentified>
+                  </abcd:Extension>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>OtherSpecimen</abcd:RecordBasis>
+            <abcd:KindOfUnit language="EN">Mineral</abcd:KindOfUnit>
+            <abcd:SpecimenUnit>
+              <abcd:Acquisition>
+                <abcd:AcquisitionDate>1897</abcd:AcquisitionDate>
+              </abcd:Acquisition>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/MFN_MIN_2004_1454__Amethyst.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/MFN_MIN_2004_1454.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:Agents>
+                <abcd:GatheringAgent>
+                  <abcd:Person>
+                    <abcd:FullName>Stephan, Heinrich von</abcd:FullName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:LocalityText>Birkenfeld</abcd:LocalityText>
+              <abcd:Country>
+                <abcd:Name>Deutschland</abcd:Name>
+              </abcd:Country>
+              <abcd:NearNamedPlaces>
+                <abcd:NamedPlaceRelation>
+                  <abcd:NearNamedPlace language="DE">bei Idar-Oberstein</abcd:NearNamedPlace>
+                </abcd:NamedPlaceRelation>
+              </abcd:NearNamedPlaces>
+              <abcd:AreaDetail language="DE">Nahe Rheinland-Pfalz</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:UnitExtension>
+              <efg:EarthScienceSpecimen>
+                <efg:UnitWeight>2480.65 g</efg:UnitWeight>
+              </efg:EarthScienceSpecimen>
+            </abcd:UnitExtension>
+          </abcd:Unit>
+        </abcd:Units>
+      </abcd:DataSet>
+    </abcd:DataSets>

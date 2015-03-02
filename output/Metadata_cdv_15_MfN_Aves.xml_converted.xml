@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<europeana:metadata xmlns:europeana="http://www.europeana.eu/schemas/ese/" xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06" xmlns:biocase="http://www.biocase.org/schemas/protocol/1.3" xmlns:efg="http://www.synthesys.info/ABCDEFG/1.0" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:wgs84="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Aves</dc:identifier>
+      <dc:identifier>ZMB_Aves_2002_215</dc:identifier>
+      <dc:title>Psittacula krameri krameri (Scopoli, 1769)</dc:title>
+      <dcterms:spatial>Gondokoro, White Nile (river)</dcterms:spatial>
+      <dcterms:spatial>South Sudan</dcterms:spatial>
+      <dcterms:spatial>(country)</dcterms:spatial>
+      <dcterms:spatial>South Sudan</dcterms:spatial>
+      <dc:type>Preserved specimen</dc:type>
+      <dc:description>Skin</dc:description>
+      <dc:description>Female</dc:description>
+      <dc:description>adult</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_2002_215.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_01.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_2002_215.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_01.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_02.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_2002_215.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_02.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_03.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_2002_215.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_03.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Aves</dc:identifier>
+      <dc:identifier>ZMB_Aves_2002_215</dc:identifier>
+      <dc:title>Palaeornis krameri centralis</dc:title>
+      <dcterms:spatial>Gondokoro, White Nile (river)</dcterms:spatial>
+      <dcterms:spatial>South Sudan</dcterms:spatial>
+      <dcterms:spatial>(country)</dcterms:spatial>
+      <dcterms:spatial>South Sudan</dcterms:spatial>
+      <dc:type>Preserved specimen</dc:type>
+      <dc:description>Skin</dc:description>
+      <dc:description>Female</dc:description>
+      <dc:description>adult</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_2002_215.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_01.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_2002_215.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_01.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_02.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_2002_215.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_02.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_03.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_2002_215.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_03.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Aves</dc:identifier>
+      <dc:identifier>ZMB_Aves_9171</dc:identifier>
+      <dc:title>Heliobletus contaminatus contaminatus Berlepsch, 1885</dc:title>
+      <dcterms:spatial>Brazil</dcterms:spatial>
+      <dcterms:spatial>Brazil</dcterms:spatial>
+      <dcterms:spatial>(country)</dcterms:spatial>
+      <dcterms:spatial>Brazil</dcterms:spatial>
+      <dc:type>Preserved specimen</dc:type>
+      <dc:date>[1818 - 1824]</dc:date>
+      <dc:description>Skin</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_01.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_01.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_02.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_02.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_03.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_03.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_04.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_04.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_05.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_05.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Aves</dc:identifier>
+      <dc:identifier>ZMB_Aves_9171</dc:identifier>
+      <dc:title>Anabates contaminatus</dc:title>
+      <dcterms:spatial>Brazil</dcterms:spatial>
+      <dcterms:spatial>Brazil</dcterms:spatial>
+      <dcterms:spatial>(country)</dcterms:spatial>
+      <dcterms:spatial>Brazil</dcterms:spatial>
+      <dc:type>Preserved specimen</dc:type>
+      <dc:date>[1818 - 1824]</dc:date>
+      <dc:description>Skin</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_01.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_01.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_02.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_02.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_03.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_03.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_04.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_04.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_05.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_05.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Aves</dc:identifier>
+      <dc:identifier>ZMB_Aves_10418</dc:identifier>
+      <dc:title>Dendrocopos syriacus syriacus (Hemprich &amp; Ehrenberg, 1833)</dc:title>
+      <dcterms:spatial>Bcharre</dcterms:spatial>
+      <dcterms:spatial>Lebanon</dcterms:spatial>
+      <dcterms:spatial>(country)</dcterms:spatial>
+      <dcterms:spatial>Lebanon</dcterms:spatial>
+      <dc:type>Preserved specimen</dc:type>
+      <dc:date>05. - 24.07.1824</dc:date>
+      <dc:description>Skin</dc:description>
+      <dc:description>juvenile</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_01.dng.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_01.dng.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_02.dng.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_02.dng.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_03.dng.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_03.dng.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_04.dng.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_04.dng.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_06.dng.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_06.dng.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Aves</dc:identifier>
+      <dc:identifier>ZMB_Aves_10418</dc:identifier>
+      <dc:title>Picus syriacus</dc:title>
+      <dcterms:spatial>Bcharre</dcterms:spatial>
+      <dcterms:spatial>Lebanon</dcterms:spatial>
+      <dcterms:spatial>(country)</dcterms:spatial>
+      <dcterms:spatial>Lebanon</dcterms:spatial>
+      <dc:type>Preserved specimen</dc:type>
+      <dc:date>05. - 24.07.1824</dc:date>
+      <dc:description>Skin</dc:description>
+      <dc:description>juvenile</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_01.dng.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_01.dng.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_02.dng.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_02.dng.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_03.dng.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_03.dng.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_04.dng.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_04.dng.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_06.dng.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_06.dng.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Aves</dc:identifier>
+      <dc:identifier>ZMB_Aves_10135</dc:identifier>
+      <dc:title>Pyrrhura lepida lepida (Wagler, 1832)</dc:title>
+      <dcterms:spatial>Estado do Pará</dcterms:spatial>
+      <dcterms:spatial>Brazil</dcterms:spatial>
+      <dcterms:spatial>(country)</dcterms:spatial>
+      <dcterms:spatial>Brazil</dcterms:spatial>
+      <dc:type>Preserved specimen</dc:type>
+      <dc:date>[1801 - 1811]</dc:date>
+      <dc:description>Skin</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_01.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10135.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_01.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_02.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10135.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_02.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_03.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10135.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_03.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_04.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10135.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_04.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Aves</dc:identifier>
+      <dc:identifier>ZMB_Aves_10135</dc:identifier>
+      <dc:title>Sittace lepida</dc:title>
+      <dcterms:spatial>Estado do Pará</dcterms:spatial>
+      <dcterms:spatial>Brazil</dcterms:spatial>
+      <dcterms:spatial>(country)</dcterms:spatial>
+      <dcterms:spatial>Brazil</dcterms:spatial>
+      <dc:type>Preserved specimen</dc:type>
+      <dc:date>[1801 - 1811]</dc:date>
+      <dc:description>Skin</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_01.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10135.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_01.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_02.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10135.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_02.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_03.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10135.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_03.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_04.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_10135.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_04.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Aves</dc:identifier>
+      <dc:identifier>ZMB_Aves_31_1934</dc:identifier>
+      <dc:title>Pyrrhura lepida anerythra (Wagler, 1832)</dc:title>
+      <dcterms:spatial>Arumatheua, Tocantins (river)</dcterms:spatial>
+      <dcterms:spatial>Brazil</dcterms:spatial>
+      <dcterms:spatial>(country)</dcterms:spatial>
+      <dcterms:spatial>Brazil</dcterms:spatial>
+      <dc:type>Preserved specimen</dc:type>
+      <dc:contributor>94</dc:contributor>
+      <dc:description>Skin</dc:description>
+      <dc:description>Male</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_01.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_31_1934.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_01.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_02.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_31_1934.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_02.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_03.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_31_1934.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_03.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_04.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_31_1934.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_04.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Aves</dc:identifier>
+      <dc:identifier>ZMB_Aves_31_1934</dc:identifier>
+      <dc:title>Pyrrhura perlata anerythra</dc:title>
+      <dcterms:spatial>Arumatheua, Tocantins (river)</dcterms:spatial>
+      <dcterms:spatial>Brazil</dcterms:spatial>
+      <dcterms:spatial>(country)</dcterms:spatial>
+      <dcterms:spatial>Brazil</dcterms:spatial>
+      <dc:type>Preserved specimen</dc:type>
+      <dc:contributor>94</dc:contributor>
+      <dc:description>Skin</dc:description>
+      <dc:description>Male</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_01.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_31_1934.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_01.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_02.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_31_1934.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_02.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_03.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_31_1934.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_03.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_04.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_31_1934.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_04.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Aves</dc:identifier>
+      <dc:identifier>ZMB_Aves_49_257</dc:identifier>
+      <dc:title>Cinnyris manoensis manoensis</dc:title>
+      <dcterms:spatial>Songea</dcterms:spatial>
+      <dcterms:spatial>Tanzania</dcterms:spatial>
+      <dcterms:spatial>(country)</dcterms:spatial>
+      <dcterms:spatial>Tanzania</dcterms:spatial>
+      <dc:type>Preserved specimen</dc:type>
+      <dc:contributor>139</dc:contributor>
+      <dc:description>Skin</dc:description>
+      <dc:description>Male</dc:description>
+      <dc:description>adult</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_a.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_49_257.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_a.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_b.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_49_257.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_b.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_c.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_49_257.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_c.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_d.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_49_257.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_d.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>ZMB_Aves</dc:identifier>
+      <dc:identifier>ZMB_Aves_49_257</dc:identifier>
+      <dc:title>Cinnyris chalybeus gertrudis</dc:title>
+      <dcterms:spatial>Songea</dcterms:spatial>
+      <dcterms:spatial>Tanzania</dcterms:spatial>
+      <dcterms:spatial>(country)</dcterms:spatial>
+      <dcterms:spatial>Tanzania</dcterms:spatial>
+      <dc:type>Preserved specimen</dc:type>
+      <dc:contributor>139</dc:contributor>
+      <dc:description>Skin</dc:description>
+      <dc:description>Male</dc:description>
+      <dc:description>adult</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_a.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_49_257.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_a.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_b.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_49_257.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_b.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_c.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_49_257.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_c.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_d.tif.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/ZMB_Aves_49_257.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_d.tif.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+</europeana:metadata>

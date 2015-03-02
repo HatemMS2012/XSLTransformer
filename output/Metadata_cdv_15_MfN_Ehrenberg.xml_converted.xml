@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<europeana:metadata xmlns:europeana="http://www.europeana.eu/schemas/ese/" xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06" xmlns:biocase="http://www.biocase.org/schemas/protocol/1.3" xmlns:efg="http://www.synthesys.info/ABCDEFG/1.0" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:fn="http://www.w3.org/2005/xpath-functions" xmlns:wgs84="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_0087</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Amphileptus Doppelhals</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_0087.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_0087.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_0087.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_0254</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Chilomonas</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_0254.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_0254.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_0254.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2151</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>Monatsb. 1841 p. 128; Präparat Kast. 37 B. 7; Probe N. 2391.</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2151.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2151.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2151.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2151__label.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2151.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2151__label.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2173</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>Passatstaub im Atlantisch. Ocean. 1838. 8. März; Abhandl. 1847 p. 273; Präparat Kast. 47 B. 1; Probe N. 2898.</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2173.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2173.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2173.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2173__label.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2173.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2173__label.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2230</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>Berlin Infusorienerde - ; Monatsb. 1841 p. 232; Microgeol. Taf. XIV; Präparat Kast. 39 B. 8; Proben N. 2480 - 2485</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2230.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2230.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2230.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2230__label.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2230.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2230__label.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2239</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>Andower Massachusettes Kieselguhr. ; Abhandl. 1841 p. 348; Microg. T. III; Präparat Kast. 26 B. 7; Probe N. 1771;</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2239.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2239.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2239.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2239__label.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2239.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2239__label.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2376</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>Grünsand von Alabama N. Amerika anl. d. Zeuglodon. Kalk - ; Abhandl. 1855 p. 91. 112 Taf. II; Microsc. Präp. Kast. 51; Gesteinspr. N. 1310 - 1312.</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2376.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2376.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2376.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2376__label.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2376.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2376__label.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2396</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>Nummulitenkalk von Cuizac bei Alet Frankreich. - ; Abhandl. d. Akad. 1855 p. 147 Taf. V; Mikrosk. Präpar. Kast. 48 B. 2; Gesteinsprobe N. 2235</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2396.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2396.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2396.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2396__label.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2396.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2396__label.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2438</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>Kreiden u Kreidemergel - ; Abhandlungen 1838 Taf. IV.</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2438.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2438.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2438.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2438__label.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2438.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2438__label.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2483</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>Halbopale; Monatsb. 1836 p. 84</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2483.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2483.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2483.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2483__label.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2483.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2483__label.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2487</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>Krakau Hornstein des Coralrag. - ; Monatsb. 1843 p. 61; Microgeol. Taf. 37 VIII. ; Präparat Kast. 52. 53.; Probe N. 2860</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2487.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2487.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2487.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2487__label.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2487.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2487__label.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2497</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>Petersburg Untersilurische Grünsande - ; Monatsb. 1858 p. 330; Abhandl. 1862 p. 600 f. 1-3; Präparat Kast. 51 B. 10; Probe N. 2878</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2497.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2497.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2497.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2497__label.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2497.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2497__label.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2522</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>Melonie Jura Kalk v. Kaiserstuhl; Jura- Kalk von York; Melonien Jura Kalk von Bath. ; Sinther Oolith-Kalk von Frankreich; Rogenmergel v. Bernburg - ; Monatsb. 1843 p. 105; Microgeol. Taf. 37 IX.</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2522.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2522.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2522.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2522__label.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2522.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2522__label.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2551</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Brachionus</dc:description>
+      <dc:description>CTI: Berlin</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2551.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2551.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2551.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2572</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Callidina Spinnthierchen</dc:description>
+      <dc:description>CTI: Monte Rosa K30 B6, Vergua K20 B1</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2572.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2572.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2572.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2595</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Diglena Zweiauge</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2595.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2595.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2595.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2629</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Hydatina Crystallthierchen</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2629.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2629.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2629.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2632</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Hydatina Crystallthierchen</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2632.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2632.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2632.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2646</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Mastigocerca Peitschenschwanz</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2646.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2646.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2646.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2650</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Megalotrocha Sonnenschirmthierchen</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2650.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2650.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2650.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2742</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Salpina Salpenthierchen</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2742.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2742.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2742.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2743</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Scaridium Springer</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2743.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2743.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2743.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2771</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Tardigraden (Lärmthierchen) / Echiniscus</dc:description>
+      <dc:description>CTI: Monte Rosa K30 B6, Himalaya K5 B18</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2771.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2771.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2771.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2783</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Entomostraca Cypris</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2783.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2783.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2783.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2786</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Annulata / Photocharis</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2786.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2786.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2786.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2840</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Akalephen / Medusa aurita</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2840.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2840.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2840.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2851</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Akalephen / Medusa aurita</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2851.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2851.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2851.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2864</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Bryozoen / Sertularia</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2864.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2864.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2864.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2906</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Phytolitharien / A. Poolithe / Lithodontium</dc:description>
+      <dc:description>CTI: Canning R. K1 B5</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2906.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2906.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2906.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2906__1.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2906.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2906__1.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2906__2.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2906.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2906__2.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_2933</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Phytolitharien / A. Poolithe</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_2933.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_2933.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_2933.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+  <rdf:RDF>
+    <edm:ProvidedCHO>
+      <dc:identifier>MfN</dc:identifier>
+      <dc:identifier>MB_ED</dc:identifier>
+      <dc:identifier>MB_ED_3008</dc:identifier>
+      <dc:title>Ehrenberg Drawings</dc:title>
+      <dc:type>Drawing</dc:type>
+      <dc:description>name folder: Wirkungen des polarisirten Lichtes</dc:description>
+    </edm:ProvidedCHO>
+    <edm:WebResource rdf:about="http://coll.mfn-berlin.de/img/MB_ED_3008.jpg">
+      <dc:format>image/jpeg</dc:format>
+      <edm:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+      <europeana:isShownAt>http://coll.mfn-berlin.de/u/MB_ED_3008.html</europeana:isShownAt>
+      <europeana:isShownBy>http://coll.mfn-berlin.de/img/MB_ED_3008.jpg</europeana:isShownBy>
+      <europeana:rights>http://creativecommons.org/licenses/by-sa/3.0/</europeana:rights>
+      <europeana:type>image/jpeg</europeana:type>
+    </edm:WebResource>
+  </rdf:RDF>
+</europeana:metadata>

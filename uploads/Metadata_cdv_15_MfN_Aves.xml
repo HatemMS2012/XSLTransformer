@@ -1,0 +1,1926 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<abcd:DataSets xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06" xmlns:biocase="http://www.biocase.org/schemas/protocol/1.3" xmlns:efg="http://www.synthesys.info/ABCDEFG/1.0">
+      <abcd:DataSet>
+        <abcd:TechnicalContacts>
+          <abcd:TechnicalContact>
+            <abcd:Name>GeoCASE-Team</abcd:Name>
+            <abcd:Email>geocase@mfn-berlin.de</abcd:Email>
+            <abcd:Phone>+49 30 2093 8672</abcd:Phone>
+            <abcd:Address>Museum für Naturkunde Invalidenstraße 43 10115 Berlin Germany</abcd:Address>
+          </abcd:TechnicalContact>
+        </abcd:TechnicalContacts>
+        <abcd:ContentContacts>
+          <abcd:ContentContact>
+            <abcd:Name>Sylke Frahnert</abcd:Name>
+            <abcd:Email>sylke.frahnert@mfn-berlin.de</abcd:Email>
+            <abcd:Phone>+49 30 2093 8512</abcd:Phone>
+            <abcd:Address>Museum für Naturkunde Invalidenstraße 43 10115 Berlin Germany</abcd:Address>
+          </abcd:ContentContact>
+        </abcd:ContentContacts>
+        <abcd:Metadata>
+          <abcd:Description>
+            <abcd:Representation abcd:language="EN EN-US">
+              <abcd:Title>Aves (recent)</abcd:Title>
+            </abcd:Representation>
+          </abcd:Description>
+          <abcd:RevisionData>
+            <abcd:DateModified>2013-06-03 11:18:02</abcd:DateModified>
+          </abcd:RevisionData>
+          <abcd:Owners>
+            <abcd:Owner>
+              <abcd:Organisation>
+                <abcd:Name>
+                  <abcd:Representation abcd:language="DE">
+                    <abcd:Text>Museum für Naturkunde Berlin</abcd:Text>
+                    <abcd:Abbreviation>MfN</abcd:Abbreviation>
+                  </abcd:Representation>
+                </abcd:Name>
+              </abcd:Organisation>
+              <abcd:Person>
+                <abcd:FullName>Sylke Frahnert</abcd:FullName>
+              </abcd:Person>
+              <abcd:Addresses>
+                <abcd:Address>Museum für Naturkunde Invaliden Str. 43 10115 Berlin Deutschland</abcd:Address>
+              </abcd:Addresses>
+              <abcd:TelephoneNumbers>
+                <abcd:TelephoneNumber>
+                  <abcd:Number>+49 30 2093 8512</abcd:Number>
+                  <abcd:Device>voice</abcd:Device>
+                </abcd:TelephoneNumber>
+              </abcd:TelephoneNumbers>
+              <abcd:EmailAddresses>
+                <abcd:EmailAddress>sylke.frahnert@mfn-berlin.de</abcd:EmailAddress>
+              </abcd:EmailAddresses>
+            </abcd:Owner>
+          </abcd:Owners>
+          <abcd:IPRStatements>
+            <abcd:IPRDeclarations>
+              <abcd:IPRDeclaration abcd:language="EN EN-US">
+                <abcd:Text>CC-BY-SA</abcd:Text>
+                <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+              </abcd:IPRDeclaration>
+            </abcd:IPRDeclarations>
+            <abcd:Licenses>
+              <abcd:License abcd:language="EN EN-US">
+                <abcd:Text>CC-BY-SA</abcd:Text>
+                <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+              </abcd:License>
+            </abcd:Licenses>
+          </abcd:IPRStatements>
+        </abcd:Metadata>
+        <abcd:Units>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Aves</abcd:SourceID>
+            <abcd:UnitID>ZMB_Aves_2002_215</abcd:UnitID>
+            <abcd:LastEditor>Christiane Quaisser</abcd:LastEditor>
+            <abcd:DateLastEdited>2003-04-30T09:25:10</abcd:DateLastEdited>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Aves</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Psittacidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Psittacula</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>genusgroup</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Psittaciformes</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Chordata</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Psittacula krameri krameri (Scopoli, 1769)</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Psittacula</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>krameri</abcd:SpeciesEpithet>
+                          <abcd:SubspeciesEpithet>krameri</abcd:SubspeciesEpithet>
+                          <abcd:AuthorTeamParenthesisAndYear>(Scopoli, 1769)</abcd:AuthorTeamParenthesisAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Preserved specimen</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN">Skin</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_2002_215.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_01.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_2002_215.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_02.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_2002_215.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_03.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_2002_215.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:DateTime>
+                <abcd:ISODateTimeBegin>1909-03-19T00:00:00</abcd:ISODateTimeBegin>
+                <abcd:ISODateTimeEnd>1909-03-19T00:00:00</abcd:ISODateTimeEnd>
+              </abcd:DateTime>
+              <abcd:Agents>
+                <abcd:GatheringAgent abcd:primarycollector="1" abcd:sequence="1">
+                  <abcd:Person>
+                    <abcd:FullName>Arthur Berger</abcd:FullName>
+                    <abcd:AtomisedName>
+                      <abcd:InheritedName>Berger</abcd:InheritedName>
+                      <abcd:GivenNames>Arthur</abcd:GivenNames>
+                    </abcd:AtomisedName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:Country>
+                <abcd:Name language="EN">South Sudan</abcd:Name>
+              </abcd:Country>
+              <abcd:NamedAreas>
+                <abcd:NamedArea abcd:sequence="200">
+                  <abcd:AreaClass language="EN">country</abcd:AreaClass>
+                  <abcd:AreaName language="EN">South Sudan</abcd:AreaName>
+                  <abcd:AreaCode>SS</abcd:AreaCode>
+                </abcd:NamedArea>
+                <abcd:NamedArea abcd:sequence="100">
+                  <abcd:AreaClass language="EN">state</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Central Equatoria</abcd:AreaName>
+                </abcd:NamedArea>
+              </abcd:NamedAreas>
+              <abcd:AreaDetail>Gondokoro, White Nile (river)</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:Sex>Female</abcd:Sex>
+            <abcd:Age>adult</abcd:Age>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Aves</abcd:SourceID>
+            <abcd:UnitID>ZMB_Aves_2002_215</abcd:UnitID>
+            <abcd:LastEditor>Christiane Quaisser</abcd:LastEditor>
+            <abcd:DateLastEdited>2003-04-30T09:25:10</abcd:DateLastEdited>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Aves</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Psittacidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Palaeornis</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>genusgroup</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Psittaciformes</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Chordata</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Palaeornis krameri centralis</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Palaeornis</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>krameri</abcd:SpeciesEpithet>
+                          <abcd:SubspeciesEpithet>centralis</abcd:SubspeciesEpithet>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Preserved specimen</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN">Skin</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_2002_215.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_01.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_2002_215.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_02.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_2002_215.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_2002_215__Psittacula_krameri_krameri_03.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_2002_215.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:DateTime>
+                <abcd:ISODateTimeBegin>1909-03-19T00:00:00</abcd:ISODateTimeBegin>
+                <abcd:ISODateTimeEnd>1909-03-19T00:00:00</abcd:ISODateTimeEnd>
+              </abcd:DateTime>
+              <abcd:Agents>
+                <abcd:GatheringAgent abcd:primarycollector="1" abcd:sequence="1">
+                  <abcd:Person>
+                    <abcd:FullName>Arthur Berger</abcd:FullName>
+                    <abcd:AtomisedName>
+                      <abcd:InheritedName>Berger</abcd:InheritedName>
+                      <abcd:GivenNames>Arthur</abcd:GivenNames>
+                    </abcd:AtomisedName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:Country>
+                <abcd:Name language="EN">South Sudan</abcd:Name>
+              </abcd:Country>
+              <abcd:NamedAreas>
+                <abcd:NamedArea abcd:sequence="200">
+                  <abcd:AreaClass language="EN">country</abcd:AreaClass>
+                  <abcd:AreaName language="EN">South Sudan</abcd:AreaName>
+                  <abcd:AreaCode>SS</abcd:AreaCode>
+                </abcd:NamedArea>
+                <abcd:NamedArea abcd:sequence="100">
+                  <abcd:AreaClass language="EN">state</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Central Equatoria</abcd:AreaName>
+                </abcd:NamedArea>
+              </abcd:NamedAreas>
+              <abcd:AreaDetail>Gondokoro, White Nile (river)</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:Sex>Female</abcd:Sex>
+            <abcd:Age>adult</abcd:Age>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Aves</abcd:SourceID>
+            <abcd:UnitID>ZMB_Aves_9171</abcd:UnitID>
+            <abcd:LastEditor>Pascal Eckhoff</abcd:LastEditor>
+            <abcd:DateLastEdited>2005-04-29T17:22:46</abcd:DateLastEdited>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Aves</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Furnariidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Heliobletus</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>genusgroup</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Passeriformes</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Chordata</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Heliobletus contaminatus contaminatus Berlepsch, 1885</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Heliobletus</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>contaminatus</abcd:SpeciesEpithet>
+                          <abcd:SubspeciesEpithet>contaminatus</abcd:SubspeciesEpithet>
+                          <abcd:AuthorTeamOriginalAndYear>Berlepsch, 1885</abcd:AuthorTeamOriginalAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Preserved specimen</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN">Skin</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_01.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_02.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_03.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_04.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_05.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:DateTime>
+                <abcd:DateText>[1818 - 1824]</abcd:DateText>
+              </abcd:DateTime>
+              <abcd:Country>
+                <abcd:Name language="EN">Brazil</abcd:Name>
+              </abcd:Country>
+              <abcd:NamedAreas>
+                <abcd:NamedArea abcd:sequence="200">
+                  <abcd:AreaClass language="EN">country</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Brazil</abcd:AreaName>
+                  <abcd:AreaCode>BR</abcd:AreaCode>
+                </abcd:NamedArea>
+              </abcd:NamedAreas>
+              <abcd:AreaDetail>Brazil</abcd:AreaDetail>
+            </abcd:Gathering>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Aves</abcd:SourceID>
+            <abcd:UnitID>ZMB_Aves_9171</abcd:UnitID>
+            <abcd:LastEditor>Pascal Eckhoff</abcd:LastEditor>
+            <abcd:DateLastEdited>2005-04-29T17:22:46</abcd:DateLastEdited>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Aves</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Furnariidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Anabates</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>genusgroup</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Passeriformes</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Chordata</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Anabates contaminatus</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Anabates</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>contaminatus</abcd:SpeciesEpithet>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Preserved specimen</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN">Skin</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_01.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_02.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_03.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_04.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_9171__Heliobletus_contaminatus_contaminatus_05.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_9171.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:DateTime>
+                <abcd:DateText>[1818 - 1824]</abcd:DateText>
+              </abcd:DateTime>
+              <abcd:Country>
+                <abcd:Name language="EN">Brazil</abcd:Name>
+              </abcd:Country>
+              <abcd:NamedAreas>
+                <abcd:NamedArea abcd:sequence="200">
+                  <abcd:AreaClass language="EN">country</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Brazil</abcd:AreaName>
+                  <abcd:AreaCode>BR</abcd:AreaCode>
+                </abcd:NamedArea>
+              </abcd:NamedAreas>
+              <abcd:AreaDetail>Brazil</abcd:AreaDetail>
+            </abcd:Gathering>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Aves</abcd:SourceID>
+            <abcd:UnitID>ZMB_Aves_10418</abcd:UnitID>
+            <abcd:LastEditor>Pascal Eckhoff</abcd:LastEditor>
+            <abcd:DateLastEdited>2005-02-04T10:00:09</abcd:DateLastEdited>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Aves</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Picidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Dendrocopos</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>genusgroup</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Piciformes</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Chordata</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Dendrocopos syriacus syriacus (Hemprich &amp; Ehrenberg, 1833)</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Dendrocopos</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>syriacus</abcd:SpeciesEpithet>
+                          <abcd:SubspeciesEpithet>syriacus</abcd:SubspeciesEpithet>
+                          <abcd:AuthorTeamParenthesisAndYear>(Hemprich &amp; Ehrenberg, 1833)</abcd:AuthorTeamParenthesisAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Preserved specimen</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN">Skin</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_01.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_02.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_03.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_04.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_06.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:DateTime>
+                <abcd:DateText>05. - 24.07.1824</abcd:DateText>
+              </abcd:DateTime>
+              <abcd:Agents>
+                <abcd:GatheringAgent abcd:primarycollector="1" abcd:sequence="1">
+                  <abcd:Person>
+                    <abcd:FullName>W. Hemprich</abcd:FullName>
+                    <abcd:AtomisedName>
+                      <abcd:InheritedName>Hemprich</abcd:InheritedName>
+                      <abcd:GivenNames>W.</abcd:GivenNames>
+                    </abcd:AtomisedName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+                <abcd:GatheringAgent abcd:primarycollector="1" abcd:sequence="2">
+                  <abcd:Person>
+                    <abcd:FullName>C.G. Ehrenberg</abcd:FullName>
+                    <abcd:AtomisedName>
+                      <abcd:InheritedName>Ehrenberg</abcd:InheritedName>
+                      <abcd:GivenNames>C.G.</abcd:GivenNames>
+                    </abcd:AtomisedName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:Country>
+                <abcd:Name language="EN">Lebanon</abcd:Name>
+              </abcd:Country>
+              <abcd:NamedAreas>
+                <abcd:NamedArea abcd:sequence="200">
+                  <abcd:AreaClass language="EN">country</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Lebanon</abcd:AreaName>
+                  <abcd:AreaCode>LB</abcd:AreaCode>
+                </abcd:NamedArea>
+                <abcd:NamedArea abcd:sequence="100">
+                  <abcd:AreaClass language="EN">state</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Mohafazat Liban-Nord</abcd:AreaName>
+                  <abcd:AreaCode>LB09</abcd:AreaCode>
+                </abcd:NamedArea>
+              </abcd:NamedAreas>
+              <abcd:AreaDetail>Bcharre</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:Age>juvenile</abcd:Age>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Aves</abcd:SourceID>
+            <abcd:UnitID>ZMB_Aves_10418</abcd:UnitID>
+            <abcd:LastEditor>Pascal Eckhoff</abcd:LastEditor>
+            <abcd:DateLastEdited>2005-02-04T10:00:09</abcd:DateLastEdited>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Aves</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Picidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Picus</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>genusgroup</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Piciformes</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Chordata</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Picus syriacus</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Picus</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>syriacus</abcd:SpeciesEpithet>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Preserved specimen</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN">Skin</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_01.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_02.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_03.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_04.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10418__Picus_syriacus_06.dng.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10418.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:DateTime>
+                <abcd:DateText>05. - 24.07.1824</abcd:DateText>
+              </abcd:DateTime>
+              <abcd:Agents>
+                <abcd:GatheringAgent abcd:primarycollector="1" abcd:sequence="1">
+                  <abcd:Person>
+                    <abcd:FullName>W. Hemprich</abcd:FullName>
+                    <abcd:AtomisedName>
+                      <abcd:InheritedName>Hemprich</abcd:InheritedName>
+                      <abcd:GivenNames>W.</abcd:GivenNames>
+                    </abcd:AtomisedName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+                <abcd:GatheringAgent abcd:primarycollector="1" abcd:sequence="2">
+                  <abcd:Person>
+                    <abcd:FullName>C.G. Ehrenberg</abcd:FullName>
+                    <abcd:AtomisedName>
+                      <abcd:InheritedName>Ehrenberg</abcd:InheritedName>
+                      <abcd:GivenNames>C.G.</abcd:GivenNames>
+                    </abcd:AtomisedName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:Country>
+                <abcd:Name language="EN">Lebanon</abcd:Name>
+              </abcd:Country>
+              <abcd:NamedAreas>
+                <abcd:NamedArea abcd:sequence="200">
+                  <abcd:AreaClass language="EN">country</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Lebanon</abcd:AreaName>
+                  <abcd:AreaCode>LB</abcd:AreaCode>
+                </abcd:NamedArea>
+                <abcd:NamedArea abcd:sequence="100">
+                  <abcd:AreaClass language="EN">state</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Mohafazat Liban-Nord</abcd:AreaName>
+                  <abcd:AreaCode>LB09</abcd:AreaCode>
+                </abcd:NamedArea>
+              </abcd:NamedAreas>
+              <abcd:AreaDetail>Bcharre</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:Age>juvenile</abcd:Age>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Aves</abcd:SourceID>
+            <abcd:UnitID>ZMB_Aves_10135</abcd:UnitID>
+            <abcd:LastEditor>Christiane Quaisser</abcd:LastEditor>
+            <abcd:DateLastEdited>2004-05-04T17:13:46</abcd:DateLastEdited>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Aves</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Psittacidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Pyrrhura</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>genusgroup</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Psittaciformes</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Chordata</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Pyrrhura lepida lepida (Wagler, 1832)</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Pyrrhura</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>lepida</abcd:SpeciesEpithet>
+                          <abcd:SubspeciesEpithet>lepida</abcd:SubspeciesEpithet>
+                          <abcd:AuthorTeamParenthesisAndYear>(Wagler, 1832)</abcd:AuthorTeamParenthesisAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Preserved specimen</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN">Skin</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_01.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10135.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_02.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10135.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_03.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10135.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_04.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10135.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:DateTime>
+                <abcd:DateText>[1801 - 1811]</abcd:DateText>
+              </abcd:DateTime>
+              <abcd:Agents>
+                <abcd:GatheringAgent abcd:primarycollector="1" abcd:sequence="1">
+                  <abcd:Person>
+                    <abcd:FullName>Friedrich Wilhelm Sieber</abcd:FullName>
+                    <abcd:AtomisedName>
+                      <abcd:InheritedName>Sieber</abcd:InheritedName>
+                      <abcd:GivenNames>Friedrich Wilhelm</abcd:GivenNames>
+                    </abcd:AtomisedName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:Country>
+                <abcd:Name language="EN">Brazil</abcd:Name>
+              </abcd:Country>
+              <abcd:NamedAreas>
+                <abcd:NamedArea abcd:sequence="200">
+                  <abcd:AreaClass language="EN">country</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Brazil</abcd:AreaName>
+                  <abcd:AreaCode>BR</abcd:AreaCode>
+                </abcd:NamedArea>
+                <abcd:NamedArea abcd:sequence="100">
+                  <abcd:AreaClass language="EN">state</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Estado do Para</abcd:AreaName>
+                  <abcd:AreaCode>BR16</abcd:AreaCode>
+                </abcd:NamedArea>
+              </abcd:NamedAreas>
+              <abcd:AreaDetail>Estado do Pará</abcd:AreaDetail>
+            </abcd:Gathering>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Aves</abcd:SourceID>
+            <abcd:UnitID>ZMB_Aves_10135</abcd:UnitID>
+            <abcd:LastEditor>Christiane Quaisser</abcd:LastEditor>
+            <abcd:DateLastEdited>2004-05-04T17:13:46</abcd:DateLastEdited>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Aves</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Psittacidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Sittace</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>genusgroup</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Psittaciformes</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Chordata</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Sittace lepida</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Sittace</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>lepida</abcd:SpeciesEpithet>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Preserved specimen</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN">Skin</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_01.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10135.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_02.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10135.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_03.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10135.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_10135__Pyrrhura_lepida_lepida_04.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_10135.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:DateTime>
+                <abcd:DateText>[1801 - 1811]</abcd:DateText>
+              </abcd:DateTime>
+              <abcd:Agents>
+                <abcd:GatheringAgent abcd:primarycollector="1" abcd:sequence="1">
+                  <abcd:Person>
+                    <abcd:FullName>Friedrich Wilhelm Sieber</abcd:FullName>
+                    <abcd:AtomisedName>
+                      <abcd:InheritedName>Sieber</abcd:InheritedName>
+                      <abcd:GivenNames>Friedrich Wilhelm</abcd:GivenNames>
+                    </abcd:AtomisedName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:Country>
+                <abcd:Name language="EN">Brazil</abcd:Name>
+              </abcd:Country>
+              <abcd:NamedAreas>
+                <abcd:NamedArea abcd:sequence="200">
+                  <abcd:AreaClass language="EN">country</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Brazil</abcd:AreaName>
+                  <abcd:AreaCode>BR</abcd:AreaCode>
+                </abcd:NamedArea>
+                <abcd:NamedArea abcd:sequence="100">
+                  <abcd:AreaClass language="EN">state</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Estado do Para</abcd:AreaName>
+                  <abcd:AreaCode>BR16</abcd:AreaCode>
+                </abcd:NamedArea>
+              </abcd:NamedAreas>
+              <abcd:AreaDetail>Estado do Pará</abcd:AreaDetail>
+            </abcd:Gathering>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Aves</abcd:SourceID>
+            <abcd:UnitID>ZMB_Aves_31_1934</abcd:UnitID>
+            <abcd:LastEditor>Christiane Quaisser</abcd:LastEditor>
+            <abcd:DateLastEdited>2004-05-03T17:01:00</abcd:DateLastEdited>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Aves</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Psittacidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Pyrrhura</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>genusgroup</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Psittaciformes</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Chordata</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Pyrrhura lepida anerythra (Wagler, 1832)</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Pyrrhura</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>lepida</abcd:SpeciesEpithet>
+                          <abcd:SubspeciesEpithet>anerythra</abcd:SubspeciesEpithet>
+                          <abcd:AuthorTeamParenthesisAndYear>(Wagler, 1832)</abcd:AuthorTeamParenthesisAndYear>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Preserved specimen</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN">Skin</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_01.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_31_1934.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_02.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_31_1934.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_03.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_31_1934.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_04.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_31_1934.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:DateTime>
+                <abcd:ISODateTimeBegin>1912-10-17T00:00:00</abcd:ISODateTimeBegin>
+                <abcd:ISODateTimeEnd>1912-10-17T00:00:00</abcd:ISODateTimeEnd>
+              </abcd:DateTime>
+              <abcd:Agents>
+                <abcd:GatheringAgent abcd:primarycollector="1" abcd:sequence="1">
+                  <abcd:Person>
+                    <abcd:FullName>Francisco de Queiroz Lima</abcd:FullName>
+                    <abcd:AtomisedName>
+                      <abcd:InheritedName>Lima</abcd:InheritedName>
+                      <abcd:GivenNames>Francisco de Queiroz</abcd:GivenNames>
+                    </abcd:AtomisedName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:Country>
+                <abcd:Name language="EN">Brazil</abcd:Name>
+              </abcd:Country>
+              <abcd:NamedAreas>
+                <abcd:NamedArea abcd:sequence="200">
+                  <abcd:AreaClass language="EN">country</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Brazil</abcd:AreaName>
+                  <abcd:AreaCode>BR</abcd:AreaCode>
+                </abcd:NamedArea>
+                <abcd:NamedArea abcd:sequence="100">
+                  <abcd:AreaClass language="EN">state</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Estado do Para</abcd:AreaName>
+                  <abcd:AreaCode>BR16</abcd:AreaCode>
+                </abcd:NamedArea>
+              </abcd:NamedAreas>
+              <abcd:AreaDetail>Arumatheua, Tocantins (river)</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:CollectorsFieldNumber>94</abcd:CollectorsFieldNumber>
+            <abcd:Sex>Male</abcd:Sex>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Aves</abcd:SourceID>
+            <abcd:UnitID>ZMB_Aves_31_1934</abcd:UnitID>
+            <abcd:LastEditor>Christiane Quaisser</abcd:LastEditor>
+            <abcd:DateLastEdited>2004-05-03T17:01:00</abcd:DateLastEdited>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Aves</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Psittacidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Pyrrhura</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>genusgroup</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Psittaciformes</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Chordata</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Pyrrhura perlata anerythra</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Pyrrhura</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>perlata</abcd:SpeciesEpithet>
+                          <abcd:SubspeciesEpithet>anerythra</abcd:SubspeciesEpithet>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Preserved specimen</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN">Skin</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_01.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_31_1934.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_02.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_31_1934.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_03.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_31_1934.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_31_1934__Pyrrhura_lepida_anerythra_04.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_31_1934.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:DateTime>
+                <abcd:ISODateTimeBegin>1912-10-17T00:00:00</abcd:ISODateTimeBegin>
+                <abcd:ISODateTimeEnd>1912-10-17T00:00:00</abcd:ISODateTimeEnd>
+              </abcd:DateTime>
+              <abcd:Agents>
+                <abcd:GatheringAgent abcd:primarycollector="1" abcd:sequence="1">
+                  <abcd:Person>
+                    <abcd:FullName>Francisco de Queiroz Lima</abcd:FullName>
+                    <abcd:AtomisedName>
+                      <abcd:InheritedName>Lima</abcd:InheritedName>
+                      <abcd:GivenNames>Francisco de Queiroz</abcd:GivenNames>
+                    </abcd:AtomisedName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:Country>
+                <abcd:Name language="EN">Brazil</abcd:Name>
+              </abcd:Country>
+              <abcd:NamedAreas>
+                <abcd:NamedArea abcd:sequence="200">
+                  <abcd:AreaClass language="EN">country</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Brazil</abcd:AreaName>
+                  <abcd:AreaCode>BR</abcd:AreaCode>
+                </abcd:NamedArea>
+                <abcd:NamedArea abcd:sequence="100">
+                  <abcd:AreaClass language="EN">state</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Estado do Para</abcd:AreaName>
+                  <abcd:AreaCode>BR16</abcd:AreaCode>
+                </abcd:NamedArea>
+              </abcd:NamedAreas>
+              <abcd:AreaDetail>Arumatheua, Tocantins (river)</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:CollectorsFieldNumber>94</abcd:CollectorsFieldNumber>
+            <abcd:Sex>Male</abcd:Sex>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Aves</abcd:SourceID>
+            <abcd:UnitID>ZMB_Aves_49_257</abcd:UnitID>
+            <abcd:LastEditor>Carlos Sanchez</abcd:LastEditor>
+            <abcd:DateLastEdited>2005-05-26T10:55:54</abcd:DateLastEdited>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Aves</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Nectariniidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Cinnyris</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>genusgroup</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Passeriformes</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Chordata</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Cinnyris manoensis manoensis</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Cinnyris</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>manoensis</abcd:SpeciesEpithet>
+                          <abcd:SubspeciesEpithet>manoensis</abcd:SubspeciesEpithet>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Preserved specimen</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN">Skin</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_a.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_49_257.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_b.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_49_257.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_c.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_49_257.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_d.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_49_257.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:DateTime>
+                <abcd:ISODateTimeBegin>1900-08-05T00:00:00</abcd:ISODateTimeBegin>
+                <abcd:ISODateTimeEnd>1900-08-05T00:00:00</abcd:ISODateTimeEnd>
+              </abcd:DateTime>
+              <abcd:Agents>
+                <abcd:GatheringAgent abcd:primarycollector="1" abcd:sequence="1">
+                  <abcd:Person>
+                    <abcd:FullName>N. Stierling</abcd:FullName>
+                    <abcd:AtomisedName>
+                      <abcd:InheritedName>Stierling</abcd:InheritedName>
+                      <abcd:GivenNames>N.</abcd:GivenNames>
+                    </abcd:AtomisedName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:Country>
+                <abcd:Name language="EN">Tanzania</abcd:Name>
+              </abcd:Country>
+              <abcd:NamedAreas>
+                <abcd:NamedArea abcd:sequence="200">
+                  <abcd:AreaClass language="EN">country</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Tanzania</abcd:AreaName>
+                  <abcd:AreaCode>TZ</abcd:AreaCode>
+                </abcd:NamedArea>
+                <abcd:NamedArea abcd:sequence="100">
+                  <abcd:AreaClass language="EN">state</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Ruvuma</abcd:AreaName>
+                </abcd:NamedArea>
+              </abcd:NamedAreas>
+              <abcd:AreaDetail>Songea</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:CollectorsFieldNumber>139</abcd:CollectorsFieldNumber>
+            <abcd:Sex>Male</abcd:Sex>
+            <abcd:Age>adult</abcd:Age>
+          </abcd:Unit>
+          <abcd:Unit>
+            <abcd:SourceInstitutionID>MfN</abcd:SourceInstitutionID>
+            <abcd:SourceID>ZMB_Aves</abcd:SourceID>
+            <abcd:UnitID>ZMB_Aves_49_257</abcd:UnitID>
+            <abcd:LastEditor>Carlos Sanchez</abcd:LastEditor>
+            <abcd:DateLastEdited>2005-05-26T10:55:54</abcd:DateLastEdited>
+            <abcd:Identifications>
+              <abcd:Identification>
+                <abcd:Result>
+                  <abcd:TaxonIdentified>
+                    <abcd:HigherTaxa>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Aves</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>class</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Nectariniidae</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>family</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Cinnyris</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>genusgroup</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Animalia</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>kingdom</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Passeriformes</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>order</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                      <abcd:HigherTaxon>
+                        <abcd:HigherTaxonName>Chordata</abcd:HigherTaxonName>
+                        <abcd:HigherTaxonRank>phylum</abcd:HigherTaxonRank>
+                      </abcd:HigherTaxon>
+                    </abcd:HigherTaxa>
+                    <abcd:ScientificName>
+                      <abcd:FullScientificNameString>Cinnyris chalybeus gertrudis</abcd:FullScientificNameString>
+                      <abcd:NameAtomised>
+                        <abcd:Zoological>
+                          <abcd:GenusOrMonomial>Cinnyris</abcd:GenusOrMonomial>
+                          <abcd:SpeciesEpithet>chalybeus</abcd:SpeciesEpithet>
+                          <abcd:SubspeciesEpithet>gertrudis</abcd:SubspeciesEpithet>
+                        </abcd:Zoological>
+                      </abcd:NameAtomised>
+                    </abcd:ScientificName>
+                  </abcd:TaxonIdentified>
+                </abcd:Result>
+              </abcd:Identification>
+            </abcd:Identifications>
+            <abcd:RecordBasis>Preserved specimen</abcd:RecordBasis>
+            <abcd:SpecimenUnit>
+              <abcd:Preparations>
+                <abcd:Preparation>
+                  <abcd:PreparationType language="EN">Skin</abcd:PreparationType>
+                </abcd:Preparation>
+              </abcd:Preparations>
+            </abcd:SpecimenUnit>
+            <abcd:MultiMediaObjects>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_a.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_49_257.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_b.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_49_257.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_c.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_49_257.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+              <abcd:MultiMediaObject>
+                <abcd:FileURI>http://coll.mfn-berlin.de/img/ZMB_Aves_49_257__Cinnyris manoensis manoensis_d.tif.jpg</abcd:FileURI>
+                <abcd:ProductURI>http://coll.mfn-berlin.de/u/ZMB_Aves_49_257.html</abcd:ProductURI>
+                <abcd:Format>image/jpeg</abcd:Format>
+                <abcd:IPR>
+                  <abcd:Licenses>
+                    <abcd:License abcd:language="EN-US">
+                      <abcd:Text>CC-BY-SA</abcd:Text>
+                      <abcd:Details>Creative Commons Attribution-Share Alike</abcd:Details>
+                      <abcd:URI>http://creativecommons.org/licenses/by-sa/3.0/</abcd:URI>
+                    </abcd:License>
+                  </abcd:Licenses>
+                </abcd:IPR>
+              </abcd:MultiMediaObject>
+            </abcd:MultiMediaObjects>
+            <abcd:Gathering>
+              <abcd:DateTime>
+                <abcd:ISODateTimeBegin>1900-08-05T00:00:00</abcd:ISODateTimeBegin>
+                <abcd:ISODateTimeEnd>1900-08-05T00:00:00</abcd:ISODateTimeEnd>
+              </abcd:DateTime>
+              <abcd:Agents>
+                <abcd:GatheringAgent abcd:primarycollector="1" abcd:sequence="1">
+                  <abcd:Person>
+                    <abcd:FullName>N. Stierling</abcd:FullName>
+                    <abcd:AtomisedName>
+                      <abcd:InheritedName>Stierling</abcd:InheritedName>
+                      <abcd:GivenNames>N.</abcd:GivenNames>
+                    </abcd:AtomisedName>
+                  </abcd:Person>
+                </abcd:GatheringAgent>
+              </abcd:Agents>
+              <abcd:Country>
+                <abcd:Name language="EN">Tanzania</abcd:Name>
+              </abcd:Country>
+              <abcd:NamedAreas>
+                <abcd:NamedArea abcd:sequence="200">
+                  <abcd:AreaClass language="EN">country</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Tanzania</abcd:AreaName>
+                  <abcd:AreaCode>TZ</abcd:AreaCode>
+                </abcd:NamedArea>
+                <abcd:NamedArea abcd:sequence="100">
+                  <abcd:AreaClass language="EN">state</abcd:AreaClass>
+                  <abcd:AreaName language="EN">Ruvuma</abcd:AreaName>
+                </abcd:NamedArea>
+              </abcd:NamedAreas>
+              <abcd:AreaDetail>Songea</abcd:AreaDetail>
+            </abcd:Gathering>
+            <abcd:CollectorsFieldNumber>139</abcd:CollectorsFieldNumber>
+            <abcd:Sex>Male</abcd:Sex>
+            <abcd:Age>adult</abcd:Age>
+          </abcd:Unit>
+        </abcd:Units>
+      </abcd:DataSet>
+    </abcd:DataSets>
